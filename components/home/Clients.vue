@@ -3,10 +3,10 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-12 text-center">
-          <h4 class="sub_title">our clients</h4>
-          <h2 class="sec_title">they trust us</h2>
+          <h4 class="sub_title">Nos clients</h4>
+          <h2 class="sec_title">Ils croient en nous</h2>
           <p class="sec_desc">
-            We are committed to providing our customers with exceptional service while<br> offering our employees the best training.
+            Nous nous engageons à fournir à nos clients un service exceptionnel <br> tout en offrant à nos employés la meilleure formation.
           </p>
         </div>
       </div>

@@ -3,10 +3,10 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-12 text-center">
-          <h4 class="sub_title">our portfolio</h4>
-          <h2 class="sec_title">work showcase</h2>
+          <h4 class="sub_title">Nos réalisations</h4>
+          <h2 class="sec_title">Vitrine de travail</h2>
           <p class="sec_desc">
-            We are committed to providing our customers with exceptional service while<br> offering our employees the best training.
+            Nous nous engageons à fournir à nos clients un service exceptionnel <br> tout en offrant à nos employés la meilleure formation.
           </p>
         </div>
       </div>

@@ -3,10 +3,10 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-12 text-center">
-          <h4 class="sub_title">how do we works</h4>
-          <h2 class="sec_title">Digital Experience</h2>
+          <h4 class="sub_title">Comment travaillons nous ?</h4>
+          <h2 class="sec_title">Expérience Digitale</h2>
           <p class="sec_desc">
-            We are committed to providing our customers with exceptional service while<br> offering our employees the best training.
+            Nous nous engageons à fournir à nos clients un service exceptionnel <br> tout en offrant à nos employés la meilleure formation.
           </p>
         </div>
       </div>
@@ -16,7 +16,7 @@
             <img src="/images/home_1/3.jpg" alt="">
             <div class="play_video">
               <a class="video_popup" href="https://www.youtube.com/watch?v=A7ZkZazfvao"><i class="fa fa-play"></i></a>
-              <h2>Watch Video</h2>
+              <h2>Voir la Video</h2>
             </div>
           </div>
         </div>
