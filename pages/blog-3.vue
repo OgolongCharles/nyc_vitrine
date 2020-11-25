@@ -15,7 +15,7 @@
     },
     head(){
       return {
-        title: "Meipaly | Blog V3"
+        title: "NYNE CORP | Blog V3"
       }
     }
   }

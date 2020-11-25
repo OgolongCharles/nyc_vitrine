@@ -50,7 +50,7 @@
     },
     head(){
       return {
-        title: "Meipaly | Home V3"
+        title: "NYNE CORP | Home V3"
       }
     }
   }

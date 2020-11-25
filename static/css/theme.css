@@ -61,7 +61,7 @@ License URI:
     padding: 0 0 39px;
 }
 .logo img{
-    max-width: 100%;
+    max-width: 50%;
     height: auto;
 }
 .mainmenu{
@@ -1117,7 +1117,7 @@ a.slider-one__text {
     text-transform: uppercase;
 }
 .singlefolio .folioHover h4 a{
-    color: #fff;    
+    color: #fff;
     transition: all ease 400ms;
     -webkit-transition: all ease 400ms;
     -moz-transition: all ease 400ms;
@@ -2669,7 +2669,7 @@ a.slider-one__text {
 /*----------------------------------------------------
 / 24. Blog Page
 ------------------------------------------------------*/
-.meipaly_paginations a, 
+.meipaly_paginations a,
 .meipaly_paginations span {
     position: relative;
     display: inline-block;
@@ -2692,7 +2692,7 @@ a.slider-one__text {
     padding: 12px 0;
     margin: 0 2px;
 }
-.meipaly_paginations a:after, 
+.meipaly_paginations a:after,
 .meipaly_paginations span:after{
     width: 4px;
     height: 0;
@@ -2712,13 +2712,13 @@ a.slider-one__text {
     right: auto;
     left: 0;
 }
-.meipaly_paginations a:hover:after, 
+.meipaly_paginations a:hover:after,
 .meipaly_paginations span.current:after{
     height: 100%;
     visibility: visible;
     opacity: 1;
 }
-.meipaly_paginations a:hover, 
+.meipaly_paginations a:hover,
 .meipaly_paginations span.current{
     color: #fff;
     background: #000;
@@ -3590,14 +3590,14 @@ textarea.input-form:focus{
     transform: translateY(0px);
 }
 .dl-menu__wrap .dl-menu.dl-subview li,
-.dl-menu__wrap .dl-menu.dl-subview li.dl-subviewopen > a, 
+.dl-menu__wrap .dl-menu.dl-subview li.dl-subviewopen > a,
 .dl-menu__wrap .dl-menu.dl-subview li.dl-subview > a {
     display: none;
 }
-.dl-menu__wrap .dl-menu.dl-subview li.dl-subview, 
-.dl-menu__wrap .dl-menu.dl-subview li.dl-subview .dl-submenu, 
-.dl-menu__wrap .dl-menu.dl-subview li.dl-subviewopen, 
-.dl-menu__wrap .dl-menu.dl-subview li.dl-subviewopen > 
+.dl-menu__wrap .dl-menu.dl-subview li.dl-subview,
+.dl-menu__wrap .dl-menu.dl-subview li.dl-subview .dl-submenu,
+.dl-menu__wrap .dl-menu.dl-subview li.dl-subviewopen,
+.dl-menu__wrap .dl-menu.dl-subview li.dl-subviewopen >
 .dl-submenu, .dl-menu__wrap .dl-menu.dl-subview li.dl-subviewopen > .dl-submenu > li {
     display: block;
 }

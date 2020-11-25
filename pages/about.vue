@@ -29,7 +29,7 @@
     },
     head(){
       return {
-        title: "Meipaly | About Us"
+        title: "NYNE CORP | A Propos"
       }
     }
   }

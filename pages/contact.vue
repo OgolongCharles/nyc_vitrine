@@ -21,7 +21,7 @@
     },
     head(){
       return {
-        title: "Meipaly | Contact"
+        title: "NYNE CORP | Contact"
       }
     }
   }

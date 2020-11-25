@@ -19,7 +19,7 @@
     },
     head(){
       return {
-        title: "Meipaly | Service Detail"
+        title: "NYNE CORP | Service Detail"
       }
     }
   }

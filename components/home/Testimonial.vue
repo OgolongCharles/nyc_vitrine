@@ -5,9 +5,9 @@
         <div class="col-lg-10 col-lg-offset-1 col-sm-12 text-center">
           <div class="testimonial_content">
             <div class="testi_icon"><i class="mei-team"></i></div>
-            <h2>Great things in business are never done by one person. <span>They’re done by a team of people.</span></h2>
+            <h2>Les grandes choses en affaires ne sont jamais faites par une seule personne. <span> Ils sont réalisés par une équipe de personnes.</span></h2>
             <p>
-              We are committed to providing our customers with exceptional service while<br> offering our employees the best training.
+              Nous nous engageons à fournir à nos clients un service exceptionnel tout en <br> offrant à nos employés la meilleure formation.
             </p>
           </div>
         </div>

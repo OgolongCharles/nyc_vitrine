@@ -49,7 +49,7 @@
     },
     head(){
       return {
-        title: "Meipaly | Home 2"
+        title: "NYNE CORP | Home 2"
       }
     }
   }

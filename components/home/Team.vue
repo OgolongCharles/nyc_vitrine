@@ -3,10 +3,10 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-12 text-center">
-          <h4 class="sub_title">meet the team</h4>
-          <h2 class="sec_title">expert people</h2>
+          <h4 class="sub_title">L'équipe NYNE CORP</h4>
+          <h2 class="sec_title">Les experts à votre disposition</h2>
           <p class="sec_desc">
-            We are committed to providing our customers with exceptional service while<br> offering our employees the best training.
+            Nous nous engageons à fournir à nos clients un service exceptionnel tout en <br> offrant à nos employés la meilleure formation.
           </p>
         </div>
       </div>
@@ -25,8 +25,8 @@
           </div>
         </div>
         <div class="detail_TM">
-          <h5>kevin smith</h5>
-          <h6>co founder</h6>
+          <h5>Evariste Guimkeng</h5>
+          <h6>Senior Tester</h6>
         </div>
       </div>
       <div class="singleTM">
@@ -42,7 +42,7 @@
           </div>
         </div>
         <div class="detail_TM">
-          <h5>Jessica Brown</h5>
+          <h5>Lenine Djouatsa</h5>
           <h6>General Manager</h6>
         </div>
       </div>
@@ -59,8 +59,8 @@
           </div>
         </div>
         <div class="detail_TM">
-          <h5>Mike Hardson</h5>
-          <h6>Senior Designer</h6>
+          <h5>Rock Well MOMO</h5>
+          <h6>Senior Developer</h6>
         </div>
       </div>
       <div class="singleTM">
@@ -76,8 +76,8 @@
           </div>
         </div>
         <div class="detail_TM">
-          <h5>Rose Ford</h5>
-          <h6>Marketing manager</h6>
+          <h5>Boresse Temgoua</h5>
+          <h6>Senior Designer</h6>
         </div>
       </div>
       <div class="singleTM">
@@ -93,8 +93,8 @@
           </div>
         </div>
         <div class="detail_TM">
-          <h5>John Albert</h5>
-          <h6>Brand Officer</h6>
+          <h5>Charles Ferdinang Ogolong</h5>
+          <h6>Senior developer</h6>
         </div>
       </div>
     </div>

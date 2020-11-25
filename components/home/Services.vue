@@ -3,10 +3,10 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-12 text-center">
-          <h4 class="sub_title red_color">Services we are offering</h4>
-          <h2 class="sec_title white">We design digital products that<br> help grow businesses.</h2>
+          <h4 class="sub_title red_color">Nos services</h4>
+          <h2 class="sec_title white">Nous concevons des produits numériques qui <br> aident à développer les entreprises.</h2>
           <p class="sec_desc color_aaa">
-            We are committed to providing our customers with exceptional service<br> while offering our employees the best training.
+            Nous nous engageons à fournir à nos clients un service exceptionnel <br> tout en offrant à nos employés la meilleure formation.
           </p>
         </div>
       </div>
@@ -16,11 +16,11 @@
             <div class="flipper">
               <div class="front">
                 <i class="mei-web-design"></i>
-                <h3>Website Development</h3>
+                <h3>Développement Web</h3>
               </div>
               <div class="back">
                 <i class="mei-web-design"></i>
-                <h3>Website Development</h3>
+                <h3>Développement Web</h3>
               </div>
             </div>
           </nuxt-link>
@@ -30,11 +30,11 @@
             <div class="flipper">
               <div class="front">
                 <i class="mei-computer-graphic"></i>
-                <h3>Graphic Designing</h3>
+                <h3>Conception Graphique</h3>
               </div>
               <div class="back">
                 <i class="mei-computer-graphic"></i>
-                <h3>Graphic Designing</h3>
+                <h3>Conception Graphique</h3>
               </div>
             </div>
           </nuxt-link>
@@ -44,11 +44,11 @@
             <div class="flipper">
               <div class="front">
                 <i class="mei-development-1"></i>
-                <h3>Digital Marketing</h3>
+                <h3>Marketing Digital</h3>
               </div>
               <div class="back">
                 <i class="mei-development-1"></i>
-                <h3>Digital Marketing</h3>
+                <h3>Marketing Digital</h3>
               </div>
             </div>
           </nuxt-link>
@@ -58,11 +58,11 @@
             <div class="flipper">
               <div class="front">
                 <i class="mei-development"></i>
-                <h3>SEo & Content Writing</h3>
+                <h3>Automatisation de Tests</h3>
               </div>
               <div class="back">
                 <i class="mei-development"></i>
-                <h3>SEo & Content Writing</h3>
+                <h3>Automatisation de Tests</h3>
               </div>
             </div>
           </nuxt-link>
@@ -72,11 +72,11 @@
             <div class="flipper">
               <div class="front">
                 <i class="mei-app-development"></i>
-                <h3>App Development</h3>
+                <h3>Developpement Applicatif</h3>
               </div>
               <div class="back">
                 <i class="mei-app-development"></i>
-                <h3>App Development</h3>
+                <h3>Developpement Applicatif</h3>
               </div>
             </div>
           </nuxt-link>

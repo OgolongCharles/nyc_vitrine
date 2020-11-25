@@ -15,17 +15,17 @@
               <nav class="mainmenu text-center">
                 <ul>
                   <li class="menu-item-has-children">
-                    <a href="/">Home</a>
+                    <a href="/">Accueil</a>
                     <ul class="sub-menu">
-                      <li><nuxt-link to="/">Home 01</nuxt-link></li>
-                      <li><nuxt-link to="/index-2">Home 02</nuxt-link></li>
-                      <li><nuxt-link to="/index-3">Home 03</nuxt-link></li>
+                      <li><nuxt-link to="/">Software Testing</nuxt-link></li>
+                      <li><nuxt-link to="/index-2">Développement </nuxt-link></li>
+                      <li><nuxt-link to="/index-3">Web Design</nuxt-link></li>
                     </ul>
                   </li>
-                  <li><nuxt-link to="/about">About</nuxt-link></li>
+                  <li><nuxt-link to="/about">A propos</nuxt-link></li>
                   <li class="menu-item-has-children"><nuxt-link to="/services">Services</nuxt-link>
                     <ul class="sub-menu">
-                      <li><nuxt-link to="/service-detail">Service Detail</nuxt-link></li>
+                      <li><nuxt-link to="/service-detail">Services</nuxt-link></li>
                     </ul>
                   </li>
                   <li class="menu-item-has-children"><nuxt-link to="/portfolio">Portfolio</nuxt-link>

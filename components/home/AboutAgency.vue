@@ -3,14 +3,14 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-6 col-sm-6 col-md-6 PR_79">
-          <h4 class="sub_title">welcom to smart meipaly web agency</h4>
-          <h2 class="sec_title MB_45">We are the Best Website agency in The World</h2>
+          <h4 class="sub_title">Bienvenue à l'agence web smart NYNE CORP</h4>
+          <h2 class="sec_title MB_45">Nous souhaitons devenir la meilleure agence Web au monde</h2>
           <p class="sec_desc">
-            We are committed to providing our customers with exceptional service while offering our employees the best training.
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry has been the
-            industry's standard dummy text ever since the 1500s.
+            Nous nous engageons à fournir à nos clients un service exceptionnel tout en offrant à nos employés la meilleure formation.
+            Nous vous accompagnons dans vos projets quelque soit l'endroit où vous vous trouvez et où nous nous trouvons.
+            Nous allions , Professionnalisme , compétences et commerce équitable à moindre coûts.
           </p>
-          <a class="common_btn red_bg" href="#"><span>Learn More</span></a>
+          <a class="common_btn red_bg" href="#"><span>En savoir plus</span></a>
         </div>
         <div class="col-lg-6 col-sm-6 col-md-6">
           <div class="ab_img1">

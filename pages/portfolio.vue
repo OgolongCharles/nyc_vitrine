@@ -14,7 +14,7 @@
     },
     head(){
       return {
-        title: "Meipaly | Portfolio"
+        title: "NYNE CORP | Portfolio"
       }
     }
   }

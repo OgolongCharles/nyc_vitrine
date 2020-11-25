@@ -4,9 +4,9 @@
     <div class="slider-one__carousel owl-carousel owl-theme">
       <div class="item slider-one__slider-1" style="background-image: url(/images/slider/1_1.jpg);">
         <div class="container slider__content">
-          <p class="slider-one__text">WELCOME TO MEIPALY AGENCY</p>
+          <p class="slider-one__text">Bienvenu à l'agence NYNE CORP</p>
           <div class="slider-one__title tp-caption tp-resizeme">SMART WEB<br> DESIGN AGENCY.</div>
-          <a href="#" class="common_btn"><span>DISCOVER MORE</span></a>
+          <a href="#" class="common_btn"><span>Découvrir plus</span></a>
           <!-- /.slider-one__text -->
         </div>
         <!-- /.container -->
@@ -14,9 +14,9 @@
       <!-- /.item -->
       <div class="item slider-one__slider-2" style="background-image: url(/images/slider/1_2.jpg);">
         <div class="container slider__content">
-          <p class="slider-one__text">WELCOME TO MEIPALY AGENCY</p>
+          <p class="slider-one__text">Bienvenu à l'agence NYNE CORP</p>
           <div class="slider-one__title tp-caption tp-resizeme">SMART WEB<br> DESIGN AGENCY.</div>
-          <a href="#" class="common_btn"><span>DISCOVER MORE</span></a>
+          <a href="#" class="common_btn"><span>Découvrir plus</span></a>
         </div>
         <!-- /.container -->
       </div>

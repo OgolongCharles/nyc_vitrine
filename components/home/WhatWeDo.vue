@@ -23,13 +23,13 @@
       </div>
       <div class="row">
         <div class="col-lg-4 col-sm-5 col-md-4">
-          <h4 class="sub_title">don’t miss out our latest updates</h4>
-          <h2 class="sec_title">Subscribe us</h2>
+          <h4 class="sub_title">Ne manquez pas nos dernières mises à jour</h4>
+          <h2 class="sec_title">Suivez-nous</h2>
         </div>
         <div class="col-lg-8 col-sm-7 col-md-8">
           <form action="" method="post" class="subscribefrom">
-            <input type="email" placeholder="Enter your email" name="email">
-            <button class="common_btn red_bg" type="submit" name="submit"><span>Subscribe now</span></button>
+            <input type="email" placeholder="Entrez votre mail" name="email">
+            <button class="common_btn red_bg" type="submit" name="submit"><span>Abonnez-vous</span></button>
           </form>
         </div>
       </div>
