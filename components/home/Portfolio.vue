@@ -13,7 +13,7 @@
       <div class="row">
         <div class="col-lg-4 col-sm-6 col-md-4">
           <div class="singlefolio">
-            <img src="/images/portfolio/1.jpg" alt=""/>
+            <img src="/images/portfolio/9.png" alt=""/>
             <div class="folioHover">
               <a class="cate" href="#">Graphic</a>
               <h4><nuxt-link to="/portfolio-detail">Design Styles</nuxt-link></h4>
@@ -22,28 +22,28 @@
         </div>
         <div class="col-lg-4 col-sm-6 col-md-4">
           <div class="singlefolio">
-            <img src="/images/portfolio/2.jpg" alt=""/>
+            <img src="/images/portfolio/12.png" alt=""/>
             <div class="folioHover">
-              <a class="cate" href="#">Graphic</a>
-              <h4><nuxt-link to="/portfolio-detail">Design Styles</nuxt-link></h4>
+              <a class="cate" href="#">Développement Web</a>
+              <h4><nuxt-link to="/portfolio-detail">Vitrine Batiservice</nuxt-link></h4>
             </div>
           </div>
         </div>
         <div class="col-lg-4 col-sm-6 col-md-4">
           <div class="singlefolio">
-            <img src="/images/portfolio/3.jpg" alt=""/>
+            <img src="/images/portfolio/11.png" alt=""/>
             <div class="folioHover">
-              <a class="cate" href="#">Graphic</a>
-              <h4><nuxt-link to="/portfolio-detail">Design Styles</nuxt-link></h4>
+              <a class="cate" href="#">Community Management </a>
+              <h4><nuxt-link to="/portfolio-detail">CEF IMMO FINANZ</nuxt-link></h4>
             </div>
           </div>
         </div>
         <div class="col-lg-4 col-sm-6 col-md-4">
           <div class="singlefolio">
-            <img src="/images/portfolio/4.jpg" alt=""/>
+            <img src="/images/portfolio/10.png" alt=""/>
             <div class="folioHover">
-              <a class="cate" href="#">Graphic</a>
-              <h4><nuxt-link to="/portfolio-detail">Design Styles</nuxt-link></h4>
+              <a class="cate" href="#">Community Management </a>
+              <h4><nuxt-link to="/portfolio-detail">YAMO AFRICA</nuxt-link></h4>
             </div>
           </div>
         </div>

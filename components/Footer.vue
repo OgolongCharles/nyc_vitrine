@@ -23,16 +23,33 @@
               95800 Cergy , France
             </p>
             <p>P: +33 6 16 63 42 37</p>
-            <p>E: <a href="#">nkap2018@gmail.com</a></p>
+            <p>E: <a href="#">info@nynecorp.org</a></p>
           </aside>
         </div>
         <div class="col-lg-3 col-sm-2 col-md-3">
           <aside class="widget social_widget">
             <h3 class="widget_title">Social</h3>
             <ul>
-              <li><a href="#"><i class="fa fa-twitter"></i>Twitter</a></li>
-              <li><a href="#"><i class="fa fa-facebook-square"></i>Facebook</a></li>
-              <li><a href="#"><i class="fa fa-youtube-play"></i>Youtube</a></li>
+              <li>
+                <a href="https://twitter.com/NyneCorp" target="_blank">
+                <i class="fa fa-twitter"></i>Twitter</a>
+              </li>
+              <li>
+                <a href="https://www.facebook.com/nynecorp", target="_blank">
+                <i class="fa fa-facebook-square"></i>Facebook</a>
+              </li>
+              <li>
+                <a href="https://www.linkedin.com/company/nyne-corp", target="_blank">
+                  <i class="fa fa-linkedin-square"></i>LinkedIn</a>
+              </li>
+              <li>
+                <a href="https://www.youtube.com/channel/UCgEIs7eD-ofr1aFlFhU0rJQ/?guided_help_flow=5" target="_blank">
+                <i class="fa fa-youtube-play"></i>Youtube</a>
+              </li>
+              <li>
+                <a href="https://www.instagram.com/nynecorps" target="_blank">
+                  <i class="fa fa-instagram"></i>Instagram</a>
+              </li>
             </ul>
           </aside>
         </div>

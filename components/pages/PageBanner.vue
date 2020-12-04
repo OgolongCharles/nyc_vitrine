@@ -1,5 +1,5 @@
 <template>
-  <section class="pageBanner">
+  <section v-bind:class="'pageBanner ' + bannerCss">
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
@@ -18,6 +18,9 @@
       name: "PageBanner",
       props: {
         pageTitle: {
+          type: String
+        },
+        bannerCss: {
           type: String
         }
       }

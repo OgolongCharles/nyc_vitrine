@@ -3,8 +3,8 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-12 text-center">
-          <h4 class="sub_title">our news & articles</h4>
-          <h2 class="sec_title">latest blog posts</h2>
+          <h4 class="sub_title">News & Articles</h4>
+          <h2 class="sec_title">Derniers posts</h2>
           <p class="sec_desc">
             Nous nous engageons à fournir à nos clients un service exceptionnel <br> tout en offrant à nos employés la meilleure formation.
           </p>

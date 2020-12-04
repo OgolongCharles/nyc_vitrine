@@ -31,7 +31,7 @@
       </div>
       <div class="singleTM">
         <div class="tm_img">
-          <img src="/images/team/2.jpg" alt="">
+          <img src="/images/team/0.jpg" alt="">
           <div class="tm_overlay">
             <div class="team_social">
               <a href="#"><span>Facebook</span></a>
@@ -48,7 +48,7 @@
       </div>
       <div class="singleTM">
         <div class="tm_img">
-          <img src="/images/team/3.jpg" alt="">
+          <img src="/images/team/7.png" alt="">
           <div class="tm_overlay">
             <div class="team_social">
               <a href="#"><span>Facebook</span></a>
@@ -65,7 +65,7 @@
       </div>
       <div class="singleTM">
         <div class="tm_img">
-          <img src="/images/team/4.jpg" alt="">
+          <img src="/images/team/6.png" alt="">
           <div class="tm_overlay">
             <div class="team_social">
               <a href="#"><span>Facebook</span></a>

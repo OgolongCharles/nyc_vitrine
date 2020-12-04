@@ -15,42 +15,42 @@
           <div class="client_slider">
             <div class="singleClient">
               <a href="#">
-                <img src="/images/client/1.png" alt=""/>
+                <img src="/images/client/6.png" alt=""/>
               </a>
             </div>
             <div class="singleClient">
               <a href="#">
-                <img src="/images/client/2.png" alt=""/>
+                <img src="/images/client/7.jpg" alt=""/>
               </a>
             </div>
             <div class="singleClient">
               <a href="#">
-                <img src="/images/client/3.png" alt=""/>
+                <img src="/images/client/8.png" alt=""/>
               </a>
             </div>
             <div class="singleClient">
               <a href="#">
-                <img src="/images/client/4.png" alt=""/>
+                <img src="/images/client/12.png" alt=""/>
               </a>
             </div>
             <div class="singleClient">
               <a href="#">
-                <img src="/images/client/5.png" alt=""/>
+                <img src="/images/client/10.jpg" alt=""/>
               </a>
             </div>
             <div class="singleClient">
               <a href="#">
-                <img src="/images/client/1.png" alt=""/>
+                <img src="/images/client/11.jpg" alt=""/>
               </a>
             </div>
             <div class="singleClient">
               <a href="#">
-                <img src="/images/client/2.png" alt=""/>
+                <img src="/images/client/9.png" alt=""/>
               </a>
             </div>
             <div class="singleClient">
               <a href="#">
-                <img src="/images/client/3.png" alt=""/>
+                <img src="/images/client/14.png" alt=""/>
               </a>
             </div>
           </div>

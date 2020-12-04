@@ -2296,8 +2296,32 @@ a.slider-one__text {
 .pageBanner {
     position: relative;
     min-height: 465px;
-    background: url(../images/bg/8.jpg) no-repeat center center / cover;
+    /*background: url(../images/bg/8.jpg) no-repeat center center / cover;*/
     padding-top: 224px;
+}
+.pageBannerProg {
+  background: url(../images/bg/8.jpg) no-repeat center center / cover;
+}
+.pageBannerTech {
+  background: url(../images/bg/8.jpg) no-repeat center center / cover;
+}
+.pageBannerQa {
+  background: url(../images/bg/8.jpg) no-repeat center center / cover;
+}
+.pageBannerGraphisme {
+  background: url(../images/bg/8.jpg) no-repeat center center / cover;
+}
+.pageBannerDigitalMark {
+  background: url(../images/bg/8.jpg) no-repeat center center / cover;
+}
+.pageBannerBusiness {
+  background: url(../images/bg/8.jpg) no-repeat center center / cover;
+}
+.pageBannerTech {
+  position: relative;
+  min-height: 465px;
+  background: url(../images/bg/8.jpg) no-repeat center center / cover;
+  padding-top: 224px;
 }
 .banner_content{
     position: relative;
