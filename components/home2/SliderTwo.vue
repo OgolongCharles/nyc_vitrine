@@ -2,7 +2,7 @@
   <!-- Site Slider Start -->
   <section class="slider-one" style="text-align: left">
     <div class="slider-one__carousel owl-carousel owl-theme">
-      <div class="item slider-one__slider-1" style="background-image: url(/images/slider/2_1.jpg);">
+      <div class="item slider-one__slider-1" style="background-image: url(/images/slider/1_8.jpg);">
         <div class="container slider__content">
           <p class="slider-one__text">WELCOME TO MEIPALY AGENCY</p>
           <div class="slider-one__title tp-caption tp-resizeme">SMART WEB<br> DESIGN AGENCY.</div>
@@ -12,7 +12,7 @@
         <!-- /.container -->
       </div>
       <!-- /.item -->
-      <div class="item slider-one__slider-2" style="background-image: url(/images/slider/2_2.jpg);">
+      <div class="item slider-one__slider-2" style="background-image: url(/images/slider/1_9.jpg);">
         <div class="container slider__content">
           <p class="slider-one__text">WELCOME TO MEIPALY AGENCY</p>
           <div class="slider-one__title tp-caption tp-resizeme">SMART WEB<br> DESIGN AGENCY.</div>
