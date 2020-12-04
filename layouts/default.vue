@@ -18,7 +18,7 @@
     },
     head(){
       return {
-        title: "Meipaly - Vue Nuxt Digital Services Agency Template"
+        title: "NYNECORP - Agence de développement IT - QA - DIGITALE"
       }
     },
     mounted () {

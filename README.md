@@ -1,6 +1,6 @@
 # meipaly
 
-> Meipaly - Vue Nuxt Digital Services Agency Template
+> NYNECORP - Agence de développement IT - QA - DIGITALE
 
 ## Build Setup
 

@@ -1,8 +1,8 @@
 {
   "name": "nyc_vitrine",
   "version": "1.0.0",
-  "description": "Meipaly - Vue Nuxt Digital Services Agency Template",
-  "author": "Layerdrops",
+  "description": "NYNECORP - Agence de développement IT - QA - DIGITALE",
+  "author": "Lenine DJOUATSA",
   "private": true,
   "scripts": {
     "dev": "cross-env NODE_ENV=development nodemon server/index.js --watch server",

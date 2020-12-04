@@ -3,7 +3,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-12 text-center">
-          <h4 class="sub_title">welcome to smart meipaly web agency</h4>
+          <h4 class="sub_title">Bienvenu sur NYNECORP - Agence de développement IT - QA - DIGITALE</h4>
           <h2 class="sec_title">We design digital products that<br> help grow businesses.</h2>
           <p class="sec_desc">
             We are committed to providing our customers with exceptional service<br> while offering our employees the best training.
