@@ -14,7 +14,7 @@
     <div class="team_slider">
       <div class="singleTM">
         <div class="tm_img">
-          <img src="/images/team/1.jpg" alt="">
+          <img src="/images/team/9.png" alt="">
           <div class="tm_overlay">
             <div class="team_social">
               <a href="#"><span>Facebook</span></a>
@@ -82,7 +82,7 @@
       </div>
       <div class="singleTM">
         <div class="tm_img">
-          <img src="/images/team/5.jpg" alt="">
+          <img src="/images/team/12.png" alt="">
           <div class="tm_overlay">
             <div class="team_social">
               <a href="#"><span>Facebook</span></a>
