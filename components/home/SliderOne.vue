@@ -4,7 +4,7 @@
     <div class="slider-one__carousel owl-carousel owl-theme">
       <div class="item slider-one__slider-1" style="background-image: url(/images/slider/1_10.jpg);">
         <div class="container slider__content">
-          <p class="slider-one__text">Bienvenu à l'agence NYNE CORP</p>
+          <p class="slider-one__text">Bienvenue à l'agence NYNE CORP</p>
           <div class="slider-one__title tp-caption tp-resizeme">SMART WEB<br> DESIGN AGENCY.</div>
           <a href="#" class="common_btn"><span>Découvrir plus</span></a>
           <!-- /.slider-one__text -->
@@ -14,7 +14,7 @@
       <!-- /.item -->
       <div class="item slider-one__slider-2" style="background-image: url(/images/slider/1_7.jpg);">
         <div class="container slider__content">
-          <p class="slider-one__text">Bienvenu à l'agence NYNE CORP</p>
+          <p class="slider-one__text">Bienvenue à l'agence NYNE CORP</p>
           <div class="slider-one__title tp-caption tp-resizeme">SMART WEB<br> DESIGN AGENCY.</div>
           <a href="#" class="common_btn"><span>Découvrir plus</span></a>
         </div>

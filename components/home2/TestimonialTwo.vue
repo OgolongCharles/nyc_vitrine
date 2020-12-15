@@ -4,8 +4,8 @@
       <div class="row">
         <div id="tabs" class="testimoniTab">
           <div class="col-lg-5 col-sm-5">
-            <h4 class="sub_title color_aaa">our testimonials</h4>
-            <h2 class="sec_title white">happy customers</h2>
+            <h4 class="sub_title color_aaa">Témoignages</h4>
+            <h2 class="sec_title white">Clients satisfaits</h2>
             <ul class="slider_testimoial">
               <li class="active control_item">
                 <a href="#tab_1" data-toggle="tab">
@@ -29,8 +29,8 @@
                 <a href="#tab_3" data-toggle="tab">
                   <span><img src="/images/home_1/t3.jpg" alt=""/></span>
                   <div class="author_detail">
-                    <h5>Mike Smith</h5>
-                    <h6>manager</h6>
+                    <h5>Augustin Njigui</h5>
+                    <h6>CEO INOV CONSULTING</h6>
                   </div>
                 </a>
               </li>
@@ -38,8 +38,8 @@
                 <a href="#tab_4" data-toggle="tab">
                   <span><img src="/images/home_1/t1.jpg" alt=""/></span>
                   <div class="author_detail">
-                    <h5>Shirley Smith</h5>
-                    <h6>Director</h6>
+                    <h5>Patrick Azoni</h5>
+                    <h6>CEO YAMO</h6>
                   </div>
                 </a>
               </li>
@@ -47,7 +47,7 @@
                 <a href="#tab_5" data-toggle="tab">
                   <span><img src="/images/home_1/t2.jpg" alt=""/></span>
                   <div class="author_detail">
-                    <h5>Mike hardson</h5>
+                    <h5>Pericles Nchebou</h5>
                     <h6>manager</h6>
                   </div>
                 </a>
@@ -56,8 +56,8 @@
                 <a href="#tab_6" data-toggle="tab">
                   <span><img src="/images/home_1/t3.jpg" alt=""/></span>
                   <div class="author_detail">
-                    <h5>Mike Smith</h5>
-                    <h6>manager</h6>
+                    <h5>Cedric Folepe</h5>
+                    <h6>CEO CEF</h6>
                   </div>
                 </a>
               </li>
@@ -68,49 +68,52 @@
             <div class="tab-content clearfix">
               <div class="tab-pane fade in active testi_con" id="tab_1">
                 <p>
-                  “This is due to their excellent service, competitive pricing and customer support. It’s throughly
-                  refresing to get such a personal touch. There are many variations of passages of available,
-                  but the majority have suffered alteration in some form by injected hum
+                  Cela est dû à leur excellent service, à leurs prix compétitifs et à leur support client.
+                  C’est vraiment rafraîchissant d’avoir une telle touche personnelle.
+                  Il existe de nombreuses variantes de passages de disponibles,
+                  mais la majorité ont subi une altération sous une forme ou une autre par un bourdonnement injecté
+
                 </p>
                 <span>25 nov, 2018</span>
               </div>
               <div class="tab-pane fade testi_con" id="tab_2">
                 <p>
-                  “It’s throughly refresing to get such a personal touch. There are many variations of passages of available,
-                  This is due to their excellent service, competitive pricing and customer support.
-                  but the majority have suffered alteration in some form by injected hum
+                  C’est vraiment rafraîchissant d’avoir une telle touche personnelle.
+                  Il existe de nombreuses variantes de passages de disponibles,
+                  Cela est dû à leur excellent service, à leurs prix compétitifs et à leur support client.
+                  Mais la majorité ont subi une altération sous une forme ou une autre par un bourdonnement injecté
                 </p>
                 <span>26 nov, 2018</span>
               </div>
               <div class="tab-pane fade testi_con" id="tab_3">
                 <p>
-                  “This is due to their excellent service, competitive pricing and customer support. It’s throughly
-                  refresing to get such a personal touch. There are many variations of passages of available,
-                  but the majority have suffered alteration in some form by injected hum
+                  “Cela est dû à leur excellent service, à leurs prix compétitifs et à leur support client. C'est complètement
+                  rafraîchissant pour obtenir une telle touche personnelle. Il existe de nombreuses variantes de passages de disponibles,
+                  mais la majorité ont subi une altération sous une forme ou une autre par un bourdonnement injecté
                 </p>
                 <span>27 nov, 2018</span>
               </div>
               <div class="tab-pane fade testi_con" id="tab_4">
                 <p>
-                  “This is due to their excellent service, competitive pricing and customer support. It’s throughly
-                  refresing to get such a personal touch. There are many variations of passages of available,
-                  but the majority have suffered alteration in some form by injected hum
+                  “Cela est dû à leur excellent service, à leurs prix compétitifs et à leur support client. C'est complètement
+                  rafraîchissant pour obtenir une telle touche personnelle. Il existe de nombreuses variantes de passages de disponibles,
+                  mais la majorité ont subi une altération sous une forme ou une autre par un bourdonnement injecté
                 </p>
                 <span>28 nov, 2018</span>
               </div>
               <div class="tab-pane fade testi_con" id="tab_5">
                 <p>
-                  “This is due to their excellent service, competitive pricing and customer support. It’s throughly
-                  refresing to get such a personal touch. There are many variations of passages of available,
-                  but the majority have suffered alteration in some form by injected hum
+                  “Cela est dû à leur excellent service, à leurs prix compétitifs et à leur support client. C'est complètement
+                  rafraîchissant pour obtenir une telle touche personnelle. Il existe de nombreuses variantes de passages de disponibles,
+                  mais la majorité ont subi une altération sous une forme ou une autre par un bourdonnement injecté
                 </p>
                 <span>29 nov, 2018</span>
               </div>
               <div class="tab-pane fade testi_con" id="tab_6">
                 <p>
-                  “This is due to their excellent service, competitive pricing and customer support. It’s throughly
-                  refresing to get such a personal touch. There are many variations of passages of available,
-                  but the majority have suffered alteration in some form by injected hum
+                  “Cela est dû à leur excellent service, à leurs prix compétitifs et à leur support client. C'est complètement
+                  rafraîchissant pour obtenir une telle touche personnelle. Il existe de nombreuses variantes de passages de disponibles,
+                  mais la majorité ont subi une altération sous une forme ou une autre par un bourdonnement injecté
                 </p>
                 <span>30 nov, 2018</span>
               </div>

@@ -3,10 +3,11 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-12 text-center">
-          <h4 class="sub_title">our benefits</h4>
-          <h2 class="sec_title">why choose us</h2>
+          <h4 class="sub_title">NOS AVANTAGES</h4>
+          <h2 class="sec_title">Pourquoi nous choisir ?</h2>
           <p class="sec_desc">
-            We are committed to providing our customers with exceptional service while<br> offering our employees the best training.
+            Nous nous engageons à fournir à nos clients un service exceptionnel tout en <br>
+            offrant à nos employés la meilleure formation.
           </p>
         </div>
       </div>

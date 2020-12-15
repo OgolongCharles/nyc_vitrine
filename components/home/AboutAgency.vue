@@ -14,10 +14,10 @@
         </div>
         <div class="col-lg-6 col-sm-6 col-md-6">
           <div class="ab_img1">
-            <img src="/images/home_1/2.jpg" alt=""/>
+            <img src="/images/home_1/10.jpg" alt=""/>
           </div>
           <div class="ab_img2">
-            <img src="/images/home_1/1.jpg" alt=""/>
+            <img src="/images/home_1/9.jpg" alt=""/>
           </div>
         </div>
       </div>
