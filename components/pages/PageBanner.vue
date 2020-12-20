@@ -4,8 +4,8 @@
       <div class="row">
         <div class="col-lg-12">
           <div class="banner_content text-center">
-            <h4><nuxt-link to="/">Accueil</nuxt-link> - {{ pageTitle }}</h4>
-            <h2>{{ pageTitle }}</h2>
+<!--            <h4><nuxt-link to="/">Accueil</nuxt-link> - {{ pageTitle }}</h4>-->
+<!--            <h2>{{ pageTitle }}</h2>-->
           </div>
         </div>
       </div>

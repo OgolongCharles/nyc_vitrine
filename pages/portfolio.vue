@@ -1,6 +1,6 @@
 <template>
   <div>
-    <PageBanner pageTitle="Portfolio" />
+    <PageBanner pageTitle="Portfolio" bannerCss="pageBannerTech"/>
     <PortfolioLoadMore />
   </div>
 </template>

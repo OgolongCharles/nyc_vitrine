@@ -14,7 +14,7 @@
     <div class="team_slider">
       <div class="singleTM">
         <div class="tm_img">
-          <img src="/images/team/9.png" alt="">
+          <img src="/images/team/AVTR-04.png" alt="">
           <div class="tm_overlay">
             <div class="team_social">
               <a href="#"><span>Facebook</span></a>
@@ -31,7 +31,7 @@
       </div>
       <div class="singleTM">
         <div class="tm_img">
-          <img src="/images/team/0.jpg" alt="">
+          <img src="/images/team/AVTR-02.png" alt="">
           <div class="tm_overlay">
             <div class="team_social">
               <a href="#"><span>Facebook</span></a>
@@ -48,7 +48,7 @@
       </div>
       <div class="singleTM">
         <div class="tm_img">
-          <img src="/images/team/7.png" alt="">
+          <img src="/images/team/team1.png" alt="">
           <div class="tm_overlay">
             <div class="team_social">
               <a href="#"><span>Facebook</span></a>
@@ -65,7 +65,7 @@
       </div>
       <div class="singleTM">
         <div class="tm_img">
-          <img src="/images/team/6.png" alt="">
+          <img src="/images/team/AVTR-05.png" alt="">
           <div class="tm_overlay">
             <div class="team_social">
               <a href="#"><span>Facebook</span></a>
@@ -82,7 +82,7 @@
       </div>
       <div class="singleTM">
         <div class="tm_img">
-          <img src="/images/team/12.png" alt="">
+          <img src="/images/team/team2.jpg" alt="">
           <div class="tm_overlay">
             <div class="team_social">
               <a href="#"><span>Facebook</span></a>
