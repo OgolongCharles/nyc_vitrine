@@ -1,6 +1,6 @@
 <template>
   <div>
-    <PageBanner pageTitle="Graphisme & Design" />
+    <PageBanner pageTitle="Graphisme & Design" bannerCss="pageBannerGraphisme"/>
     <ServicesTwo />
     <Services />
     <WhatWeDoTwo />

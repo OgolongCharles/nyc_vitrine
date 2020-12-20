@@ -1584,7 +1584,7 @@ a.slider-one__text {
 / 11. Testimonail Section
 ------------------------------------------------------*/
 .testimonial{
-    background: url(../images/bg/3.jpg) no-repeat fixed center / cover;
+    background: url(../images/bg/Cover_LinkedIn.jpg) no-repeat fixed center / cover;
     padding-bottom: 113px;
 }
 .testimonial_content{
@@ -1716,7 +1716,7 @@ a.slider-one__text {
 / 13. Ready Section
 ------------------------------------------------------*/
 .ready{
-    background: url(../images/bg/4.jpg) no-repeat center center / cover;
+    background: url(../images/bg/Banière_1920_514.jpg) no-repeat center center / cover;
 }
 .ready .sec_title{
     margin: 0;
@@ -2300,28 +2300,22 @@ a.slider-one__text {
     padding-top: 224px;
 }
 .pageBannerProg {
-  background: url(../images/bg/8.jpg) no-repeat center center / cover;
+  background: url(../images/bg/prog_plus_margin.png) no-repeat center center / cover;
 }
 .pageBannerTech {
-  background: url(../images/bg/8.jpg) no-repeat center center / cover;
+  background: url(../images/bg/tech_plus_margin.png) no-repeat center center / cover;
 }
 .pageBannerQa {
-  background: url(../images/bg/8.jpg) no-repeat center center / cover;
+  background: url(../images/bg/qa_testing_plus_margin.png) no-repeat center center / cover;
 }
 .pageBannerGraphisme {
-  background: url(../images/bg/8.jpg) no-repeat center center / cover;
+  background: url(../images/bg/graphism_et_design_plus_margin.png) no-repeat center center / cover;
 }
 .pageBannerDigitalMark {
-  background: url(../images/bg/8.jpg) no-repeat center center / cover;
+  background: url(../images/bg/marketing_digital_plus_margin.png) no-repeat center center / cover;
 }
 .pageBannerBusiness {
-  background: url(../images/bg/8.jpg) no-repeat center center / cover;
-}
-.pageBannerTech {
-  position: relative;
-  min-height: 465px;
-  background: url(../images/bg/8.jpg) no-repeat center center / cover;
-  padding-top: 224px;
+  background: url(../images/bg/business_plus_margin.png) no-repeat center center / cover;
 }
 .banner_content{
     position: relative;
