@@ -2317,6 +2317,13 @@ a.slider-one__text {
 .pageBannerBusiness {
   background: url(../images/bg/business_plus_margin.png) no-repeat center center / cover;
 }
+ .pageBannerAbout {
+   background: url(../images/bg/Cover_Facebook.jpg) no-repeat center center / cover;
+   margin-top: 54px;
+ }
+.pageBannerServices {
+  background: url(../images/bg/services_plus_margin.png) no-repeat center center / cover;
+}
 .banner_content{
     position: relative;
 }
