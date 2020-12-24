@@ -49,7 +49,7 @@
         </div>
         <div class="col-lg-4 col-sm-6 col-md-4">
           <div class="singlefolio">
-            <img src="/images/portfolio/5.jpg" alt=""/>
+            <img src="/images/portfolio/Site_batiService.png" alt=""/>
             <div class="folioHover">
               <a class="cate" href="#">Graphic</a>
               <h4><nuxt-link to="/portfolio-detail">Design Styles</nuxt-link></h4>
@@ -58,7 +58,7 @@
         </div>
         <div class="col-lg-4 col-sm-6 col-md-4">
           <div class="singlefolio">
-            <img src="/images/portfolio/6.jpg" alt=""/>
+            <img src="/images/portfolio/LogoPro.png" alt=""/>
             <div class="folioHover">
               <a class="cate" href="#">Graphic</a>
               <h4><nuxt-link to="/portfolio-detail">Design Styles</nuxt-link></h4>
