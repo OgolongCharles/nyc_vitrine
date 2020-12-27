@@ -5,26 +5,26 @@
           <div class="row">
             <div class="col-lg-3 col-sm-6 col-md-3 noPadding BR">
               <div class="singlefunfact text-center">
-                <h1 data-counter="8705" class="timer"><span class="countSpan">8</span>705</h1>
-                <h3>Projects Completed</h3>
+                <h1 data-counter="10" class="timer"><span class="countSpan">8</span>10</h1>
+                <h3>Projets livrés</h3>
               </div>
             </div>
             <div class="col-lg-3 col-sm-6 col-md-3 noPadding BR">
               <div class="singlefunfact text-center">
-                <h1 data-counter="480" class="timer"><span class="countSpan"></span>480</h1>
-                <h3>Active Clients</h3>
+                <h1 data-counter="8" class="timer"><span class="countSpan"></span>4</h1>
+                <h3>Clients Actifs</h3>
               </div>
             </div>
             <div class="col-lg-3 col-sm-6 col-md-3 noPadding BR">
               <div class="singlefunfact text-center">
-                <h1 data-counter="626" class="timer"><span class="countSpan"></span>626</h1>
-                <h3>Cups of Coffee</h3>
+                <h1 data-counter="6000" class="timer"><span class="countSpan"></span>6000</h1>
+                <h3>Clients NKAP</h3>
               </div>
             </div>
             <div class="col-lg-3 col-sm-6 col-md-3 noPadding">
               <div class="singlefunfact text-center">
-                <h1 data-counter="9774" class="timer"><span class="countSpan">9</span>774</h1>
-                <h3>Happy Clients</h3>
+                <h1 data-counter="10" class="timer"><span class="countSpan">2</span>10</h1>
+                <h3>Clients Satisfaits</h3>
               </div>
             </div>
           </div>
@@ -42,12 +42,13 @@
                     </div>
                     <div class="col-lg-7 col-sm-7 col-md-7">
                       <div class="abci_content">
-                        <h2>We are trusted by more than 8900 clients</h2>
+                        <h2>Plus de 15 clients nous ont déjà fait confiance</h2>
                         <p>
-                          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incidi-dunt ut labore et dolore magna aliqua.
-                          Ut enim ad minim veniam, quis nostrud exercita-tion ullamco laboris nisi ut aliquip ex ea commodo.
+                          Avec près de 5 ans d'existence de nombreux clients ont fait appel à nos services.
+                          Pour leurs besoins, nos clients bénéficient d’une rigueur , d'un professionnalisme et d'une  sécurisé, propice à la concentration dans leur coeur de métier.
+                          Quelques références de clients ayant fait appel à nos services se trouvent plus haut:
                         </p>
-                        <a class="common_btn red_bg" href="#"><span>Learn More</span></a>
+                        <a class="common_btn red_bg" href="#"><span>Plus encore</span></a>
                       </div>
                     </div>
                   </div>

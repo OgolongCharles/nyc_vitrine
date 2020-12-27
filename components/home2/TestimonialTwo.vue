@@ -9,7 +9,7 @@
             <ul class="slider_testimoial">
               <li class="active control_item">
                 <a href="#tab_1" data-toggle="tab">
-                  <span><img src="/images/home_1/t1.jpg" alt=""/></span>
+                  <span><img src="/images/team/mister_1.png" alt=""/></span>
                   <div class="author_detail">
                     <h5>Shirley Smith</h5>
                     <h6>Director</h6>
@@ -18,7 +18,7 @@
               </li>
               <li class="control_item">
                 <a href="#tab_2" data-toggle="tab">
-                  <span><img src="/images/home_1/t2.jpg" alt=""/></span>
+                  <span><img src="/images/team/mister_2.png" alt=""/></span>
                   <div class="author_detail">
                     <h5>Mike hardson</h5>
                     <h6>co founder</h6>
@@ -27,7 +27,7 @@
               </li>
               <li class="control_item">
                 <a href="#tab_3" data-toggle="tab">
-                  <span><img src="/images/home_1/t3.jpg" alt=""/></span>
+                  <span><img src="/images/team/mister_3.png" alt=""/></span>
                   <div class="author_detail">
                     <h5>Augustin Njigui</h5>
                     <h6>CEO INOV CONSULTING</h6>
@@ -36,7 +36,7 @@
               </li>
               <li class="control_item">
                 <a href="#tab_4" data-toggle="tab">
-                  <span><img src="/images/home_1/t1.jpg" alt=""/></span>
+                  <span><img src="/images/team/mister_4.png" alt=""/></span>
                   <div class="author_detail">
                     <h5>Patrick Azoni</h5>
                     <h6>CEO YAMO</h6>
@@ -45,7 +45,7 @@
               </li>
               <li class="control_item">
                 <a href="#tab_5" data-toggle="tab">
-                  <span><img src="/images/home_1/t2.jpg" alt=""/></span>
+                  <span><img src="/images/team/mister_4.png" alt=""/></span>
                   <div class="author_detail">
                     <h5>Pericles Nchebou</h5>
                     <h6>manager</h6>
@@ -54,7 +54,7 @@
               </li>
               <li class="control_item">
                 <a href="#tab_6" data-toggle="tab">
-                  <span><img src="/images/home_1/t3.jpg" alt=""/></span>
+                  <span><img src="/images/team/mister_4.png" alt=""/></span>
                   <div class="author_detail">
                     <h5>Cedric Folepe</h5>
                     <h6>CEO CEF</h6>

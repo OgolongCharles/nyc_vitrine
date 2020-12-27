@@ -13,7 +13,7 @@
       <div class="row">
         <div class="col-lg-12 col-sm-12">
           <div class="videoWrap">
-            <img src="/images/home_1/NyneCorpTwitter_cover-02.jpg" alt="">
+            <img src="/images/home_1/NyneCorp_cover-05.jpg" alt="">
             <div class="play_video">
               <a class="video_popup" href="https://www.youtube.com/watch?v=A7ZkZazfvao"><i class="fa fa-play"></i></a>
               <h2>Voir la Video</h2>

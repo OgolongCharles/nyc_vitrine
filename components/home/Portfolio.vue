@@ -13,19 +13,19 @@
       <div class="row">
         <div class="col-lg-4 col-sm-6 col-md-4">
           <div class="singlefolio">
-            <img src="/images/portfolio/9.png" alt=""/>
+            <img src="/images/portfolio/nyc.png" alt=""/>
             <div class="folioHover">
-              <a class="cate" href="#">Graphic</a>
-              <h4><nuxt-link to="/portfolio-detail">Design Styles</nuxt-link></h4>
+              <a class="cate" href="#">Technologies,Business,Développement,Graphisme, CM, Formations</a>
+              <h4><nuxt-link to="/portfolio-detail">NYNECORP</nuxt-link></h4>
             </div>
           </div>
         </div>
         <div class="col-lg-4 col-sm-6 col-md-4">
           <div class="singlefolio">
-            <img src="/images/portfolio/12.png" alt=""/>
+            <img src="/images/portfolio/nkap_group.png" alt=""/>
             <div class="folioHover">
               <a class="cate" href="#">Développement Web</a>
-              <h4><nuxt-link to="/portfolio-detail">Vitrine Batiservice</nuxt-link></h4>
+              <h4><nuxt-link to="/portfolio-detail">Vitrine NKAP GROUP</nuxt-link></h4>
             </div>
           </div>
         </div>
@@ -40,7 +40,7 @@
         </div>
         <div class="col-lg-4 col-sm-6 col-md-4">
           <div class="singlefolio">
-            <img src="/images/portfolio/10.png" alt=""/>
+            <img src="/images/portfolio/yamo.png" alt=""/>
             <div class="folioHover">
               <a class="cate" href="#">Community Management </a>
               <h4><nuxt-link to="/portfolio-detail">YAMO AFRICA</nuxt-link></h4>
@@ -49,19 +49,19 @@
         </div>
         <div class="col-lg-4 col-sm-6 col-md-4">
           <div class="singlefolio">
-            <img src="/images/portfolio/5.jpg" alt=""/>
+            <img src="/images/portfolio/Site_batiService.png" alt=""/>
             <div class="folioHover">
-              <a class="cate" href="#">Graphic</a>
-              <h4><nuxt-link to="/portfolio-detail">Design Styles</nuxt-link></h4>
+              <a class="cate" href="#">Développement Web & CM </a>
+              <h4><nuxt-link to="/portfolio-detail">Batiservices</nuxt-link></h4>
             </div>
           </div>
         </div>
         <div class="col-lg-4 col-sm-6 col-md-4">
           <div class="singlefolio">
-            <img src="/images/portfolio/6.jpg" alt=""/>
+            <img src="/images/portfolio/LogoPro.png" alt=""/>
             <div class="folioHover">
-              <a class="cate" href="#">Graphic</a>
-              <h4><nuxt-link to="/portfolio-detail">Design Styles</nuxt-link></h4>
+              <a class="cate" href="#">Inov Consulting & CO</a>
+              <h4><nuxt-link to="/portfolio-detail">Design & Styles</nuxt-link></h4>
             </div>
           </div>
         </div>

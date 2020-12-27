@@ -35,7 +35,7 @@
             </div>
             <div class="singleClient">
               <a href="#">
-                <img src="/images/client/10.jpg" alt=""/>
+                <img src="/images/client/Logo-11.png" alt=""/>
               </a>
             </div>
             <div class="singleClient">
@@ -51,6 +51,11 @@
             <div class="singleClient">
               <a href="#">
                 <img src="/images/client/14.png" alt=""/>
+              </a>
+            </div>
+            <div class="singleClient">
+              <a href="#">
+                <img src="/images/client/Logo-13.png" alt=""/>
               </a>
             </div>
           </div>
