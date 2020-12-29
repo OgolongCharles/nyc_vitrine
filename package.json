@@ -12,12 +12,17 @@
   },
   "dependencies": {
     "@bazzite/nuxt-optimized-images": "^0.3.0",
+    "axios": "^0.21.1",
     "cross-env": "^7.0.2",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
+    "i18n": "^0.13.2",
     "loadash": "^1.0.0",
     "nodemon": "^2.0.4",
-    "nuxt": "^2.0.0"
+    "nuxt": "^2.0.0",
+    "nuxt-i18n": "^6.16.0",
+    "vue-notification": "^1.3.20",
+    "vue-on-toast": "^1.0.1"
   },
   "devDependencies": {}
 }

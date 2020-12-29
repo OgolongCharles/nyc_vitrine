@@ -1,7 +1,7 @@
 <template>
   <div>
     <PageBanner pageTitle="Contact" bannerCss="pageBannerTech"/>
-    <Contact />
+    <Contact/>
     <Map />
     <ClientsTwo />
   </div>
@@ -9,7 +9,7 @@
 
 <script>
   import PageBanner from "~/components/pages/PageBanner";
-  import Contact from "~/components/pages/Contact";
+  import Contact from "../components/pages/Contact";
   import Map from "~/components/home2/Map";
   import ClientsTwo from "~/components/home2/ClientsTwo";
   export default {
