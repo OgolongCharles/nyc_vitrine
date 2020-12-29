@@ -13,10 +13,10 @@
       <div class="row">
         <div class="col-lg-4 col-sm-6 col-md-4">
           <div class="singlefolio">
-            <img src="/images/portfolio/nyc.png" alt=""/>
+            <img src="/images/portfolio/Netflix.png" alt=""/>
             <div class="folioHover">
               <a class="cate" href="#">Technologies,Business,Développement,Graphisme, CM, Formations</a>
-              <h4><nuxt-link to="/portfolio-detail">NYNECORP</nuxt-link></h4>
+              <h4><nuxt-link to="/portfolio-detail">Intégration Netflix</nuxt-link></h4>
             </div>
           </div>
         </div>
@@ -58,10 +58,10 @@
         </div>
         <div class="col-lg-4 col-sm-6 col-md-4">
           <div class="singlefolio">
-            <img src="/images/portfolio/LogoPro.png" alt=""/>
+            <img src="/images/portfolio/Barn-Selam.png" alt=""/>
             <div class="folioHover">
-              <a class="cate" href="#">Inov Consulting & CO</a>
-              <h4><nuxt-link to="/portfolio-detail">Design & Styles</nuxt-link></h4>
+              <a class="cate" href="#">Site de bonnes annonces</a>
+              <h4><nuxt-link to="/portfolio-detail">SELAM</nuxt-link></h4>
             </div>
           </div>
         </div>
