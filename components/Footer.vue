@@ -24,7 +24,17 @@
             </p>
             <p>P: +33 6 16 63 42 37</p>
             <p>E: <a href="#">info@nynecorp.org</a></p>
+            <div class="ftp__links">
+              <div class="ftp__form-subs">
+                <p class="ftp__links-desc__desc">{{ $t("abonnet") }}</p>
+                <form action="#">
+                  <input type="email" placeholder="enter email" v-model="email" required>
+                  <button  @click.prevent="contact"><i class="fas fa-envelope-square"></i></button>
+                </form>
+              </div><!-- end ftp__form-subs -->
+            </div><!-- end ftp__links -->
           </aside>
+          <notifications group="foo" position="bottom right"/>
         </div>
         <div class="col-lg-3 col-sm-2 col-md-3">
           <aside class="widget social_widget">
@@ -54,6 +64,7 @@
           </aside>
         </div>
       </div>
+
       <div class="row">
         <div class="col-lg-12 col-sm-12 text-center">
           <div class="copyright">
@@ -73,8 +84,15 @@
 </template>
 
 <script>
+  import API from '../api/index'
     export default {
       name: "Footer",
+      data(){
+        return {
+          email: null,
+          reference: 'nyneCorp'
+        }
+      },
       mounted() {
 
         var back = $("#backToTop"),
@@ -95,6 +113,22 @@
           body.animate({scrollTop: 0}, 800);
         });
 
+      },
+      methods: {
+        resetForm(){
+          this.email = ''
+        },
+        contact:async function () {
+          API.saveMail({email: this.email, reference: this.reference}).then((data) => {
+            console.log("contact", data)
+            this.$notify({
+              'group': 'foo',
+              'title': 'Félicitation',
+              'text': 'Votre mail à été enregistre. Merci.'
+            });
+            this.resetForm()
+          })
+        },
       }
     }
 </script>

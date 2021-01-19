@@ -1757,6 +1757,15 @@ a.slider-one__text {
     position: relative;
     text-transform: uppercase;
 }
+.email__subscriber-btn {
+  position: absolute;
+  background-color: transparent;
+  color: #fff;
+  font-size: 15px;
+  border: none;
+  top: 13px;
+  right: 25px;
+  cursor: pointer; }
 .footer_1 .aboutwidget{
     padding-right: 110px;
     margin-top: -8px;

@@ -27,6 +27,7 @@ module.exports =  {
       { rel: "stylesheet", href: "/css/theme.css" },
       { rel: "stylesheet", href: "/css/responsive.css" },
       { rel: "stylesheet", href: "/css/presets/color1.css" },
+      //{ rel: "stylesheet", href: "/css/font-awesome.css" },
     ],
 
     script: [
@@ -60,32 +61,58 @@ module.exports =  {
   ** Plugins to load before mounting the App
   */
   plugins: [
+    {src:'@/plugins/vuetify', ssr: false},
+    { src: '@/api/index',  ssr: true },
   ],
   /*
   ** Nuxt.js dev-modules
   */
   buildModules: [
   ],
-
+  /*
+    ** Nuxt.js modules
+    */
+  modules: [
+    // Doc: https://github.com/nuxt-community/axios-module#usage
+    '@nuxtjs/axios',
+    [
+      'nuxt-i18n',
+      {
+        defaultLocale: 'en',
+        locales: [{
+          code: "fr",
+          file : "fr-FR.js"
+        },
+          {
+            code: "en",
+            file : "en-EN.js"
+          },
+        ],
+        lazy: true,
+        langDir: "lang/",
+      }
+    ]
+  ],
   /*
   ** optimizedImages
   */
   optimizedImages: {
     optimizeImages: true
   },
-
   /*
-  ** Nuxt.js modules
-  */
-  modules: [
-  ],
+   ** Axios module configuration
+   */
+  axios: {
+    // See https://github.com/nuxt-community/axios-module#options
+    baseUrl: process.env.API_URL,
+    //browserBaseURL: process.env.API_URL,
+  },
+  /*
   /*
   ** Build configuration
   */
   build: {
-    /*
-    ** You can extend webpack config here
-    */
+
     extend (config, ctx) {
     }
   }
