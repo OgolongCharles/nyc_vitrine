@@ -27,6 +27,7 @@ module.exports =  {
       { rel: "stylesheet", href: "/css/theme.css" },
       { rel: "stylesheet", href: "/css/responsive.css" },
       { rel: "stylesheet", href: "/css/presets/color1.css" },
+      //{ rel: "stylesheet", href: "/css/font-awesome.css" },
     ],
 
     script: [

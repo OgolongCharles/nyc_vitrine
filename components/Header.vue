@@ -50,6 +50,34 @@
                     </ul>
                   </li>
                   <li><nuxt-link to="/contact">Contact</nuxt-link></li>
+                  <li>
+                    <a href="#" v-if="$i18n.locale !== 'fr'"
+                       :to="switchLocalePath('fr')">
+                      <img src="/images/flag.jpg" alt="English">
+                      english
+                      <i class="fas fa-caret-down"></i>
+                    </a>
+                    <a href="#" v-if="$i18n.locale !== 'en'"
+                       :to="switchLocalePath('en')">
+                      <img src="/images/flag3.jpg" alt="Francais">
+                      Francais
+                      <i class="fas fa-caret-down"></i>
+                    </a>
+                    <div class="lang-drop-item">
+                      <nuxt-link
+                        v-if="$i18n.locale !== 'en'"
+                        :to="switchLocalePath('en')">
+                        <img src="/images/flag.jpg" alt="English">
+                        english
+                      </nuxt-link>
+                      <nuxt-link
+                        v-if="$i18n.locale !== 'fr'"
+                        :to="switchLocalePath('fr')">
+                        <img src="/images/flag3.jpg" alt="Francais">
+                        Francais
+                      </nuxt-link>
+                    </div>
+                  </li>
                 </ul>
               </nav>
             </div>
@@ -130,8 +158,11 @@
                         <li><nuxt-link to="/blog-single">Blog Single</nuxt-link></li>
                       </ul>
                     </li>
+
                     <li><nuxt-link to="/contact">Contact</nuxt-link></li>
+
                   </ul>
+
                 </div>
               </div>
             </div>

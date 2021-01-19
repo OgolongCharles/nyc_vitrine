@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = "http://54.38.33.178:5000/api/v1"
+const API_BASE_URL = "http://newsletter.nkap.net/api/v1"
 
 
 let createContact = (params) => {
@@ -8,6 +8,13 @@ let createContact = (params) => {
   return axios.post(API_BASE_URL + '/contact/create', params);
 };
 
+
+let saveMail = (params) => {
+  return axios.post(API_BASE_URL + '/user/create', params)
+}
+
+
 export default {
-  createContact
+  createContact,
+  saveMail
 }
