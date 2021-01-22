@@ -51,35 +51,16 @@
                   </li>
                   <li><nuxt-link to="/contact">Contact</nuxt-link></li>
                   <li>
-                    <a href="#" v-if="$i18n.locale !== 'fr'"
-                       :to="switchLocalePath('fr')">
-                      <img src="/images/flag.jpg" alt="English">
-                      english
-                      <i class="fas fa-caret-down"></i>
-                    </a>
-                    <a href="#" v-if="$i18n.locale !== 'en'"
-                       :to="switchLocalePath('en')">
-                      <img src="/images/flag3.jpg" alt="Francais">
-                      Francais
-                      <i class="fas fa-caret-down"></i>
-                    </a>
-                    <div class="lang-drop-item">
-                      <nuxt-link
-                        v-if="$i18n.locale !== 'en'"
-                        :to="switchLocalePath('en')">
-                        <img src="/images/flag.jpg" alt="English">
-                        english
-                      </nuxt-link>
-                      <nuxt-link
-                        v-if="$i18n.locale !== 'fr'"
-                        :to="switchLocalePath('fr')">
-                        <img src="/images/flag3.jpg" alt="Francais">
-                        Francais
-                      </nuxt-link>
-                    </div>
+                    <nuxt-link v-for="locale in availableLocales" :key="locale.code"
+                               :to="switchLocalePath(locale.code)"><img :src="locale.image" alt="English">
+                    </nuxt-link>
                   </li>
+
                 </ul>
+
+
               </nav>
+
             </div>
             <div class="col-lg-2 col-sm-2 col-md-2">
               <div class="navigator text-right">
@@ -193,6 +174,11 @@
 <script>
     export default {
       name: "Header",
+      computed: {
+        availableLocales () {
+          return this.$i18n.locales.filter(i => i.code !== this.$i18n.locale)
+        }
+      },
       mounted() {
 
         // Serach popup
