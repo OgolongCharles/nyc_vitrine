@@ -81,11 +81,15 @@ module.exports =  {
         defaultLocale: 'en',
         locales: [{
           code: "fr",
-          file : "fr-FR.js"
+          file : "fr-FR.js",
+          name: 'France',
+          image: "/images/flag3.jpg"
         },
           {
             code: "en",
-            file : "en-EN.js"
+            file : "en-EN.js",
+            name: 'English',
+            image: "/images/flag.jpg"
           },
         ],
         lazy: true,
