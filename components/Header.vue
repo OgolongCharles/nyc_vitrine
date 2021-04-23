@@ -14,7 +14,7 @@
             <div class="col-lg-8 col-sm-7 col-md-7">
               <nav class="mainmenu text-center">
                 <ul>
-                  <li><nuxt-link to="/">Accueil</nuxt-link></li>
+                  <li><nuxt-link to="/">{{$t("home")}}</nuxt-link></li>
 <!--                  <li class="menu-item-has-children">-->
 <!--                    <a href="/">Accueil</a>-->
 <!--                    <ul class="sub-menu">-->
@@ -23,22 +23,22 @@
 <!--                      <li><nuxt-link to="/index-3">Web Design</nuxt-link></li>-->
 <!--                    </ul>-->
 <!--                  </li>-->
-                  <li><nuxt-link to="/about">A propos</nuxt-link></li>
+                  <li><nuxt-link to="/about">{{$t("propos")}}</nuxt-link></li>
                   <li class="menu-item-has-children"><nuxt-link to="/services">Services</nuxt-link>
                     <ul class="sub-menu">
-                      <li><nuxt-link to="/prog">Programmation</nuxt-link></li>
-                      <li><nuxt-link to="/qa-testing">QA & Testing</nuxt-link></li>
-                      <li><nuxt-link to="/graphism-design">Graphisme & Design</nuxt-link></li>
-                      <li><nuxt-link to="/digital-marketing">Marketing Digital</nuxt-link></li>
-                      <li><nuxt-link to="/business">Business</nuxt-link></li>
-                      <li><nuxt-link to="/tech">Technologies</nuxt-link></li>
+                      <li><nuxt-link to="/prog">{{$t("serPro")}}</nuxt-link></li>
+                      <li><nuxt-link to="/qa-testing">{{$t("serTwo")}}</nuxt-link></li>
+                      <li><nuxt-link to="/graphism-design">{{$t("DESIGN")}}</nuxt-link></li>
+                      <li><nuxt-link to="/digital-marketing">{{$t("DIGITAL")}}</nuxt-link></li>
+                      <li><nuxt-link to="/business">{{$t("BUSINESS")}}</nuxt-link></li>
+                      <li><nuxt-link to="/tech">{{$t("ECHNOLOGIES")}}</nuxt-link></li>
                     </ul>
                   </li>
-                  <li class="menu-item-has-children"><nuxt-link to="/portfolio">Portfolio</nuxt-link>
+                  <li class="menu-item-has-children"><nuxt-link to="/portfolio">{{$t("Gallerie")}}</nuxt-link>
                     <ul class="sub-menu">
-                      <li><nuxt-link to="/portfolio">Portfolio v1</nuxt-link></li>
-                      <li><nuxt-link to="/portfolio-2">Portfolio v2</nuxt-link></li>
-                      <li><nuxt-link to="/portfolio-detail">Portfolio Detail</nuxt-link></li>
+                      <li><nuxt-link to="/portfolio">Gallerie v1</nuxt-link></li>
+                      <li><nuxt-link to="/portfolio-2">Gallerie v2</nuxt-link></li>
+                      <li><nuxt-link to="/portfolio-detail">Gallerie Detail</nuxt-link></li>
                     </ul>
                   </li>
                   <li class="menu-item-has-children"><nuxt-link to="/blog">Blog</nuxt-link>
@@ -123,11 +123,11 @@
                       </ul>
                     </li>
                     <li class="menu-item-has-children">
-                      <a href="javascript:void(0);">Portfolio</a>
+                      <a href="javascript:void(0);">Gallerie</a>
                       <ul class="dl-submenu">
-                        <li><nuxt-link to="/portfolio">Portfolio v1</nuxt-link></li>
-                        <li><nuxt-link to="/portfolio-2">Portfolio v2</nuxt-link></li>
-                        <li><nuxt-link to="/portfolio-detail">Portfolio Detail</nuxt-link></li>
+                        <li><nuxt-link to="/portfolio">Gallerie v1</nuxt-link></li>
+                        <li><nuxt-link to="/portfolio-2">Gallerie v2</nuxt-link></li>
+                        <li><nuxt-link to="/portfolio-detail">Gallerie Detail</nuxt-link></li>
                       </ul>
                     </li>
                     <li class="menu-item-has-children">

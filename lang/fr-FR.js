@@ -7,6 +7,7 @@ export default {
   BUSINESS: "BUSINESS",
   ECHNOLOGIES: "Technologies",
   propos: "A Propos",
+  Gallerie:"Gallerie",
   contact: "Nous Contacter",
   titleContact: "LAISSEZ NOUS UN MESSAGE",
   MsgContact: "Nous nous engageons à fournir à nos clients un service exceptionnel\n" +

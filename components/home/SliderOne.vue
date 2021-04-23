@@ -21,6 +21,70 @@
         <!-- /.container -->
       </div>
       <!-- /.item -->
+
+        <!-- /.item -->
+      <div class="item slider-one__slider-3" style="background-image: url(/images/slider/pro1.jpg);height" >
+        <div class="container slider__content">
+          <p class="slider-one__text"><br></p>
+          <div class="slider-one__title tp-caption tp-resizeme">PROGRAMMATION</div>
+          <a href="#" class="common_btn"><span>Découvrir plus</span></a>
+        </div>
+        <!-- /.container -->
+      </div>
+      <!-- /.item -->
+
+        <!-- /.item -->
+      <div class="item slider-one__slider-4" style="background-image: url(/images/slider/QA5.jpg);">
+        <div class="container slider__content">
+          <p class="slider-one__text"><br><br></p>
+          <div class="slider-one__title tp-caption tp-resizeme"> QA TESTING</div>
+          <a href="#" class="common_btn"><span>Découvrir plus</span></a>
+        </div>
+        <!-- /.container -->
+      </div>
+      <!-- /.item -->
+
+         <!-- /.item -->
+      <div class="item slider-one__slider-5" style="background-image: url(/images/slider/04.jpg);">
+        <div class="container slider__content">
+          <p class="slider-one__text"><br></p>
+          <div class="slider-one__title tp-caption tp-resizeme">GRAPHIC DESIGN <br></div>
+          <a href="#" class="common_btn"><span>Découvrir plus</span></a>
+        </div>
+        <!-- /.container -->
+      </div>
+      <!-- /.item -->
+
+          <!-- /.item -->
+      <div class="item slider-one__slider-6" style="background-image: url(/images/slider/GD.jpg);">
+        <div class="container slider__content">
+          <p class="slider-one__text"><br></p>
+          <div class="slider-one__title tp-caption tp-resizeme">MARKETING DIGITAL<br></div>
+          <a href="#" class="common_btn"><span>Découvrir plus</span></a>
+        </div>
+        <!-- /.container -->
+      </div>
+      <!-- /.item -->
+         <!-- /.item -->
+      <div class="item slider-one__slider-7" style="background-image: url(/images/slider/suit-690048.jpg);">
+        <div class="container slider__content">
+          <p class="slider-one__text"><br></p>
+          <div class="slider-one__title tp-caption tp-resizeme">BUSINESS<br></div>
+          <a href="#" class="common_btn"><span>Découvrir plus</span></a>
+        </div>
+        <!-- /.container -->
+      </div>
+      <!-- /.item -->
+        <!-- /.item -->
+      <div class="item slider-one__slider-8" style="background-image: url(/images/slider/4884273.jpg);">
+        <div class="container slider__content">
+          <p class="slider-one__text"><br></p>
+          <div class="slider-one__title tp-caption tp-resizeme">TECHNOLOGIE<br></div>
+          <a href="#" class="common_btn"><span>Découvrir plus</span></a>
+        </div>
+        <!-- /.container -->
+      </div>
+      <!-- /.item -->
     </div>
   </section>
     <!-- /.slider-one__carousel -->
@@ -42,7 +106,7 @@
             animateOut: "slideOutDown",
             animateIn: "fadeIn",
             active: true,
-            smartSpeed: 1000,
+            smartSpeed: 100,
             autoplay: 7000
           });
           slideOneWrap.find(".slide-one__left-btn").on("click", function (e) {

@@ -8,6 +8,7 @@
     <Funfact />
     <Team />
     <Clients />
+    <Testimonial2 />
     <Testimonial />
     <BlogHome />
     <CallToAction />
@@ -23,6 +24,7 @@
   import Funfact from "~/components/home/Funfact";
   import Team from "~/components/home/Team";
   import Clients from "~/components/home/Clients";
+  import Testimonial2 from "~/components/home/Testimonial2";
   import Testimonial from "~/components/home/Testimonial";
   import BlogHome from "~/components/home/BlogHome";
   import CallToAction from "~/components/home/CallToAction";
@@ -36,6 +38,7 @@
       Funfact,
       Team,
       Clients,
+       Testimonial2,
       Testimonial,
       BlogHome,
       CallToAction,
