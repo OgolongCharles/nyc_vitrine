@@ -35,7 +35,7 @@
           <div class="row">
             <div class="col-lg-12 col-sm-12">
               <div class="CL_content">
-                <img src="/images/home_1/4.jpg" alt="">
+                <img src="/images/home_1/firm-handshake.jpg" alt="">
                 <div class="abc_inner">
                   <div class="row">
                     <div class="col-lg-5 col-sm-5 col-md-5">

@@ -4,7 +4,7 @@ export default {
   serTwo: "Qa & Testing",
   DESIGN: "Graphics & Design",
   DIGITAL: "Digital Marketing",
-  ECHNOLOGIES: "ETechnologies",
+  ECHNOLOGIES: "Technologies",
   propos: "About",
   contact: "contact us",
   bureau: "Offices near you",
@@ -18,5 +18,5 @@ export default {
   abonnet: "subscribe for latest articles and resources",
   name: "Votre Nom",
   email: "mail",
-
+  Gallerie:"Gallery",
 }
