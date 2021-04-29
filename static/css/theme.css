@@ -2330,7 +2330,8 @@ a.slider-one__text {
 }
  .pageBannerAbout {
    background: url(../images/bg/Cover_Facebook.jpg) no-repeat center center / cover;
-   margin-top: 54px;
+   margin-top: 4px;
+   background-color: #000;
  }
 .pageBannerServices {
   background: url(../images/bg/services_plus_margin.png) no-repeat center center / cover;

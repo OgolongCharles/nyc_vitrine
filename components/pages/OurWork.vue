@@ -13,8 +13,8 @@
         </div>
         <div class="col-lg-6 col-sm-6">
           <div class="ab_detail_wrap">
-            <h4 class="sub_title">the only design you need</h4>
-            <h2 class="sec_title">Make amazing websites without touching cod</h2>
+            <h4 class="sub_title">with NYNE CORP</h4>
+            <h2 class="sec_title">Make amazing websites and moblie apps for your projects</h2>
             <p class="sec_desc">
               Tincidunt elit magnis nulla facilisis sagittis maecenas. Sapien nunc amet ultrices,
               dolores sit ipsum velit purus aliquet, massa fringilla leo orci. Lorem ipsum
