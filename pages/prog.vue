@@ -2,10 +2,10 @@
   <div>
     <PageBanner pageTitle="Programmation" bannerCss="pageBannerProg"/>
     <ProgServiceHeader />
-    <ProgServices />
-    <WhatWeDoTwo />
-    <Funfact />
-    <Clients />
+  <!--  <ProgServices /> -->
+   <!-- <WhatWeDoTwo /> -->
+    <!--<Funfact />
+    <Clients />-->
   </div>
 </template>
 

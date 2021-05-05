@@ -3,52 +3,87 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-12 text-center">
-          <h4 class="sub_title">Agilité   -   Techno  - Logique </h4>
-          <h2 class="sec_title">Nous répondons rapidement aux besoins spécifiques de votre entreprise.</h2>
-          <p class="sec_desc">
-            Créez l'application de vos rêves à partir de zéro.<br>
-            Simplicité - Compatibilité - Accessibilité
-          </p>
+          <h4 class="sub_title">Bienvenue sur NYNECORP - Agence de développement IT - QA - DIGITALE</h4>
+          <h2 class="sec_title">{{$t("serPro")}}</h2>
+        
         </div>
       </div>
       <div class="row">
         <div class="col-lg-4 col-sm-6 col-md-4">
           <div class="icon_box_2 text-center">
-            <h3>Développement Web</h3>
+            <h3>Sites Vitrines</h3>
             <p>
-              Éditeur de contenu (CMS) ,Gestion de vos clients, Rapports PDF et statistiques, Commerce électronique
-              Infolettres , Gestionnaire de fichiers, Gestionnaire de formulaires, Logiciel d'inventaire ,
-              Réservations , Facturation ,Nouvelles et blog
+            Nkap développe des sites vitrines professionnels pour Entreprises et Particuliers, avec un accent sur la performance et l'expérience utilisateur 
             </p>
             <div class="iconWrap">
-              <i class="mei-settings"></i>
+           
+              <img src="/images/service/p1.jpg" alt="">
+           
             </div>
-            <nuxt-link to="/service-detail">Découvrir plus</nuxt-link>
+            <nuxt-link to="/prog">Lire Plus</nuxt-link>
           </div>
         </div>
         <div class="col-lg-4 col-sm-6 col-md-4">
           <div class="icon_box_2 text-center">
-            <h3>Développement Mobile</h3>
+            <h3>Applications Mobiles</h3>
             <p>
-              Prototypes,Design et interfaces.
-              Sous Android et iOS (prise de commandes, signature électronique, terminaux durcis, etc.)
+             Nkap dispose de toute l'expertise dont vous avez besoin pour développer les meilleurs Applications Mobiles sur endroide comme sur IOS 
             </p>
             <div class="iconWrap">
-              <i class="mei-pie-chart"></i>
+              <img src="/images/service/p2.jpg" alt="">
             </div>
-            <nuxt-link to="/service-detail">Découvrir plus</nuxt-link>
+            <nuxt-link to="/qa-testing">Lire Plus</nuxt-link>
           </div>
         </div>
         <div class="col-lg-4 col-sm-6 col-md-4">
           <div class="icon_box_2 text-center">
-            <h3>Développement d'App de Bureau</h3>
+            <h3>Applications De Bureau</h3>
             <p>
-              Design de base et prototypes.
+            Nkap met à votre disposition des solutions multiples d'applications rapides et stables pour des clients specifiques 
             </p>
             <div class="iconWrap">
-              <i class="mei-transfer"></i>
+               <img src="/images/service/p3.jpg" alt="">
             </div>
-            <nuxt-link to="/service-detail">Découvrir plus</nuxt-link>
+            <nuxt-link to="/graphism-design">Lire plus</nuxt-link>
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-lg-4 col-sm-6 col-md-4">
+          <div class="icon_box_2 text-center">
+            <h3>Sites Web</h3>
+            <p>
+           Nkap edite et intègre des solutions web pour entreprise de toutes taile (Site E-Commerce , Prestashop , Shopify) 
+            </p>
+            <div class="iconWrap">
+               <img src="/images/service/p4.jpg" alt="">
+            </div>
+            <nuxt-link to="/digital-marketing">Lire Plus</nuxt-link>
+          </div>
+        </div>
+        <div class="col-lg-4 col-sm-6 col-md-4">
+          <div class="icon_box_2 text-center">
+            <h3>CMS </h3>
+            <p>
+              Nkap développe des thèmes sur mesure et des extentions wordpress pour vos besoins spécifiques des fonctionalités les plus simples au plus évoluées
+            </p>
+            <div class="iconWrap">
+                <img src="/images/service/p5.jpg" alt="">
+            </div>
+            <nuxt-link to="/business">Lire Plus</nuxt-link>
+          </div>
+        </div>
+        <div class="col-lg-4 col-sm-6 col-md-4">
+          <div class="icon_box_2 text-center">
+            <h3>Site Web de Zéro </h3>
+            <p>
+             Expert dans le dévelopement web ,nous partons de zero et concevons des sites élegant et performant pour les entreprises et particuliers 
+            </p>
+            <div class="iconWrap">
+              <img src="/images/service/p6.jpg" alt="">
+            </div>
+            <nuxt-link to="/tech">Lire Plus</nuxt-link>
           </div>
         </div>
       </div>
@@ -63,5 +98,26 @@
 </script>
 
 <style scoped>
-
+.row{
+  margin-top:50px;
+}
+.iconWrap{
+  height: 200px;
+  width: 100%;
+}
+.col-lg-4 p{
+  height: 200px
+}
+.iconWrap img{
+    height: 200px;
+  width: 100%;
+}
+.service_section_2{
+  background: radial-gradient(circle at center center, #fff 15%, #4085f4 100%) !important;
+}
+.col-lg-4:hover{
+  transition-delay:2s ease-out;
+  cursor: pointer;
+transform:translateY(-2%);
+}
 </style>

@@ -1,17 +1,17 @@
 <template>
   <div>
     <PageBanner pageTitle="Marketing Digital" bannerCss="pageBannerDigitalMark" />
-    <ServicesTwo />
-    <Services />
+    <MarkDigitServiceHeader />
+  <!--  <Services />
     <WhatWeDoTwo />
     <Funfact />
-    <Clients />
+    <Clients /> -->
   </div>
 </template>
 
 <script>
   import PageBanner from "~/components/pages/PageBanner";
-  import ServicesTwo from "~/components/home2/ServicesTwo";
+  import MarkDigitServiceHeader from "~/components/services/marketing-digital/MarkDigitServiceHeader";
   import Services from "~/components/home/Services";
   import WhatWeDoTwo from "~/components/home2/WhatWeDoTwo";
   import Funfact from "~/components/home/Funfact";
@@ -19,7 +19,7 @@
   export default {
     components: {
       PageBanner,
-      ServicesTwo,
+     MarkDigitServiceHeader,
       Services,
       WhatWeDoTwo,
       Funfact,

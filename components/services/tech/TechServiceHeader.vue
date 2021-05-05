@@ -4,47 +4,88 @@
       <div class="row">
         <div class="col-lg-12 text-center">
           <h4 class="sub_title">Bienvenue sur NYNECORP - Agence de développement IT - QA - DIGITALE</h4>
-          <h2 class="sec_title">We design digital products that<br> help grow businesses.</h2>
+          <h2 class="sec_title">{{$t("ECHNOLOGIES")}}</h2>
           <p class="sec_desc">
-            We are committed to providing our customers with exceptional service<br> while offering our employees the best training.
+           
           </p>
         </div>
       </div>
       <div class="row">
         <div class="col-lg-4 col-sm-6 col-md-4">
           <div class="icon_box_2 text-center">
-            <h3>Modren Design</h3>
+            <h3>Reseaux Informatiques</h3>
             <p>
-              Phaseus sit amet tristique lorem ipsum is simply free text ligua donec culis leo sus cipit.
+            Notre offre consiste en la réalisation, administration des systèmes et réseaux informatiques, pour lesquels nous assurons un suivi minutieux
             </p>
             <div class="iconWrap">
-              <i class="mei-settings"></i>
+           
+              <img src="/images/service/tech1.jpg" alt="">
+           
             </div>
-            <nuxt-link to="/service-detail">discover more</nuxt-link>
+            <nuxt-link to="/prog">Lire Plus</nuxt-link>
           </div>
         </div>
         <div class="col-lg-4 col-sm-6 col-md-4">
           <div class="icon_box_2 text-center">
-            <h3>Digital products</h3>
+            <h3>Cloud</h3>
             <p>
-              Phaseus sit amet tristique lorem ipsum is simply free text ligua donec culis leo sus cipit.
+             Service Cloud est le service de l'entreprise Nkap pour diminuer le temps de réponse, et offrir un service proactif et de qualité.
             </p>
             <div class="iconWrap">
-              <i class="mei-pie-chart"></i>
+              <img src="/images/service/cloud.jpg" alt="">
             </div>
-            <nuxt-link to="/service-detail">discover more</nuxt-link>
+            <nuxt-link to="/qa-testing">Lire Plus</nuxt-link>
           </div>
         </div>
         <div class="col-lg-4 col-sm-6 col-md-4">
           <div class="icon_box_2 text-center">
-            <h3>Marketing Strategy</h3>
+            <h3>Bases de donnees</h3>
             <p>
-              Phaseus sit amet tristique lorem ipsum is simply free text ligua donec culis leo sus cipit.
+           Notre équipe spécialisée en gestion des bases de données, est composée d’experts certifiés, éprouvés par de nombreuses références
             </p>
             <div class="iconWrap">
-              <i class="mei-transfer"></i>
+               <img src="/images/service/data.jpg" alt="">
             </div>
-            <nuxt-link to="/service-detail">discover more</nuxt-link>
+            <nuxt-link to="/graphism-design">Lire plus</nuxt-link>
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-lg-4 col-sm-6 col-md-4">
+          <div class="icon_box_2 text-center">
+            <h3>Securite informatique</h3>
+            <p>
+          Nos experts de la cybersécurité sont à votre écoute pour vous fournir des réponses immédiates et des formations afin de faire face aux menaces avancées et inconnues
+            </p>
+            <div class="iconWrap">
+               <img src="/images/service/tech3.jpg" alt="">
+            </div>
+            <nuxt-link to="/digital-marketing">Lire Plus</nuxt-link>
+          </div>
+        </div>
+        <div class="col-lg-4 col-sm-6 col-md-4">
+          <div class="icon_box_2 text-center">
+            <h3>Audit </h3>
+            <p>
+             Afin de réaliser des audits internes efficients de votre systéme, nos équipes intègrent au cœur de leurs méthodologies les nouvelles technologies 
+            </p>
+            <div class="iconWrap">
+                <img src="/images/service/tech5.jpg" alt="">
+            </div>
+            <nuxt-link to="/business">Lire Plus</nuxt-link>
+          </div>
+        </div>
+        <div class="col-lg-4 col-sm-6 col-md-4">
+          <div class="icon_box_2 text-center">
+            <h3>Microsoft 365 Business </h3>
+            <p>
+            Toutefois, nous recommandons à nos clients professionnels de recourir aux services de support technique étendus via le Support Premier pour entreprises et Services Microsoft 
+            </p>
+            <div class="iconWrap">
+              <img src="/images/service/tech6.jpg" alt="">
+            </div>
+            <nuxt-link to="/tech">Lire Plus</nuxt-link>
           </div>
         </div>
       </div>
@@ -59,5 +100,26 @@
 </script>
 
 <style scoped>
-
+.row{
+  margin-top:50px;
+}
+.iconWrap{
+  height: 200px;
+  width: 100%;
+}
+.col-lg-4 p{
+  height: 200px
+}
+.iconWrap img{
+    height: 200px;
+  width: 100%;
+}
+.service_section_2{
+  background: radial-gradient(circle at center center, #fff 15%, #4085f4 100%) !important;
+}
+.col-lg-4:hover{
+  transition-delay:2s ease-out;
+  cursor: pointer;
+transform:translateY(-2%);
+}
 </style>

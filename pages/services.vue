@@ -2,9 +2,9 @@
   <div>
     <PageBanner pageTitle="Services" bannerCss="pageBannerServices"/>
     <ServicesTwo />
-    <Services />
-    <WhatWeDoTwo />
-    <Funfact />
+   <!-- <Services /> -->
+   <!--  <WhatWeDoTwo /> -->
+    <!--<Funfact /> -->
     <Clients />
   </div>
 </template>
