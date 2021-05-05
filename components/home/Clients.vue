@@ -5,9 +5,7 @@
         <div class="col-lg-12 text-center">
           <h4 class="sub_title">Nos clients</h4>
           <h2 class="sec_title">Ils croient en nous</h2>
-          <p class="sec_desc">
-            Nous nous engageons à fournir à nos clients un service exceptionnel <br> tout en offrant à nos employés la meilleure formation.
-          </p>
+        
         </div>
       </div>
       <div class="row">
@@ -74,6 +72,7 @@
             items: 4,
             margin: 30,
             autoplay: true,
+            loop: true,
             nav: false,
             responsive: {
               0: {

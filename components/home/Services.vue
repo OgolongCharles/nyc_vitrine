@@ -11,8 +11,8 @@
         </div>
       </div>
       <div class="row custom_column">
-        <div class="col-lg-3 col-sm-4 col-md-3">
-          <nuxt-link to="/service-detail" class="icon_box_1 text-center">
+        <div class="col-lg-2 col-sm-4 col-md-2">
+          <nuxt-link to="/prog" class="icon_box_1 text-center">
             <div class="flipper">
               <div class="front">
                 <i class="mei-web-design"></i>
@@ -25,7 +25,7 @@
             </div>
           </nuxt-link>
         </div>
-        <div class="col-lg-3 col-sm-4 col-md-3">
+        <div class="col-lg-2 col-sm-4 col-md-2">
           <nuxt-link to="/service-detail" class="icon_box_1 text-center">
             <div class="flipper">
               <div class="front">
@@ -39,7 +39,7 @@
             </div>
           </nuxt-link>
         </div>
-        <div class="col-lg-3 col-sm-4 col-md-3">
+        <div class="col-lg-2 col-sm-4 col-md-2">
           <nuxt-link to="/service-detail" class="icon_box_1 text-center">
             <div class="flipper">
               <div class="front">
@@ -53,7 +53,7 @@
             </div>
           </nuxt-link>
         </div>
-        <div class="col-lg-3 col-sm-4 col-md-3">
+        <div class="col-lg-2 col-sm-4 col-md-2">
           <nuxt-link to="/service-detail" class="icon_box_1 text-center">
             <div class="flipper">
               <div class="front">
@@ -67,7 +67,7 @@
             </div>
           </nuxt-link>
         </div>
-        <div class="col-lg-3 col-sm-4 col-md-3">
+        <div class="col-lg-2 col-sm-4 col-md-2">
           <nuxt-link to="service_detail.html" class="icon_box_1 text-center">
             <div class="flipper">
               <div class="front">
@@ -80,7 +80,21 @@
               </div>
             </div>
           </nuxt-link>
-        </div>
+         </div>
+          <div class="col-lg-2 col-sm-4 col-md-2">
+                <nuxt-link to="service_detail.html" class="icon_box_1 text-center">
+                  <div class="flipper">
+                    <div class="front">
+                      <i class="mei-app-development"></i>
+                      <h3>Technologies</h3>
+                    </div>
+                    <div class="back">
+                      <i class="mei-app-development"></i>
+                      <h3>BUSINESS</h3>
+                    </div>
+                  </div>
+                </nuxt-link>
+         </div>
       </div>
     </div>
   </section>
@@ -88,10 +102,37 @@
 
 <script>
     export default {
-      name: "Services"
+      name: "Services",
+        mounted() {
+        if ($('.custom_column').length > 0) {
+          $('.custom_column').owlCarousel({
+            items: 4,
+            margin: 10,
+            autoplay: true,
+            nav: false,
+            loop: true,
+            responsive: {
+              0: {
+                items: 1
+              },
+              560: {
+                items: 2
+              },
+              768: {
+                items: 3
+              },
+              992: {
+                items: 4
+              }
+            }
+          });
+        }
+      }
     }
 </script>
 
 <style scoped>
-
+.icon_box_1{
+  width: 200px !important;
+}
 </style>

@@ -1,17 +1,17 @@
 <template>
   <div>
     <PageBanner pageTitle="QA & Testing" bannerCss="pageBannerQa"/>
-    <ServicesTwo />
-    <Services />
+    <QATestServiceHeader />
+    <!--<Services />
     <WhatWeDoTwo />
     <Funfact />
-    <Clients />
+    <Clients />-->
   </div>
 </template>
 
 <script>
   import PageBanner from "~/components/pages/PageBanner";
-  import ServicesTwo from "~/components/home2/ServicesTwo";
+  import QATestServiceHeader from "~/components/services/qa-testing/QATestServiceHeader";
   import Services from "~/components/home/Services";
   import WhatWeDoTwo from "~/components/home2/WhatWeDoTwo";
   import Funfact from "~/components/home/Funfact";
@@ -19,7 +19,7 @@
   export default {
     components: {
       PageBanner,
-      ServicesTwo,
+      QATestServiceHeader,
       Services,
       WhatWeDoTwo,
       Funfact,

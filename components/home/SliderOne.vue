@@ -34,7 +34,7 @@
       <!-- /.item -->
 
         <!-- /.item -->
-      <div class="item slider-one__slider-4" style="background-image: url(/images/slider/QA5.jpg);">
+      <div class="item slider-one__slider-4" style="background-image: url(/images/slider/QA.jpg);">
         <div class="container slider__content">
           <p class="slider-one__text"><br><br></p>
           <div class="slider-one__title tp-caption tp-resizeme"> QA TESTING</div>
@@ -45,7 +45,7 @@
       <!-- /.item -->
 
          <!-- /.item -->
-      <div class="item slider-one__slider-5" style="background-image: url(/images/slider/04.jpg);">
+      <div class="item slider-one__slider-5" style="background-image: url(/images/slider/graph.jpg);">
         <div class="container slider__content">
           <p class="slider-one__text"><br></p>
           <div class="slider-one__title tp-caption tp-resizeme">GRAPHIC DESIGN <br></div>
