@@ -45,11 +45,11 @@
                 <i class="fa fa-twitter"></i>Twitter</a>
               </li>
               <li>
-                <a href="https://www.facebook.com/nynecorp", target="_blank">
+                <a href="https://www.facebook.com/nynecorp" target="_blank">
                 <i class="fa fa-facebook-square"></i>Facebook</a>
               </li>
               <li>
-                <a href="https://www.linkedin.com/company/nyne-corp", target="_blank">
+                <a href="https://www.linkedin.com/company/nyne-corp" target="_blank">
                   <i class="fa fa-linkedin-square"></i>LinkedIn</a>
               </li>
               <li>
