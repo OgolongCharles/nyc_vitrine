@@ -1,6 +1,7 @@
 <template>
   <div>
     <SliderOne />
+    <icons />
     <Services />
     <AboutAgency />
     <WhatWeDo />
@@ -16,6 +17,7 @@
 </template>
 
 <script>
+  import icons from "~/components/icons";
   import SliderOne from "~/components/home/SliderOne";
   import Services from "~/components/home/Services";
   import AboutAgency from "~/components/home/AboutAgency";
@@ -30,6 +32,7 @@
   import CallToAction from "~/components/home/CallToAction";
   export default {
     components: {
+      icons,
       SliderOne,
       Services,
       AboutAgency,

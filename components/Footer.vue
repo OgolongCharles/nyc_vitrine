@@ -29,7 +29,7 @@
                 <p class="ftp__links-desc__desc">{{ $t("abonnet") }}</p>
                 <form action="#">
                   <input type="email" placeholder="enter email" v-model="email" required>
-                  <button  @click.prevent="contact"><i class="fas fa-envelope-square"></i></button>
+                  <button  @click.prevent="contact"><i class="fas fa-envelope"></i></button>
                 </form>
               </div><!-- end ftp__form-subs -->
             </div><!-- end ftp__links -->
@@ -45,11 +45,11 @@
                 <i class="fa fa-twitter"></i>Twitter</a>
               </li>
               <li>
-                <a href="https://www.facebook.com/nynecorp", target="_blank">
+                <a href="https://www.facebook.com/nynecorp" target="_blank">
                 <i class="fa fa-facebook-square"></i>Facebook</a>
               </li>
               <li>
-                <a href="https://www.linkedin.com/company/nyne-corp", target="_blank">
+                <a href="https://www.linkedin.com/company/nyne-corp" target="_blank">
                   <i class="fa fa-linkedin-square"></i>LinkedIn</a>
               </li>
               <li>
