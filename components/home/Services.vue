@@ -4,9 +4,9 @@
       <div class="row">
         <div class="col-lg-12 text-center">
           <h4 class="sub_title red_color">Nos services</h4>
-          <h2 class="sec_title white">Nous concevons des produits numériques qui <br> aident à développer les entreprises.</h2>
+         
           <p class="sec_desc color_aaa">
-            Nous nous engageons à fournir à nos clients un service exceptionnel <br> tout en offrant à nos employés la meilleure formation.
+           
           </p>
         </div>
       </div>
@@ -134,5 +134,6 @@
 <style scoped>
 .icon_box_1{
   width: 200px !important;
+  height: 300px !important;
 }
 </style>

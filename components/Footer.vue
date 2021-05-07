@@ -29,7 +29,7 @@
                 <p class="ftp__links-desc__desc">{{ $t("abonnet") }}</p>
                 <form action="#">
                   <input type="email" placeholder="enter email" v-model="email" required>
-                  <button  @click.prevent="contact"><i class="fas fa-envelope-square"></i></button>
+                  <button  @click.prevent="contact"><i class="fas fa-envelope"></i></button>
                 </form>
               </div><!-- end ftp__form-subs -->
             </div><!-- end ftp__links -->
