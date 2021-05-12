@@ -17,7 +17,7 @@
             </p>
             <div class="iconWrap">
            
-              <img src="/images/service/p1.jpg" alt="">
+              <img src="/images/service/p1.png" alt="">
            
             </div>
             <nuxt-link to="/prog">Lire Plus</nuxt-link>
@@ -30,7 +30,7 @@
              Nkap dispose de toute l'expertise dont vous avez besoin pour développer les meilleurs Applications Mobiles sur endroide comme sur IOS 
             </p>
             <div class="iconWrap">
-              <img src="/images/service/p2.jpg" alt="">
+              <img src="/images/service/p2.png" alt="">
             </div>
             <nuxt-link to="/qa-testing">Lire Plus</nuxt-link>
           </div>
@@ -42,7 +42,7 @@
             Nkap met à votre disposition des solutions multiples d'applications rapides et stables pour des clients specifiques 
             </p>
             <div class="iconWrap">
-               <img src="/images/service/p3.jpg" alt="">
+               <img src="/images/service/p3.png" alt="">
             </div>
             <nuxt-link to="/graphism-design">Lire plus</nuxt-link>
           </div>
@@ -57,7 +57,7 @@
            Nkap edite et intègre des solutions web pour entreprise de toutes taile (Site E-Commerce , Prestashop , Shopify) 
             </p>
             <div class="iconWrap">
-               <img src="/images/service/p4.jpg" alt="">
+               <img src="/images/service/p4.png" alt="">
             </div>
             <nuxt-link to="/digital-marketing">Lire Plus</nuxt-link>
           </div>
@@ -69,7 +69,7 @@
               Nkap développe des thèmes sur mesure et des extentions wordpress pour vos besoins spécifiques des fonctionalités les plus simples au plus évoluées
             </p>
             <div class="iconWrap">
-                <img src="/images/service/p5.jpg" alt="">
+                <img src="/images/service/p5.png" alt="">
             </div>
             <nuxt-link to="/business">Lire Plus</nuxt-link>
           </div>
@@ -81,7 +81,7 @@
              Expert dans le dévelopement web ,nous partons de zero et concevons des sites élegant et performant pour les entreprises et particuliers 
             </p>
             <div class="iconWrap">
-              <img src="/images/service/p6.jpg" alt="">
+              <img src="/images/service/p6.png" alt="">
             </div>
             <nuxt-link to="/tech">Lire Plus</nuxt-link>
           </div>

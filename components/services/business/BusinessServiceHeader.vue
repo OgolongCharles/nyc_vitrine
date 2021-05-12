@@ -19,7 +19,7 @@
             </p>
             <div class="iconWrap">
            
-              <img src="/images/service/BizA.jpg" alt="">
+              <img src="/images/service/BizA.png" alt="">
            
             </div>
             <nuxt-link to="/prog">Lire Plus</nuxt-link>
@@ -32,7 +32,7 @@
             Nous vous aidons définir le projet, le réduire à un ensemble de tâches à gérer, obtenir des ressources appropriées et construire une équipe pour effectuer le travail 
             </p>
             <div class="iconWrap">
-              <img src="/images/service/Biz1.jpg" alt="">
+              <img src="/images/service/Biz1.png" alt="">
             </div>
             <nuxt-link to="/qa-testing">Lire Plus</nuxt-link>
           </div>
@@ -44,7 +44,7 @@
            nous vous aidons en concevant Un business plan établi une feuille de route écrite pour l'entreprise d'un point de vue marketing, financier et opérationnel 
             </p>
             <div class="iconWrap">
-               <img src="/images/service/Biz2.jpg" alt="">
+               <img src="/images/service/Biz2.png" alt="">
             </div>
             <nuxt-link to="/graphism-design">Lire plus</nuxt-link>
           </div>
@@ -59,7 +59,7 @@
           Nous vous accompagnons dans la conception des cahier de charges pour la réalisation de vos projets 
             </p>
             <div class="iconWrap">
-               <img src="/images/service/Biz3.jpg" alt="">
+               <img src="/images/service/Biz3.png" alt="">
             </div>
             <nuxt-link to="/digital-marketing">Lire Plus</nuxt-link>
           </div>
@@ -71,7 +71,7 @@
             Pour la gestion RH de votre entreprise, les experts Nkap vous apportent des conseils et des solutions sur mesure . Audit de vos ressources humaines et bien d'autres 
             </p>
             <div class="iconWrap">
-                <img src="/images/service/Biz4.jpg" alt="">
+                <img src="/images/service/Biz4.png" alt="">
             </div>
             <nuxt-link to="/business">Lire Plus</nuxt-link>
           </div>
@@ -83,7 +83,7 @@
             Bénéficiez des conseils d'un spécialiste du marketing des services. Notre agence est un cabinet de conseil marketing. 
             </p>
             <div class="iconWrap">
-              <img src="/images/service/Biz5.jpg" alt="">
+              <img src="/images/service/Biz5.png" alt="">
             </div>
             <nuxt-link to="/tech">Lire Plus</nuxt-link>
           </div>

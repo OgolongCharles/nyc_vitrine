@@ -3,10 +3,10 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-12 text-center">
-          <h4 class="sub_title">L'équipe NYNE CORP</h4>
-          <h2 class="sec_title">Les experts à votre disposition</h2>
+          <h4 class="sub_title"></h4>
+          <h2 class="sec_title"> {{$t("Our")}} </h2>
           <p class="sec_desc">
-            Nous nous engageons à fournir à nos clients un service exceptionnel tout en <br> offrant à nos employés la meilleure formation.
+           
           </p>
         </div>
       </div>

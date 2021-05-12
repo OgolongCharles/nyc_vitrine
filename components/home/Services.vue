@@ -3,7 +3,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-12 text-center">
-          <h4 class="sub_title red_color">Nos services</h4>
+          <h4 class="sec_title red_color">{{$t("services")}}</h4>
          
           <p class="sec_desc color_aaa">
            
@@ -15,12 +15,12 @@
           <nuxt-link to="/prog" class="icon_box_1 text-center">
             <div class="flipper">
               <div class="front">
-                <i class="mei-web-design"></i>
-                <h3>Développement Web</h3>
+                  <img src="/images/service/NyneCorp-54.jpg" alt="">
+                <h3>Outsourcing</h3>
               </div>
               <div class="back">
-                <i class="mei-web-design"></i>
-                <h3>Développement Web</h3>
+                 <img src="/images/service/NyneCorp-54.jpg" alt="">
+                <h3>Outsourcing</h3>
               </div>
             </div>
           </nuxt-link>
@@ -29,12 +29,12 @@
           <nuxt-link to="/service-detail" class="icon_box_1 text-center">
             <div class="flipper">
               <div class="front">
-                <i class="mei-computer-graphic"></i>
-                <h3>Conception Graphique</h3>
+                 <img src="/images/service/NyneCorp-69.jpg" alt="">
+                <h3>{{$t("serPro")}}</h3>
               </div>
               <div class="back">
-                <i class="mei-computer-graphic"></i>
-                <h3>Conception Graphique</h3>
+              <img src="/images/service/NyneCorp-69.jpg" alt="">
+                <h3>{{$t("serPro")}}</h3>
               </div>
             </div>
           </nuxt-link>
@@ -43,12 +43,12 @@
           <nuxt-link to="/service-detail" class="icon_box_1 text-center">
             <div class="flipper">
               <div class="front">
-                <i class="mei-development-1"></i>
-                <h3>Marketing Digital</h3>
+                 <img src="/images/service/NyneCorp-68.jpg" alt="">
+                <h3>{{$t("serTwo")}}</h3>
               </div>
               <div class="back">
-                <i class="mei-development-1"></i>
-                <h3>Marketing Digital</h3>
+                <img src="/images/service/NyneCorp-68.jpg" alt="">
+                <h3>{{$t("serTwo")}}</h3>
               </div>
             </div>
           </nuxt-link>
@@ -57,12 +57,12 @@
           <nuxt-link to="/service-detail" class="icon_box_1 text-center">
             <div class="flipper">
               <div class="front">
-                <i class="mei-development"></i>
-                <h3>Automatisation de Tests</h3>
+                <img src="/images/service/NyneCorp-71.jpg" alt="">
+                <h3>{{$t("DESIGN")}}</h3>
               </div>
               <div class="back">
-                <i class="mei-development"></i>
-                <h3>Automatisation de Tests</h3>
+                <img src="/images/service/NyneCorp-71.jpg" alt="">
+                <h3>{{$t("DESIGN")}}</h3>
               </div>
             </div>
           </nuxt-link>
@@ -71,12 +71,12 @@
           <nuxt-link to="service_detail.html" class="icon_box_1 text-center">
             <div class="flipper">
               <div class="front">
-                <i class="mei-app-development"></i>
-                <h3>Developpement Applicatif</h3>
+                 <img src="/images/service/NyneCorp-70.jpg" alt="">
+                <h3>{{$t("DIGITAL")}}</h3>
               </div>
               <div class="back">
-                <i class="mei-app-development"></i>
-                <h3>Developpement Applicatif</h3>
+                  <img src="/images/service/NyneCorp-70.jpg" alt="">
+                <h3>{{$t("DIGITAL")}}</h3>
               </div>
             </div>
           </nuxt-link>
@@ -85,12 +85,26 @@
                 <nuxt-link to="service_detail.html" class="icon_box_1 text-center">
                   <div class="flipper">
                     <div class="front">
-                      <i class="mei-app-development"></i>
-                      <h3>Technologies</h3>
+                        <img src="/images/service/NyneCorp-72.jpg" alt="">
+                      <h3>{{$t("BUSINESS")}}</h3>
                     </div>
                     <div class="back">
-                      <i class="mei-app-development"></i>
-                      <h3>BUSINESS</h3>
+                        <img src="/images/service/NyneCorp-72.jpg" alt="">
+                      <h3>{{$t("BUSINESS")}}</h3>
+                    </div>
+                  </div>
+                </nuxt-link>
+         </div>
+             <div class="col-lg-2 col-sm-4 col-md-2">
+                <nuxt-link to="service_detail.html" class="icon_box_1 text-center">
+                  <div class="flipper">
+                    <div class="front">
+                      <img src="/images/service/NyneCorp-67.jpg" alt="">
+                      <h3>{{$t("ECHNOLOGIES")}}</h3>
+                    </div>
+                    <div class="back">
+                      <img src="/images/service/NyneCorp-67.jpg" alt="">
+                      <h3>{{$t("ECHNOLOGIES")}}</h3>
                     </div>
                   </div>
                 </nuxt-link>
@@ -134,6 +148,17 @@
 <style scoped>
 .icon_box_1{
   width: 200px !important;
-  height: 300px !important;
+ 
+}
+.icon_box_1 h3{
+height:50px;
+}
+img{
+  height:150px;
+  width:100% !important;
+  margin-bottom: 15px;
+}
+.flipper{
+  border:#4085f4 2px solid;
 }
 </style>

@@ -2,20 +2,21 @@
    <section class="testi">  
        <div class="container"><!----container start---->
            <div class="row"><!----row start---->
-               <h4 class="sec_title title-here">TESTIMONIALS</h4>
+               <h4 class="sec_title title-here">{{$t("testimonial")}}</h4>
             
             <div class="test-timonials row"><!----slide start---->
               
                 <div class="talk col-lg-4 col-sm-6 col-md-4"><!----item start---->
                     <h1>CEF IMMO FINANZ</h1>
                     <div class="card-body text-justify">
-                      <p> Merci pour votre grande disponibilité et patience.Votre professionnalisme et créativité est admirable et recommandable. 
+                      <p> 
+                        {{$t("talk1")}}
                          </p>
                       <div class="card-footer col-lg">
                            <div class="card-img A200 col-lg-6"></div>
                            <div class="name col-lg-6">
-                             Lorem ipsum dolor
-                             <h4>title or Post</h4>
+                               <br>
+                             <h4>PDG CeF IMMO</h4>
                            </div>
                       </div>
                     </div>
@@ -25,13 +26,13 @@
                     <h1>KELIX HAIR</h1>
                     <div class="card-body text-justify">
                       <p>
-                         Nous travaillons avec NKAP depuis quelques mois et sommes assez satisfait de leur service. Nous avons une vision assez grande et nous rejouissons et espérons pouvoir l'accomplir ensemble.
+                         {{$t("talk2")}}
                        </p>
                        
                       <div class="card-footer col-lg">
                            <div class="card-img A300 col-lg-6"></div>
                            <div class="name col-lg-6">
-                             Lorem ipsum dolor
+                               <br>
                              <h4>PDG KELIX HAIR</h4>
                            </div>
                       </div>
@@ -41,12 +42,13 @@
                  <div class="talk col-lg-4 col-sm-6 col-md-4"><!----item start---->
                     <h1>LML BEAUTY</h1>
                     <div class="card-body text-justify">
-                      <p>Je remercie L'équipe de NKAP qui est toujours à l'ecoute, patient face à nos caprices. Surtout pour le travail toujours bien fait et à un prix defiant toute concurrence.
+                      <p>
+                        {{$t("talk3")}}
                          </p>
                       <div class="card-footer col-lg">
                            <div class="card-img A400 col-lg-6"></div>
                            <div class="name col-lg-6">
-                             Lorem ipsum dolor
+                             <br>
                              <h4>PDG LML Beauty</h4>
                            </div>
                       </div>
@@ -56,12 +58,13 @@
                  <div class="talk col-lg-4 col-sm-6 col-md-4"><!----item start---->
                     <h1>ASSOCIATION MADZON</h1>
                     <div class="card-body text-justify">
-                      <p> Nous utilison l'application NKAP depuis 2ans et nous en sommes plus que satisfaites , car elle nous aide a assurer la transparence et la communicationau sein de notre association.
+                      <p>
+                        {{$t("talk4")}}
                          </p>
                       <div class="card-footer col-lg">
                            <div class="card-img A500 col-lg-6"></div>
                            <div class="name col-lg-6">
-                             Lorem ipsum dolor
+                               <br>
                              <h4>President Madzon Ngouobong</h4>
                            </div>
                       </div>
@@ -71,12 +74,13 @@
                  <div class="talk col-lg-4 col-sm-6 col-md-4"><!----item start---->
                     <h1>ASSOCIATION  FOBA</h1>
                     <div class="card-body text-justify">
-                      <p> Depuis que nous utilisons  Nkap App, plus besoin de calculatrice, plus d'erreur... La cerise sur le gateau c'est la transparence dans la gestion de notre association. Merci  NKAP pour cette solution.
+                      <p>
+                        {{$t("talk5")}}
                          </p>
                       <div class="card-footer col-lg">
                            <div class="card-img A600 col-lg-6"></div>
                            <div class="name col-lg-6">
-                             Lorem ipsum dolor
+                            <br>
                              <h4>SG FOBA</h4>
                            </div>
                       </div>
@@ -105,6 +109,7 @@
         if ($('.test-timonials').length > 0) {
           $('.test-timonials').owlCarousel({
             items: 4,
+            loop:true,
             margin: 30,
             autoplay: true,
             nav: false,

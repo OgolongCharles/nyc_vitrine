@@ -19,7 +19,7 @@
             </p>
             <div class="iconWrap">
            
-              <img src="/images/service/MD.jpg" alt="">
+              <img src="/images/service/Mk1.png" alt="">
            
             </div>
             <nuxt-link to="/prog">Lire Plus</nuxt-link>
@@ -32,7 +32,7 @@
             Nous générons des campagnes emailing à l’image de votre marque ou de votre entreprise. 
             </p>
             <div class="iconWrap">
-              <img src="/images/service/Mk2.jpg" alt="">
+              <img src="/images/service/Mk2.png" alt="">
             </div>
             <nuxt-link to="/qa-testing">Lire Plus</nuxt-link>
           </div>
@@ -44,7 +44,7 @@
           Boostez votre visibilité de votre entreprise et de vos produits grâce au référencement naturel 
             </p>
             <div class="iconWrap">
-               <img src="/images/service/Mk3.jpg" alt="">
+               <img src="/images/service/Mk3.png" alt="">
             </div>
             <nuxt-link to="/graphism-design">Lire plus</nuxt-link>
           </div>
@@ -59,7 +59,7 @@
 Nous vous accompagnons dans l’usage de la publicité sociale de type Facebook Adds,les pratiques de newsjacking,le Marketing d’influence 
             </p>
             <div class="iconWrap">
-               <img src="/images/service/Mk4.jpg" alt="">
+               <img src="/images/service/Mk4.png" alt="">
             </div>
             <nuxt-link to="/digital-marketing">Lire Plus</nuxt-link>
           </div>
@@ -72,7 +72,7 @@ Nous vous accompagnons dans l’usage de la publicité sociale de type Facebook 
 
             </p>
             <div class="iconWrap">
-                <img src="/images/service/Mk5.jpg" alt="">
+                <img src="/images/service/Mk5.png" alt="">
             </div>
             <nuxt-link to="/business">Lire Plus</nuxt-link>
           </div>
@@ -84,7 +84,7 @@ Nous vous accompagnons dans l’usage de la publicité sociale de type Facebook 
             Les réseaux sociaux représentent un levier désormais incontournable pour viabiliser vos activités sur le web. 
             </p>
             <div class="iconWrap">
-              <img src="/images/service/Mk6.jpg" alt="">
+              <img src="/images/service/Mk6.png" alt="">
             </div>
             <nuxt-link to="/tech">Lire Plus</nuxt-link>
           </div>
