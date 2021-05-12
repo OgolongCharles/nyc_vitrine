@@ -20,7 +20,7 @@
               <img src="/images/service/p1.png" alt="">
            
             </div>
-            <nuxt-link to="/prog">Lire Plus</nuxt-link>
+            <nuxt-link to="program/Sites">Lire Plus</nuxt-link>
           </div>
         </div>
         <div class="col-lg-4 col-sm-6 col-md-4">
@@ -32,7 +32,7 @@
             <div class="iconWrap">
               <img src="/images/service/p2.png" alt="">
             </div>
-            <nuxt-link to="/qa-testing">Lire Plus</nuxt-link>
+            <nuxt-link to="program/Applications">Lire Plus</nuxt-link>
           </div>
         </div>
         <div class="col-lg-4 col-sm-6 col-md-4">
@@ -44,7 +44,7 @@
             <div class="iconWrap">
                <img src="/images/service/p3.png" alt="">
             </div>
-            <nuxt-link to="/graphism-design">Lire plus</nuxt-link>
+            <nuxt-link to="program/Applications-De-Bureau">Lire plus</nuxt-link>
           </div>
         </div>
       </div>
@@ -59,7 +59,7 @@
             <div class="iconWrap">
                <img src="/images/service/p4.png" alt="">
             </div>
-            <nuxt-link to="/digital-marketing">Lire Plus</nuxt-link>
+            <nuxt-link to="program/sites-web">Lire Plus</nuxt-link>
           </div>
         </div>
         <div class="col-lg-4 col-sm-6 col-md-4">
@@ -71,7 +71,7 @@
             <div class="iconWrap">
                 <img src="/images/service/p5.png" alt="">
             </div>
-            <nuxt-link to="/business">Lire Plus</nuxt-link>
+            <nuxt-link to="program/CMS">Lire Plus</nuxt-link>
           </div>
         </div>
         <div class="col-lg-4 col-sm-6 col-md-4">
@@ -83,7 +83,7 @@
             <div class="iconWrap">
               <img src="/images/service/p6.png" alt="">
             </div>
-            <nuxt-link to="/tech">Lire Plus</nuxt-link>
+            <nuxt-link to="program/Site-Web-de-Zero">Lire Plus</nuxt-link>
           </div>
         </div>
       </div>

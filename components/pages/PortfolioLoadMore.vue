@@ -23,8 +23,8 @@
             <div class="singlefolio">
               <img src="/images/portfolio/L2.png" alt=""/>
               <div class="folioHover">
-                <a class="cate" href="#">Graphic</a>
-                <h4><nuxt-link to="/portfolio-detail">Design Styles</nuxt-link></h4>
+                <a class="cate" href="#">SITE WEB ET LOGO</a>
+                <h4><nuxt-link to="/portfolio-detail">CEF IMMO FINANZ</nuxt-link></h4>
               </div>
             </div>
           </div>
@@ -32,8 +32,8 @@
             <div class="singlefolio">
               <img src="/images/portfolio/w1.png" alt=""/>
               <div class="folioHover">
-                <a class="cate" href="#">Graphic</a>
-                <h4><nuxt-link to="/portfolio-detail">Design Styles</nuxt-link></h4>
+                <a class="cate" href="#">SITE WEB</a>
+                <h4><nuxt-link to="/portfolio-detail">PLATFORM SELAM</nuxt-link></h4>
               </div>
             </div>
           </div>
@@ -41,17 +41,21 @@
             <div class="singlefolio">
               <img src="/images/portfolio/L1.png" alt=""/>
               <div class="folioHover">
-                <a class="cate" href="#">Graphic</a>
-                <h4><nuxt-link to="/portfolio-detail">Design Styles</nuxt-link></h4>
+                <a class="cate" href="#">SITE WEB ET GRAPHIC</a>
+                <h4><nuxt-link to="/portfolio-detail">NYNE CORP</nuxt-link></h4>
               </div>
             </div>
           </div>
-           <div class="col-lg-4 col-sm-6 col-md-4 mix graphic">
+
+
+      
+                 
+                    <div class="col-lg-4 col-sm-6 col-md-4 mix graphic">
             <div class="singlefolio">
               <img src="/images/portfolio/w3.png" alt=""/>
               <div class="folioHover">
-                <a class="cate" href="#">Graphic</a>
-                <h4><nuxt-link to="/portfolio-detail">Design Styles</nuxt-link></h4>
+                <a class="cate" href="#">SITE WEB</a>
+                <h4><nuxt-link to="/portfolio-detail">BATI SERVICES</nuxt-link></h4>
               </div>
             </div>
           </div>
@@ -59,29 +63,27 @@
             <div class="singlefolio">
               <img src="/images/portfolio/Netflix.png" alt=""/>
               <div class="folioHover">
-                <a class="cate" href="#">Graphic</a>
-                <h4><nuxt-link to="/portfolio-detail">Design Styles</nuxt-link></h4>
+                <a class="cate" href="#">SITE WEB</a>
+                <h4><nuxt-link to="/portfolio-detail">NET FLIX</nuxt-link></h4>
               </div>
             </div>
           </div>
-           <div class="col-lg-4 col-sm-6 col-md-4 mix graphic">
-            <div class="singlefolio">
-              <img src="/images/portfolio/w3.png" alt=""/>
-              <div class="folioHover">
-                <a class="cate" href="#">Graphic</a>
-                <h4><nuxt-link to="/portfolio-detail">Design Styles</nuxt-link></h4>
-              </div>
-            </div>
-          </div>
+         
           <div class="col-lg-4 col-sm-6 col-md-4 mix graphic">
             <div class="singlefolio">
               <img src="/images/portfolio/w2.png" alt=""/>
               <div class="folioHover">
                 <a class="cate" href="#">Graphic</a>
-                <h4><nuxt-link to="/portfolio-detail">Design Styles</nuxt-link></h4>
+                <h4><nuxt-link to="/portfolio-detail">NKAP APP</nuxt-link></h4>
               </div>
             </div>
           </div>
+
+
+
+          
+
+
           <div class="col-lg-4 col-sm-6 col-md-4 mix marketing">
             <div class="singlefolio">
               <img src="/images/portfolio/n1.png" alt=""/>
@@ -112,9 +114,7 @@
         </div>
       </div>
       <div class="row mt_30">
-        <div class="col-lg-12 text-center">
-          <a class="common_btn red_bg" href="#"><span>Load More</span></a>
-        </div>
+       
       </div>
     </div>
   </section>
@@ -127,9 +127,10 @@
         $('#Grid').themeWar();
         $('.Grid').themeWar();
       }
+      
     }
 </script>
 
 <style scoped>
-
+  
 </style>
