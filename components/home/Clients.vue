@@ -3,8 +3,8 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-12 text-center">
-          <h4 class="sub_title">Nos clients</h4>
-          <h2 class="sec_title">Ils croient en nous</h2>
+          <h4 class="sub_title">clients</h4>
+          <h2 class="sec_title"> {{$t("Trust")}} </h2>
         
         </div>
       </div>
@@ -54,6 +54,21 @@
             <div class="singleClient">
               <a href="#">
                 <img src="/images/client/Logo-13.png" alt=""/>
+              </a>
+            </div>
+            <div class="singleClient">
+              <a href="#">
+                <img src="/images/client/3.jpg" alt=""/>
+              </a>
+            </div>
+            <div class="singleClient">
+              <a href="#">
+                <img src="/images/client/9.jpg" alt=""/>
+              </a>
+            </div>
+              <div class="singleClient">
+              <a href="#">
+                <img src="/images/client/12.jpg" alt=""/>
               </a>
             </div>
           </div>

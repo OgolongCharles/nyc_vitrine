@@ -19,7 +19,7 @@
             </p>
             <div class="iconWrap">
            
-              <img src="/images/service/QA1.jpg" alt="">
+              <img src="/images/service/QA1.png" alt="">
            
             </div>
             <nuxt-link to="/prog">Lire Plus</nuxt-link>
@@ -32,7 +32,7 @@
             Analyser les specifications fonctionnelles de vos applications et logiciels et extraire les exigences de test.Vérifier et tester les fonctionnalités essentielles de vos applications ou du logiciels de façon manuel 
             </p>
             <div class="iconWrap">
-              <img src="/images/service/QA2.jpg" alt="">
+              <img src="/images/service/QA2.png" alt="">
             </div>
             <nuxt-link to="/qa-testing">Lire Plus</nuxt-link>
           </div>
@@ -44,7 +44,7 @@
            Elaborer la politique d'assurance de la qualité, la réalisation de tests et d'inspectionsMettre en œuvre la politique d'assurance de la qualité, la réalisation de tests et d'inspections 
             </p>
             <div class="iconWrap">
-               <img src="/images/service/QA3.jpg" alt="">
+               <img src="/images/service/QA3.png" alt="">
             </div>
             <nuxt-link to="/graphism-design">Lire plus</nuxt-link>
           </div>
@@ -58,7 +58,7 @@
           Analyser les specifications fonctionnelles de vos applications et logiciels et extraire les exigences de test.Vérifier et tester les fonctionnalités essentielles de vos application ou du logiciel de façon automatique 
             </p>
             <div class="iconWrap">
-               <img src="/images/service/QA4.jpg" alt="">
+               <img src="/images/service/QA4.png" alt="">
             </div>
             <nuxt-link to="/digital-marketing">Lire Plus</nuxt-link>
           </div>
@@ -70,7 +70,7 @@
             Determiner et Analyser la severite des defauts sur les fonctionnalites des logiciels et applications.Classifier les defauts par priorité 
             </p>
             <div class="iconWrap">
-                <img src="/images/service/QA5.jpg" alt="">
+                <img src="/images/service/QA5.png" alt="">
             </div>
             <nuxt-link to="/business">Lire Plus</nuxt-link>
           </div>
@@ -82,7 +82,7 @@
             Assurer le suivir du cycle de vie des defauts sur les fonctionnalites des logiciels et applications 
             </p>
             <div class="iconWrap">
-              <img src="/images/service/QA6.jpg" alt="">
+              <img src="/images/service/QA6.png" alt="">
             </div>
             <nuxt-link to="/tech">Lire Plus</nuxt-link>
           </div>

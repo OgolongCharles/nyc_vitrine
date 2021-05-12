@@ -6,25 +6,25 @@
             <div class="col-lg-3 col-sm-6 col-md-3 noPadding BR">
               <div class="singlefunfact text-center">
                 <h1 data-counter="10" class="timer"><span class="countSpan">8</span>10</h1>
-                <h3>Projets livrés</h3>
+                <h3>{{$t("fun1")}}</h3>
               </div>
             </div>
             <div class="col-lg-3 col-sm-6 col-md-3 noPadding BR">
               <div class="singlefunfact text-center">
                 <h1 data-counter="8" class="timer"><span class="countSpan"></span>4</h1>
-                <h3>Clients Actifs</h3>
+                <h3>{{$t("fun2")}}</h3>
               </div>
             </div>
             <div class="col-lg-3 col-sm-6 col-md-3 noPadding BR">
               <div class="singlefunfact text-center">
                 <h1 data-counter="6000" class="timer"><span class="countSpan"></span>6000</h1>
-                <h3>Clients NKAP</h3>
+                <h3>{{$t("fun3")}}</h3>
               </div>
             </div>
             <div class="col-lg-3 col-sm-6 col-md-3 noPadding">
               <div class="singlefunfact text-center">
                 <h1 data-counter="10" class="timer"><span class="countSpan">2</span>10</h1>
-                <h3>Clients Satisfaits</h3>
+                <h3>{{$t("fun4")}}</h3>
               </div>
             </div>
           </div>
@@ -42,13 +42,11 @@
                     </div>
                     <div class="col-lg-7 col-sm-7 col-md-7">
                       <div class="abci_content">
-                        <h2>Plus de 15 clients nous ont déjà fait confiance</h2>
+                        <h2>{{$t("funPro1")}}</h2>
                         <p>
-                          Avec près de 5 ans d'existence de nombreux clients ont fait appel à nos services.
-                          Pour leurs besoins, nos clients bénéficient d’une rigueur , d'un professionnalisme et d'une  sécurisé, propice à la concentration dans leur coeur de métier.
-                          Quelques références de clients ayant fait appel à nos services se trouvent plus haut:
+                          {{$t("funPro2")}}
                         </p>
-                        <a class="common_btn red_bg" href="#"><span>Plus encore</span></a>
+                        <a class="common_btn red_bg" href="/about"><span>{{$t("Buttons")}}</span></a>
                       </div>
                     </div>
                   </div>

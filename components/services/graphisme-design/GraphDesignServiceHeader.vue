@@ -19,7 +19,7 @@
             </p>
             <div class="iconWrap">
            
-              <img src="/images/service/g1.jpg" alt="">
+              <img src="/images/service/g1.png" alt="">
            
             </div>
             <nuxt-link to="/prog">Lire Plus</nuxt-link>
@@ -44,7 +44,7 @@
          La charte graphique est l’ADN de votre entreprise visuelle. . Elle garantit votre identité visuelle 
             </p>
             <div class="iconWrap">
-               <img src="/images/service/g3.jpg" alt="">
+               <img src="/images/service/g3.png" alt="">
             </div>
             <nuxt-link to="/graphism-design">Lire plus</nuxt-link>
           </div>
@@ -59,7 +59,7 @@
          Bénéficiez d’une meilleure conception de vos dépliant chez Nkap Group.
             </p>
             <div class="iconWrap">
-               <img src="/images/service/g4.jpg" alt="">
+               <img src="/images/service/g4.png" alt="">
             </div>
             <nuxt-link to="/digital-marketing">Lire Plus</nuxt-link>
           </div>
@@ -71,7 +71,7 @@
             Une forme d’art visuel consistant à créer des œuvres animés.
             </p>
             <div class="iconWrap">
-                <img src="/images/service/p4.jpg" alt="">
+                <img src="/images/service/p4.png" alt="">
             </div>
             <nuxt-link to="/business">Lire Plus</nuxt-link>
           </div>
