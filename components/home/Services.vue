@@ -26,7 +26,7 @@
           </nuxt-link>
         </div>
         <div class="col-lg-2 col-sm-4 col-md-2">
-          <nuxt-link to="/service-detail" class="icon_box_1 text-center">
+          <nuxt-link to="/prog" class="icon_box_1 text-center">
             <div class="flipper">
               <div class="front">
                  <img src="/images/service/NyneCorp-69.jpg" alt="">
@@ -40,7 +40,7 @@
           </nuxt-link>
         </div>
         <div class="col-lg-2 col-sm-4 col-md-2">
-          <nuxt-link to="/service-detail" class="icon_box_1 text-center">
+          <nuxt-link to="/qa-testing" class="icon_box_1 text-center">
             <div class="flipper">
               <div class="front">
                  <img src="/images/service/NyneCorp-68.jpg" alt="">
@@ -54,7 +54,7 @@
           </nuxt-link>
         </div>
         <div class="col-lg-2 col-sm-4 col-md-2">
-          <nuxt-link to="/service-detail" class="icon_box_1 text-center">
+          <nuxt-link to="/graphism-design" class="icon_box_1 text-center">
             <div class="flipper">
               <div class="front">
                 <img src="/images/service/NyneCorp-71.jpg" alt="">
@@ -68,7 +68,7 @@
           </nuxt-link>
         </div>
         <div class="col-lg-2 col-sm-4 col-md-2">
-          <nuxt-link to="service_detail.html" class="icon_box_1 text-center">
+          <nuxt-link to="/digital-marketing" class="icon_box_1 text-center">
             <div class="flipper">
               <div class="front">
                  <img src="/images/service/NyneCorp-70.jpg" alt="">
@@ -82,7 +82,7 @@
           </nuxt-link>
          </div>
           <div class="col-lg-2 col-sm-4 col-md-2">
-                <nuxt-link to="service_detail.html" class="icon_box_1 text-center">
+                <nuxt-link to="business" class="icon_box_1 text-center">
                   <div class="flipper">
                     <div class="front">
                         <img src="/images/service/NyneCorp-72.jpg" alt="">
@@ -96,7 +96,7 @@
                 </nuxt-link>
          </div>
              <div class="col-lg-2 col-sm-4 col-md-2">
-                <nuxt-link to="service_detail.html" class="icon_box_1 text-center">
+                <nuxt-link to="tech" class="icon_box_1 text-center">
                   <div class="flipper">
                     <div class="front">
                       <img src="/images/service/NyneCorp-67.jpg" alt="">

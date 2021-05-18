@@ -2328,14 +2328,23 @@ a.slider-one__text {
 .pageBannerBusiness {
   background: url(../images/bg/business_plus_margin.png) no-repeat center center / cover;
 }
+.pageBannerContact {
+    background: url(../images/bg/contact.jpg) no-repeat center center / cover;
+  }
  .pageBannerAbout {
-   background: url(../images/bg/Cover_Facebook.jpg) no-repeat center center / cover;
+   background: url(../images/bg/about.jpg) no-repeat center center / cover;
    margin-top: 4px;
    background-color: #000;
  }
 .pageBannerServices {
   background: url(../images/bg/services_plus_margin.png) no-repeat center center / cover;
 }
+.pageBannerGallery {
+    background: url(../images/bg/gallery.jpg) no-repeat center center / cover;
+  }
+.pageBannerBlog {
+    background: url(../images/bg/blog.jpg) no-repeat center center / cover;
+  }
 .banner_content{
     position: relative;
 }

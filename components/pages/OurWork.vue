@@ -1,9 +1,9 @@
 <template>
   <section class="commonSection our_work">
     <div class="videoWrap_2">
-      <img src="/images/about/3.jpg" alt="">
+      <img src="/images/home_1/about.jpg" alt="">
       <div class="play_video">
-        <a class="video_popup" href="https://www.youtube.com/watch?v=A7ZkZazfvao"><i class="fa fa-play"></i></a>
+        <a class="video_popup" href="/images/home_1/Service_nyne.mp4"><i class="fa fa-play"></i></a>
         <h2>Watch Video</h2>
       </div>
     </div>
@@ -13,12 +13,10 @@
         </div>
         <div class="col-lg-6 col-sm-6">
           <div class="ab_detail_wrap">
-            <h4 class="sub_title">with NYNE CORP</h4>
-            <h2 class="sec_title">Make amazing websites and moblie apps for your projects</h2>
+            <h4 class="sub_title">NYNE CORP</h4>
+            <h2 class="sec_title">{{$t("Video2")}}</h2>
             <p class="sec_desc">
-              Tincidunt elit magnis nulla facilisis sagittis maecenas. Sapien nunc amet ultrices,
-              dolores sit ipsum velit purus aliquet, massa fringilla leo orci. Lorem ipsum
-              dolors sit amet elit magnis amet ultrices purus aliquet.
+            {{$t("Video")}}
             </p>
           </div>
         </div>

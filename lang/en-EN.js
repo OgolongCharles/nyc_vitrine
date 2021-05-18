@@ -58,4 +58,8 @@ talk5:"Since we have been using Nkap App, no need for a calculator, no more erro
 
 // Home blog
 blog:"News & Articles",
+
+// About Pages
+Video:"Nous sommes une agence de conseil en informatique et Communication Digital qui accompagne des personnes, entreprises et organisations dans la conception et la réalisation de divers projets dans le domaine des NTIC ",
+Video2:"Make amazing websites and moblie apps for your projects",
 }
