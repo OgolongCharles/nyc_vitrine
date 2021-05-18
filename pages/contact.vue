@@ -1,6 +1,6 @@
 <template>
   <div>
-    <PageBanner pageTitle="Contact" bannerCss="pageBannerTech"/>
+    <PageBanner pageTitle="Contact" bannerCss="pageBannerContact"/>
     <icons />
     <Contact/>
     <Map />

@@ -22,7 +22,7 @@
               <img src="/images/service/tech1.png" alt="">
            
             </div>
-            <nuxt-link to="/prog">Lire Plus</nuxt-link>
+            <nuxt-link to="Technology/Reseaux">Lire Plus</nuxt-link>
           </div>
         </div>
         <div class="col-lg-4 col-sm-6 col-md-4">
@@ -34,7 +34,7 @@
             <div class="iconWrap">
               <img src="/images/service/cloud.png" alt="">
             </div>
-            <nuxt-link to="/qa-testing">Lire Plus</nuxt-link>
+            <nuxt-link to="Technology/cloud">Lire Plus</nuxt-link>
           </div>
         </div>
         <div class="col-lg-4 col-sm-6 col-md-4">
@@ -46,7 +46,7 @@
             <div class="iconWrap">
                <img src="/images/service/data.png" alt="">
             </div>
-            <nuxt-link to="/graphism-design">Lire plus</nuxt-link>
+            <nuxt-link to="Technology/Base-de-donne">Lire plus</nuxt-link>
           </div>
         </div>
       </div>
@@ -61,7 +61,7 @@
             <div class="iconWrap">
                <img src="/images/service/tech3.png" alt="">
             </div>
-            <nuxt-link to="/digital-marketing">Lire Plus</nuxt-link>
+            <nuxt-link to="Technology/Securite-informatique">Lire Plus</nuxt-link>
           </div>
         </div>
         <div class="col-lg-4 col-sm-6 col-md-4">
@@ -73,7 +73,7 @@
             <div class="iconWrap">
                 <img src="/images/service/tech5.png" alt="">
             </div>
-            <nuxt-link to="/business">Lire Plus</nuxt-link>
+            <nuxt-link to="Technology/Audit">Lire Plus</nuxt-link>
           </div>
         </div>
         <div class="col-lg-4 col-sm-6 col-md-4">
@@ -85,7 +85,7 @@
             <div class="iconWrap">
               <img src="/images/service/tech6.png" alt="">
             </div>
-            <nuxt-link to="/tech">Lire Plus</nuxt-link>
+            <nuxt-link to="Technology/microsoft">Lire Plus</nuxt-link>
           </div>
         </div>
       </div>

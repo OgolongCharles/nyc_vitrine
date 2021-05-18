@@ -22,7 +22,7 @@
               <img src="/images/service/Mk1.png" alt="">
            
             </div>
-            <nuxt-link to="/prog">Lire Plus</nuxt-link>
+            <nuxt-link to="marketing/community">Lire Plus</nuxt-link>
           </div>
         </div>
         <div class="col-lg-4 col-sm-6 col-md-4">
@@ -34,7 +34,7 @@
             <div class="iconWrap">
               <img src="/images/service/Mk2.png" alt="">
             </div>
-            <nuxt-link to="/qa-testing">Lire Plus</nuxt-link>
+            <nuxt-link to="marketing/email">Lire Plus</nuxt-link>
           </div>
         </div>
         <div class="col-lg-4 col-sm-6 col-md-4">
@@ -46,7 +46,7 @@
             <div class="iconWrap">
                <img src="/images/service/Mk3.png" alt="">
             </div>
-            <nuxt-link to="/graphism-design">Lire plus</nuxt-link>
+            <nuxt-link to="marketing/seo">Lire plus</nuxt-link>
           </div>
         </div>
       </div>
@@ -61,7 +61,7 @@ Nous vous accompagnons dans l’usage de la publicité sociale de type Facebook 
             <div class="iconWrap">
                <img src="/images/service/Mk4.png" alt="">
             </div>
-            <nuxt-link to="/digital-marketing">Lire Plus</nuxt-link>
+            <nuxt-link to="marketing/marketin-rs">Lire Plus</nuxt-link>
           </div>
         </div>
         <div class="col-lg-4 col-sm-6 col-md-4">
@@ -74,7 +74,7 @@ Nous vous accompagnons dans l’usage de la publicité sociale de type Facebook 
             <div class="iconWrap">
                 <img src="/images/service/Mk5.png" alt="">
             </div>
-            <nuxt-link to="/business">Lire Plus</nuxt-link>
+            <nuxt-link to="marketing/smo">Lire Plus</nuxt-link>
           </div>
         </div>
         <div class="col-lg-4 col-sm-6 col-md-4">
@@ -86,7 +86,7 @@ Nous vous accompagnons dans l’usage de la publicité sociale de type Facebook 
             <div class="iconWrap">
               <img src="/images/service/Mk6.png" alt="">
             </div>
-            <nuxt-link to="/tech">Lire Plus</nuxt-link>
+            <nuxt-link to="marketing/conseil">Lire Plus</nuxt-link>
           </div>
         </div>
       </div>
@@ -125,5 +125,6 @@ Nous vous accompagnons dans l’usage de la publicité sociale de type Facebook 
   transition-delay:2s ease-out;
   cursor: pointer;
 transform:translateY(-2%);
+  box-shadow: 5px 10px 18px #888888;
 }
 </style>

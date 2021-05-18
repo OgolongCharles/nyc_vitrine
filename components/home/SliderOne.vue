@@ -22,6 +22,17 @@
       </div>
       <!-- /.item -->
 
+          <!-- /.item -->
+      <div class="item slider-one__slider-3" style="background-image: url(/images/slider/out.jpg);height" >
+        <div class="container slider__content">
+          <p class="slider-one__text"><br></p>
+          <div class="slider-one__title tp-caption tp-resizeme">OUTSOURCING</div>
+          <a href="/prog" class="common_btn"><span>Découvrir plus</span></a>
+        </div>
+        <!-- /.container -->
+      </div>
+      <!-- /.item -->
+
         <!-- /.item -->
       <div class="item slider-one__slider-3" style="background-image: url(/images/slider/pro1.jpg);height" >
         <div class="container slider__content">

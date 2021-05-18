@@ -22,7 +22,7 @@
               <img src="/images/service/BizA.png" alt="">
            
             </div>
-            <nuxt-link to="/prog">Lire Plus</nuxt-link>
+            <nuxt-link to="Business/E-commerce">Lire Plus</nuxt-link>
           </div>
         </div>
         <div class="col-lg-4 col-sm-6 col-md-4">
@@ -34,7 +34,7 @@
             <div class="iconWrap">
               <img src="/images/service/Biz1.png" alt="">
             </div>
-            <nuxt-link to="/qa-testing">Lire Plus</nuxt-link>
+            <nuxt-link to="Business/projet">Lire Plus</nuxt-link>
           </div>
         </div>
         <div class="col-lg-4 col-sm-6 col-md-4">
@@ -46,7 +46,7 @@
             <div class="iconWrap">
                <img src="/images/service/Biz2.png" alt="">
             </div>
-            <nuxt-link to="/graphism-design">Lire plus</nuxt-link>
+            <nuxt-link to="Business/Plan">Lire plus</nuxt-link>
           </div>
         </div>
       </div>
@@ -61,7 +61,7 @@
             <div class="iconWrap">
                <img src="/images/service/Biz3.png" alt="">
             </div>
-            <nuxt-link to="/digital-marketing">Lire Plus</nuxt-link>
+            <nuxt-link to="Business/cahier">Lire Plus</nuxt-link>
           </div>
         </div>
         <div class="col-lg-4 col-sm-6 col-md-4">
@@ -73,7 +73,7 @@
             <div class="iconWrap">
                 <img src="/images/service/Biz4.png" alt="">
             </div>
-            <nuxt-link to="/business">Lire Plus</nuxt-link>
+            <nuxt-link to="Business/RH">Lire Plus</nuxt-link>
           </div>
         </div>
         <div class="col-lg-4 col-sm-6 col-md-4">
@@ -85,7 +85,7 @@
             <div class="iconWrap">
               <img src="/images/service/Biz5.png" alt="">
             </div>
-            <nuxt-link to="/tech">Lire Plus</nuxt-link>
+            <nuxt-link to="Business/marketing">Lire Plus</nuxt-link>
           </div>
         </div>
       </div>
@@ -123,6 +123,7 @@
 .col-lg-4:hover{
   transition-delay:2s ease-out;
   cursor: pointer;
-transform:translateY(-2%);
+  transform:translateY(-2%);
+  box-shadow: 5px 10px 18px #888888;
 }
 </style>

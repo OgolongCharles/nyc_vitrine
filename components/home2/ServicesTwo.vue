@@ -68,7 +68,7 @@
               Profitez de notre assistance en Gestion des sites E-commerce, Gestion de projet, Etude de marche, Business Plan, Montage de Cahier de charges et Conseil en gestion RH. 
             </p>
             <div class="iconWrap">
-                <img src="/images/service/biz.jpg" alt="">
+                <img src="/images/service/Biz1.jpg" alt="">
             </div>
             <nuxt-link to="/business">Lire Plus</nuxt-link>
           </div>

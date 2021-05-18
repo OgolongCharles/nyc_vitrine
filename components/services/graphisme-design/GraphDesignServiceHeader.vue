@@ -22,7 +22,7 @@
               <img src="/images/service/g1.png" alt="">
            
             </div>
-            <nuxt-link to="/prog">Lire Plus</nuxt-link>
+            <nuxt-link to="graph/carte-visite">Lire Plus</nuxt-link>
           </div>
         </div>
         <div class="col-lg-4 col-sm-6 col-md-4">
@@ -34,7 +34,7 @@
             <div class="iconWrap">
               <img src="/images/service/g2.jpg" alt="">
             </div>
-            <nuxt-link to="/qa-testing">Lire Plus</nuxt-link>
+            <nuxt-link to="graph/logo">Lire Plus</nuxt-link>
           </div>
         </div>
         <div class="col-lg-4 col-sm-6 col-md-4">
@@ -46,7 +46,7 @@
             <div class="iconWrap">
                <img src="/images/service/g3.png" alt="">
             </div>
-            <nuxt-link to="/graphism-design">Lire plus</nuxt-link>
+            <nuxt-link to="graph/charte-graph">Lire plus</nuxt-link>
           </div>
         </div>
       </div>
@@ -61,7 +61,7 @@
             <div class="iconWrap">
                <img src="/images/service/g4.png" alt="">
             </div>
-            <nuxt-link to="/digital-marketing">Lire Plus</nuxt-link>
+            <nuxt-link to="graph/depliant">Lire Plus</nuxt-link>
           </div>
         </div>
         <div class="col-lg-4 col-sm-6 col-md-4">
@@ -73,7 +73,7 @@
             <div class="iconWrap">
                 <img src="/images/service/p4.png" alt="">
             </div>
-            <nuxt-link to="/business">Lire Plus</nuxt-link>
+            <nuxt-link to="graph/web-design">Lire Plus</nuxt-link>
           </div>
         </div>
         <div class="col-lg-4 col-sm-6 col-md-4">
@@ -85,7 +85,7 @@
             <div class="iconWrap">
               <img src="/images/service/g6.jpg" alt="">
             </div>
-            <nuxt-link to="/tech">Lire Plus</nuxt-link>
+            <nuxt-link to="graph/video">Lire Plus</nuxt-link>
           </div>
         </div>
       </div>

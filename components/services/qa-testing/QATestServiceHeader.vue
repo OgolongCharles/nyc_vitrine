@@ -22,7 +22,7 @@
               <img src="/images/service/QA1.png" alt="">
            
             </div>
-            <nuxt-link to="/prog">Lire Plus</nuxt-link>
+           <nuxt-link to="qa/QA-Data">Lire Plus</nuxt-link>
           </div>
         </div>
         <div class="col-lg-4 col-sm-6 col-md-4">
@@ -34,7 +34,7 @@
             <div class="iconWrap">
               <img src="/images/service/QA2.png" alt="">
             </div>
-            <nuxt-link to="/qa-testing">Lire Plus</nuxt-link>
+            <nuxt-link to="qa/QA-Manual">Lire Plus</nuxt-link>
           </div>
         </div>
         <div class="col-lg-4 col-sm-6 col-md-4">
@@ -46,7 +46,7 @@
             <div class="iconWrap">
                <img src="/images/service/QA3.png" alt="">
             </div>
-            <nuxt-link to="/graphism-design">Lire plus</nuxt-link>
+            <nuxt-link to="qa/QA-support">Lire plus</nuxt-link>
           </div>
         </div>
       </div>
@@ -60,7 +60,7 @@
             <div class="iconWrap">
                <img src="/images/service/QA4.png" alt="">
             </div>
-            <nuxt-link to="/digital-marketing">Lire Plus</nuxt-link>
+            <nuxt-link to="qa/QA-Auto">Lire Plus</nuxt-link>
           </div>
         </div>
         <div class="col-lg-4 col-sm-6 col-md-4">
@@ -72,7 +72,7 @@
             <div class="iconWrap">
                 <img src="/images/service/QA5.png" alt="">
             </div>
-            <nuxt-link to="/business">Lire Plus</nuxt-link>
+            <nuxt-link to="qa/QA-Bugs">Lire Plus</nuxt-link>
           </div>
         </div>
         <div class="col-lg-4 col-sm-6 col-md-4">
@@ -84,7 +84,7 @@
             <div class="iconWrap">
               <img src="/images/service/QA6.png" alt="">
             </div>
-            <nuxt-link to="/tech">Lire Plus</nuxt-link>
+            <nuxt-link to="qa/QA-Expert">Lire Plus</nuxt-link>
           </div>
         </div>
  </div>
