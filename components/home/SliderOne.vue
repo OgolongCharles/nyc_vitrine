@@ -6,7 +6,7 @@
         <div class="container slider__content">
           <p class="slider-one__text">Bienvenue à l'agence NYNE CORP</p>
           <div class="slider-one__title tp-caption tp-resizeme">SMART WEB<br> DESIGN AGENCY.</div>
-        
+
           <!-- /.slider-one__text -->
         </div>
         <!-- /.container -->
@@ -16,7 +16,7 @@
         <div class="container slider__content">
           <p class="slider-one__text">Bienvenue à l'agence NYNE CORP</p>
           <div class="slider-one__title tp-caption tp-resizeme">SMART WEB<br> DESIGN AGENCY.</div>
-         
+
         </div>
         <!-- /.container -->
       </div>
@@ -136,5 +136,13 @@
 <style scoped>
 .slider-one__title{
   margin-bottom:50px;
+}
+@media(max-width: 650px){
+.slider-one__title{
+font-size: 38px;
+}
+.slider-one{
+height: 80vh;
+}
 }
 </style>

@@ -3,9 +3,9 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-12 text-center">
-         
+
           <h2 class="sec_title"> {{$t("digital")}} </h2>
-        
+
         </div>
       </div>
       <div class="row">
@@ -31,7 +31,7 @@
           </form>
         </div>
       </div>-->
-    </div> 
+    </div>
   </section>
 </template>
 
@@ -63,5 +63,9 @@
 </script>
 
 <style scoped>
-
+@media(max-width:600px){
+.videoWrap img{
+height: 50vh;
+}
+}
 </style>

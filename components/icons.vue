@@ -1,6 +1,6 @@
  <template>
      <div class="new-icons" :style="`display: ${icons ? 'block' : 'none'}`">
-                                    
+
             <ul>
                     <li>
                         <a style="color:#1da1f2;" href="https://twitter.com/NyneCorp" target="_blank">
@@ -23,7 +23,7 @@
                         <i class="fa fa-instagram"></i>Instagram</a>
                     </li>
             </ul>
-        </div> 
+        </div>
 </template>
 
 <script>
@@ -48,14 +48,14 @@ export default {
             else if (window.scrollY < 100) {
                 this.icons  = false
             }
-            
-            },     
+
+            },
         },
 }
-   
- 
+
+
 </script>
- 
+
 <style scoped>
 .li{
     list-style: none;
@@ -75,13 +75,15 @@ li{
     transform: translateY(-30%);
     z-index: 999;
     height: 100vh;
-    display: none;
+
 }
 
 
 @media(max-width: 500px){
- 
 
+.new-icons ul{
+display: none;
+}
 }
 </style>
 

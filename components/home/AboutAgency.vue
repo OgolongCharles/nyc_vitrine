@@ -8,12 +8,12 @@
           <p class="sec_desc">
           {{$t("SecondMessage")}}
           </p>
-          
+
           <a class="common_btn red_bg" href="/services"><span> {{$t("Buttons")}} </span></a>
         </div>
         <div class="col-lg-6 col-sm-6 col-md-6">
           <div class="ab_img1">
-            <img src="/images/home_1/10.jpg" alt=""/>
+            <!-- <img src="/images/home_1/11.png" alt=""/> -->
           </div>
           <div class="ab_img2">
             <img src="/images/home_1/9.jpg" alt=""/>

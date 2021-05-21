@@ -4,9 +4,9 @@
       <div class="row">
         <div class="col-lg-12 text-center">
           <h4 class="sec_title red_color">{{$t("services")}}</h4>
-         
+
           <p class="sec_desc color_aaa">
-           
+
           </p>
         </div>
       </div>
@@ -148,7 +148,7 @@
 <style scoped>
 .icon_box_1{
   width: 200px !important;
- 
+
 }
 .icon_box_1 h3{
 height:50px;
@@ -160,5 +160,13 @@ img{
 }
 .flipper{
   border:#4085f4 2px solid;
+}
+@media(max-width: 600px){
+h3{
+font-size: 12px !important;
+}
+.col-lg-2{
+margin:62px !important;
+}
 }
 </style>
