@@ -26,7 +26,7 @@
                   <li><nuxt-link to="/about">{{$t("propos")}}</nuxt-link></li>
                   <li class="menu-item-has-children"><nuxt-link to="/services">Services</nuxt-link>
                     <ul class="sub-menu">
-                      <li><nuxt-link to="/prog">Outsourcing</nuxt-link></li>
+                      <li><nuxt-link to="/outSourcing">Outsourcing</nuxt-link></li>
                       <li><nuxt-link to="/prog">{{$t("serPro")}}</nuxt-link></li>
                       <li><nuxt-link to="/qa-testing">{{$t("serTwo")}}</nuxt-link></li>
                       <li><nuxt-link to="/graphism-design">{{$t("DESIGN")}}</nuxt-link></li>
@@ -36,10 +36,10 @@
                     </ul>
                   </li>
                   <li class="menu-item-has-children"><nuxt-link to="/portfolio">{{$t("Gallerie")}}</nuxt-link>
-                   
+
                   </li>
                   <li class="menu-item-has-children"><nuxt-link to="/blog">Blog</nuxt-link>
-                   
+
                   </li>
                   <li><nuxt-link to="/contact">Contact</nuxt-link></li>
                   <li>
@@ -116,11 +116,11 @@
                     </li>
                     <li class="menu-item-has-children">
                       <a href="javascript:void(0);">Gallerie</a>
-                      
+
                     </li>
                     <li class="menu-item-has-children">
                       <a href="javascript:void(0);">Blog</a>
-                  
+
                     </li>
 
                     <li><nuxt-link to="/contact">Contact</nuxt-link></li>
