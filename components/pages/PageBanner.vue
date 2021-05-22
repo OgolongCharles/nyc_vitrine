@@ -28,5 +28,7 @@
 </script>
 
 <style scoped>
-
+.pageBanner{
+   mask-image: linear-gradient(to bottom, rgba(0,0,0,1),rgba(0,0,0,0));
+}
 </style>
