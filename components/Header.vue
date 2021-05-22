@@ -92,27 +92,27 @@
               <div class="popup-inner">
                 <div class="dl-menu__wrap dl-menuwrapper">
                   <ul class="dl-menu dl-menuopen">
-                    <li><nuxt-link :to="localePath('/')">{{$t("home")}}</nuxt-link></li>
-                    <li><nuxt-link :to="localePath('about')">{{$t("propos")}}</nuxt-link></li>
+                    <li class="closes"><nuxt-link :to="localePath('/')">{{$t("home")}}</nuxt-link></li>
+                    <li class="closes"><nuxt-link :to="localePath('about')">{{$t("propos")}}</nuxt-link></li>
                     <li class="menu-item-has-children"><a href="javascript:void(0);">services</a>
                       <ul class="dl-submenu">
-                        <li><nuxt-link :to="localePath('outSourcing')">Outsourcing</nuxt-link></li>
-                        <li><nuxt-link :to="localePath('prog')">{{$t("serPro")}}</nuxt-link></li>
-                        <li><nuxt-link :to="localePath('qa-testing')">{{$t("serTwo")}}</nuxt-link></li>
-                        <li><nuxt-link :to="localePath('graphism-design')">{{$t("DESIGN")}}</nuxt-link></li>
-                        <li><nuxt-link :to="localePath('digital-marketing')">{{$t("DIGITAL")}}</nuxt-link></li>
-                        <li><nuxt-link :to="localePath('business')">{{$t("BUSINESS")}}</nuxt-link></li>
-                        <li><nuxt-link :to="localePath('tech')">{{$t("ECHNOLOGIES")}}</nuxt-link></li>
+                        <li class="closes"><nuxt-link :to="localePath('outSourcing')">Outsourcing</nuxt-link></li>
+                        <li class="closes"><nuxt-link :to="localePath('prog')">{{$t("serPro")}}</nuxt-link></li>
+                        <li class="closes"><nuxt-link :to="localePath('qa-testing')">{{$t("serTwo")}}</nuxt-link></li>
+                        <li class="closes"><nuxt-link :to="localePath('graphism-design')">{{$t("DESIGN")}}</nuxt-link></li>
+                        <li class="closes"><nuxt-link :to="localePath('digital-marketing')">{{$t("DIGITAL")}}</nuxt-link></li>
+                        <li class="closes"><nuxt-link :to="localePath('business')">{{$t("BUSINESS")}}</nuxt-link></li>
+                        <li class="closes"><nuxt-link :to="localePath('tech')">{{$t("ECHNOLOGIES")}}</nuxt-link></li>
                       </ul>
                     </li>
 
-                    <li ><nuxt-link :to="localePath('portfolio')">{{$t("Gallerie")}}</nuxt-link></li>
+                    <li class="closes"><nuxt-link :to="localePath('portfolio')">{{$t("Gallerie")}}</nuxt-link></li>
 
-                    <li ><nuxt-link :to="localePath('blog')">Blog</nuxt-link>
+                    <li class="closes"><nuxt-link :to="localePath('blog')">Blog</nuxt-link>
 
                     </li>
 
-                     <li ><nuxt-link :to="localePath('contact')" >Contact</nuxt-link></li>
+                     <li class="closes"><nuxt-link :to="localePath('contact')" >Contact</nuxt-link></li>
 
                   </ul>
 
@@ -197,12 +197,10 @@
             e.preventDefault();
             $("body").removeClass("menu__open show-overlay-nav");
           });
-          $("#popup__menu").on('click', function (e) {
-            e.preventDefault();
-            $("body").removeClass("menu__open show-overlay-nav");
-          });
+         $('.closes').click(function(){
 
-
+           $("body").removeClass("menu__open show-overlay-nav");
+         })
           $(".hamburger").on("click", function () {
             $(this).toggleClass("is_active"), $("body").toggleClass("menu__open");
           }), $(document).keyup(function (e) {
