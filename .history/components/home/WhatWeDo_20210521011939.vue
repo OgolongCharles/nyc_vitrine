@@ -11,7 +11,7 @@
       <div class="row">
         <div class="col-lg-12 col-sm-12">
           <div class="videoWrap">
-            <img src="/images/home_1/Youtube.jpg" alt="">
+            <img src="/images/home_1/NyneCorp_cover-05.jpg" alt="">
             <div class="play_video">
               <a class="video_popup" href="/images/home_1/Service_nyne.mp4"><i class="fa fa-play"></i></a>
               <h2>Voir la Video</h2>

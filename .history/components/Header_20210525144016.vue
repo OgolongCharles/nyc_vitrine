@@ -26,7 +26,7 @@
                   <li><nuxt-link to="/about">{{$t("propos")}}</nuxt-link></li>
                   <li class="menu-item-has-children"><nuxt-link to="/services">Services</nuxt-link>
                     <ul class="sub-menu">
-                      <li><nuxt-link to="/maintainance">Outsourcing</nuxt-link></li>
+                      <li><nuxt-link to="/">Outsourcing</nuxt-link></li>
                       <li><nuxt-link to="/prog">{{$t("serPro")}}</nuxt-link></li>
                       <li><nuxt-link to="/qa-testing">{{$t("serTwo")}}</nuxt-link></li>
                       <li><nuxt-link to="/graphism-design">{{$t("DESIGN")}}</nuxt-link></li>
