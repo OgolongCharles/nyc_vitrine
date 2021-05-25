@@ -14,29 +14,34 @@
             <div class="col-lg-8 col-sm-7 col-md-7">
               <nav class="mainmenu text-center">
                 <ul>
-                  <li><nuxt-link :to="localePath('/')">{{$t("home")}}</nuxt-link></li>
-
-                  <li><nuxt-link :to="localePath('about')">{{$t("propos")}}</nuxt-link></li>
-                  <li class="menu-item-has-children"><nuxt-link :to="localePath('services')">Services</nuxt-link>
+                  <li><nuxt-link to="/">{{$t("home")}}</nuxt-link></li>
+<!--                  <li class="menu-item-has-children">-->
+<!--                    <a href="/">Accueil</a>-->
+<!--                    <ul class="sub-menu">-->
+<!--                      <li><nuxt-link to="/">Software Testing</nuxt-link></li>-->
+<!--                      <li><nuxt-link to="/index-2">Développement </nuxt-link></li>-->
+<!--                      <li><nuxt-link to="/index-3">Web Design</nuxt-link></li>-->
+<!--                    </ul>-->
+<!--                  </li>-->
+                  <li><nuxt-link to="/about">{{$t("propos")}}</nuxt-link></li>
+                  <li class="menu-item-has-children"><nuxt-link to="/services">Services</nuxt-link>
                     <ul class="sub-menu">
-
-                      <li><nuxt-link to="/maintainance">Outsourcing</nuxt-link></li>
+                      <li><nuxt-link to="/ma">Outsourcing</nuxt-link></li>
                       <li><nuxt-link to="/prog">{{$t("serPro")}}</nuxt-link></li>
                       <li><nuxt-link to="/qa-testing">{{$t("serTwo")}}</nuxt-link></li>
                       <li><nuxt-link to="/graphism-design">{{$t("DESIGN")}}</nuxt-link></li>
                       <li><nuxt-link to="/digital-marketing">{{$t("DIGITAL")}}</nuxt-link></li>
                       <li><nuxt-link to="/business">{{$t("BUSINESS")}}</nuxt-link></li>
                       <li><nuxt-link to="/tech">{{$t("ECHNOLOGIES")}}</nuxt-link></li>
-
                     </ul>
                   </li>
-                  <li class="menu-item-has-children"><nuxt-link :to="localePath('portfolio')">{{$t("Gallerie")}}</nuxt-link>
+                  <li class="menu-item-has-children"><nuxt-link to="/portfolio">{{$t("Gallerie")}}</nuxt-link>
 
                   </li>
-                  <li class="menu-item-has-children"><nuxt-link :to="localePath('blog')">Blog</nuxt-link>
+                  <li class="menu-item-has-children"><nuxt-link to="/blog">Blog</nuxt-link>
 
                   </li>
-                  <li><nuxt-link :to="localePath('contact')">Contact</nuxt-link></li>
+                  <li><nuxt-link to="/contact">Contact</nuxt-link></li>
                   <li>
                     <nuxt-link v-for="locale in availableLocales" :key="locale.code"
                                :to="switchLocalePath(locale.code)"><img :src="locale.image" alt="English">
@@ -79,42 +84,46 @@
       <div class="popup popup__menu">
         <a href="" id="close-popup" class="close-popup"></a>
         <div class="container mobileContainer">
-<!--          <div class="row">-->
-<!--            <div class="col-lg-12 text-left">-->
-<!--              <div class="logo2">-->
-<!--                <a href="/">-->
-<!--                  <img v-if="this.$route.name == 'index-2'" src="/images/logo2.png" alt="">-->
-<!--                  <img v-else="this.$route.name == 'index'" src="/images/logo.png" alt="">-->
-<!--                </a>-->
-<!--              </div>-->
-<!--            </div>-->
-<!--          </div>-->
+          <div class="row">
+            <div class="col-lg-12 text-left">
+              <div class="logo2">
+                <a href="/">
+                  <img v-if="this.$route.name == 'index-2'" src="/images/logo2.png" alt="">
+                  <img v-else="this.$route.name == 'index'" src="/images/logo.png" alt="">
+                </a>
+              </div>
+            </div>
+          </div>
           <div class="row">
             <div class="col-lg-12">
               <div class="popup-inner">
                 <div class="dl-menu__wrap dl-menuwrapper">
                   <ul class="dl-menu dl-menuopen">
-                    <li class="closes"><nuxt-link :to="localePath('/')">{{$t("home")}}</nuxt-link></li>
-                    <li class="closes"><nuxt-link :to="localePath('about')">{{$t("propos")}}</nuxt-link></li>
-                    <li class="menu-item-has-children"><a href="javascript:void(0);">services</a>
+                    <li class="menu-item-has-children">
+                      <a href="javascript:void(0);">home</a>
                       <ul class="dl-submenu">
-                        <li class="closes"><nuxt-link :to="localePath('outSourcing')">Outsourcing</nuxt-link></li>
-                        <li class="closes"><nuxt-link :to="localePath('prog')">{{$t("serPro")}}</nuxt-link></li>
-                        <li class="closes"><nuxt-link :to="localePath('qa-testing')">{{$t("serTwo")}}</nuxt-link></li>
-                        <li class="closes"><nuxt-link :to="localePath('graphism-design')">{{$t("DESIGN")}}</nuxt-link></li>
-                        <li class="closes"><nuxt-link :to="localePath('digital-marketing')">{{$t("DIGITAL")}}</nuxt-link></li>
-                        <li class="closes"><nuxt-link :to="localePath('business')">{{$t("BUSINESS")}}</nuxt-link></li>
-                        <li class="closes"><nuxt-link :to="localePath('tech')">{{$t("ECHNOLOGIES")}}</nuxt-link></li>
+                        <li><nuxt-link to="/">Home 01</nuxt-link></li>
+                        <li><nuxt-link to="/index-2">Home 02</nuxt-link></li>
+                        <li><nuxt-link to="/index-3">Home 03</nuxt-link></li>
                       </ul>
                     </li>
+                    <li><nuxt-link to="/about">About</nuxt-link></li>
+                    <li class="menu-item-has-children"><a href="javascript:void(0);">services</a>
+                      <ul class="dl-submenu">
+                        <li><nuxt-link to="/services">Service</nuxt-link></li>
+                        <li><nuxt-link to="/service-detail">Service Detail</nuxt-link></li>
+                      </ul>
+                    </li>
+                    <li class="menu-item-has-children">
+                      <a href="javascript:void(0);">Gallerie</a>
 
-                    <li class="closes"><nuxt-link :to="localePath('portfolio')">{{$t("Gallerie")}}</nuxt-link></li>
-
-                    <li class="closes"><nuxt-link :to="localePath('blog')">Blog</nuxt-link>
+                    </li>
+                    <li class="menu-item-has-children">
+                      <a href="javascript:void(0);">Blog</a>
 
                     </li>
 
-                     <li class="closes"><nuxt-link :to="localePath('contact')" >Contact</nuxt-link></li>
+                    <li><nuxt-link to="/contact">Contact</nuxt-link></li>
 
                   </ul>
 
@@ -199,10 +208,6 @@
             e.preventDefault();
             $("body").removeClass("menu__open show-overlay-nav");
           });
-         $('.closes').click(function(){
-
-           $("body").removeClass("menu__open show-overlay-nav");
-         })
           $(".hamburger").on("click", function () {
             $(this).toggleClass("is_active"), $("body").toggleClass("menu__open");
           }), $(document).keyup(function (e) {
