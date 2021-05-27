@@ -5,7 +5,7 @@ export default {
     DESIGN: "GRAPHISME & DESIGN",
     DIGITAL: "MARKETING DIGITAL",
     BUSINESS: "BUSINESS",
-    ECHNOLOGIES: "TECHNOLOGIES",
+    TECHNOLOGIES: "TECHNOLOGIES",
     propos: "A Propos",
     Gallerie: "Gallerie",
     contact: "Nous Contacter",
@@ -14,15 +14,13 @@ export default {
         "tout en offrant à nos employés la meilleure formation.",
     envBut: "Envoyer",
     bureau: "Bureaux près de chez vous",
-    address: "notre adresse",
+    address: "Notre adresse",
     alert: "Inscrivez-vous à nos alertes email",
-    abonnet: "abonnez-vous aux derniers articles et ressources",
+    abonnet: "Abonnez-vous aux derniers articles et ressources",
     link: "Liens Supplémentaires",
     name: "Votre Nom",
-    email: "mail",
-    enterMail:"enter email",
-    // Contact page
-    contact:"Nous Contacter",
+    email: "Mail",
+    enterMail:"Entrer l'email",
     messageUs:"Laissez nous un message",
     firstName:"Prénom",
     Second:"Nom de famille",
@@ -65,14 +63,21 @@ export default {
     talk3: "Je remercie L'équipe de NKAP qui est toujours à l'ecoute, patient face à nos caprices. Surtout pour le travail toujours bien fait et à un prix defiant toute concurrence.",
     talk4: " Nous utilison l'application NKAP depuis 2ans et nous en sommes plus que satisfaites , car elle nous aide a assurer la transparence et la communicationau sein de notre association.",
     talk5: " Depuis que nous utilisons  Nkap App, plus besoin de calculatrice, plus d'erreur... La cerise sur le gateau c'est la transparence dans la gestion de notre association. Merci  NKAP pour cette solution.",
+    talk6: "Bienvenue dans notre agence de conseil informatique. Nous sommes principalement spécialisé en Software Testing. Nous vous accompagnons également sur toutes les problématiques de développement logiciel, Graphisme, Motion Design ,Community Management, etc .Avec nous, Le conseil et la mise en oeuvre de solutions informatiques est désormais à portée de main.",
+    our_history: "Notre Histoire",
+    history_talk1_part1: "NYNECORP est une société de prestations de services informatique créée 2017 en France.\n",
+    history_talk1_part2: "Nous sommes domicilié à Cergy au 3 rue des Châtaigniers.\n",
+    history_talk1_part3: "Nous sommes spécialisé en QA-Testing mais accompagnons les entreprises et particuliers sur plusieurs secteurs d’activités IT depuis 4 ans.\n",
+    history_talk1_part4: "Nous sommes un prestataire de choix pour la multinationale ARROW (Fortune 150) ; Notamment dans le conseil Cloud. \n",
+    history_talk1_part5: "Nous avons délivré plusieurs prestations de formations (En Automatisations de tests , MG725 , Gestion de projets , etc.) pour le Compte d’IB Cegos (1er formateur Français) via son partenaire TESSCO et pour PLB également.\n",
+    history_talk1_part6: "Nous œuvrons énormément au Cameroun où nos prestations sont très diversifiées (Editeur de site Web, Graphisme, Communication digitale, Formations, etc …\n",
 
-    // Home blog
-    blog: "Articles de presse",
+  blog: "Articles de presse",
 
     // About Pages
     Video: "Nous sommes une agence de conseil en informatique et Communication Digital qui accompagne des personnes, entreprises et organisations dans la conception et la réalisation de divers projets dans le domaine des NTIC ",
     Video2: "Créez des sites Web et des applications mobiles incroyables pour vos projets",
 
     // maintenance
-    devMessage: "Page bloquer pour des raisons de maintenance",
+    devMessage: "Page bloquée pour des raisons de maintenance",
 }
