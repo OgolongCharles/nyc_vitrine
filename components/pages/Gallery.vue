@@ -188,9 +188,8 @@ name:"Gallery",
               height:1200vh;
           }
       }
-        @media(min-width:800px) and (max-width:800px){
+        @media(min-width:700px) and (max-width:800px){
             section{
-
               height:220vh;
             }
             .grid-container{

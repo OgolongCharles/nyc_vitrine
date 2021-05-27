@@ -20,7 +20,7 @@
                   <li class="menu-item-has-children"><nuxt-link :to="localePath('services')">Services</nuxt-link>
                     <ul class="sub-menu">
 
-                      <li><nuxt-link to="/maintainance">Outsourcing</nuxt-link></li>
+                      <li><nuxt-link to="/outSourcing">Outsourcing</nuxt-link></li>
                       <li><nuxt-link to="/prog">{{$t("serPro")}}</nuxt-link></li>
                       <li><nuxt-link to="/qa-testing">{{$t("serTwo")}}</nuxt-link></li>
                       <li><nuxt-link to="/graphism-design">{{$t("DESIGN")}}</nuxt-link></li>
