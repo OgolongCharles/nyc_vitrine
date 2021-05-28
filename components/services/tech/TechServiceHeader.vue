@@ -4,9 +4,9 @@
       <div class="row">
         <div class="col-lg-12 text-center">
           <h4 class="sub_title">Bienvenue sur NYNECORP - Agence de développement IT - QA - DIGITALE</h4>
-          <h2 class="sec_title">{{$t("ECHNOLOGIES")}}</h2>
+          <h2 class="sec_title">{{$t("TECHNOLOGIES")}}</h2>
           <p class="sec_desc">
-           
+
           </p>
         </div>
       </div>
@@ -18,9 +18,9 @@
             Notre offre consiste en la réalisation, administration des systèmes et réseaux informatiques, pour lesquels nous assurons un suivi minutieux
             </p>
             <div class="iconWrap">
-           
+
               <img src="/images/service/tech1.png" alt="">
-           
+
             </div>
             <nuxt-link to="Technology/Reseaux">Lire Plus</nuxt-link>
           </div>
@@ -68,7 +68,7 @@
           <div class="icon_box_2 text-center">
             <h3>Audit </h3>
             <p>
-             Afin de réaliser des audits internes efficients de votre systéme, nos équipes intègrent au cœur de leurs méthodologies les nouvelles technologies 
+             Afin de réaliser des audits internes efficients de votre systéme, nos équipes intègrent au cœur de leurs méthodologies les nouvelles technologies
             </p>
             <div class="iconWrap">
                 <img src="/images/service/tech5.png" alt="">
@@ -80,7 +80,7 @@
           <div class="icon_box_2 text-center">
             <h3>Microsoft 365 Business </h3>
             <p>
-            Toutefois, nous recommandons à nos clients professionnels de recourir aux services de support technique étendus via le Support Premier pour entreprises et Services Microsoft 
+            Toutefois, nous recommandons à nos clients professionnels de recourir aux services de support technique étendus via le Support Premier pour entreprises et Services Microsoft
             </p>
             <div class="iconWrap">
               <img src="/images/service/tech6.png" alt="">
