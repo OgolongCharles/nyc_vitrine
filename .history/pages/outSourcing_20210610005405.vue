@@ -1,6 +1,11 @@
 <template>
   <div>
+  
     <dev />
+    <!--<Services />
+    <WhatWeDoTwo />
+    <Funfact />
+    <Clients />-->
   </div>
 </template>
 

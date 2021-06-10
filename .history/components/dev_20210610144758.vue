@@ -63,11 +63,7 @@ export default {
 }
 img{
   width:100%;
-  height:100%;
-}
-.image{
-  width:380px;
- height:390px;
+  height:390px;
 }
 video{
    object-fit: cover;

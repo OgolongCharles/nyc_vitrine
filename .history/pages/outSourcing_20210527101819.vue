@@ -1,6 +1,11 @@
 <template>
   <div>
+    <PageBanner pageTitle="QA & Testing" bannerCss="pageBannerAbout"/>
     <dev />
+    <!--<Services />
+    <WhatWeDoTwo />
+    <Funfact />
+    <Clients />-->
   </div>
 </template>
 

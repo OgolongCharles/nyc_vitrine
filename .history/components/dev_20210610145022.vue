@@ -66,7 +66,7 @@ img{
   height:100%;
 }
 .image{
-  width:380px;
+  width:350px;
  height:390px;
 }
 video{

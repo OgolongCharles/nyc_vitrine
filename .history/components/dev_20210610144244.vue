@@ -9,7 +9,7 @@
                     <div class="item col-lg-4 col-md-4 col-sm-11 col-xs-12">
                       <p>Vous voulez réduire les coûts, dont les coûts de personnels, de charges sociales, les frais d’entretien de vos locaux, les frais d’énergie ?</p>
                     </div>
-                     <div class="image col-lg-4 col-md-4 col-sm-11 col-xs-12">
+                     <div class="col-lg-4 col-md-4 col-sm-11 col-xs-12">
                        <img src="/images/service/out.jpg" alt="">
                      </div>
                     <div class="item col-lg-4 col-md-4 col-sm-11 col-xs-12">
@@ -62,12 +62,9 @@ export default {
 
 }
 img{
-  width:100%;
-  height:100%;
-}
-.image{
-  width:380px;
- height:390px;
+  width:100;
+  height:390px;
+
 }
 video{
    object-fit: cover;

@@ -3,7 +3,7 @@
     <dev />
   </div>
 </template>
-
+/
 <script>
   import PageBanner from "~/components/pages/PageBanner";
   import dev from "~/components/dev";

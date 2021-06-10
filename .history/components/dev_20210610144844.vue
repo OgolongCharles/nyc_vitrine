@@ -66,8 +66,7 @@ img{
   height:100%;
 }
 .image{
-  width:380px;
- height:390px;
+  width:100%;
 }
 video{
    object-fit: cover;

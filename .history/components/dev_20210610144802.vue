@@ -63,12 +63,15 @@ export default {
 }
 img{
   width:100%;
-  height:100%;
+  height:390px;
 }
-.image{
-  width:380px;
- height:390px;
-}
+.  {/**1st links box */}
+                    <Link to={'/'} className="hearder__link">
+                          <div  className="hearder__option">
+                                    <span className="hearder__optionLineTwo">About</span>
+                                   
+                          </div>
+                   </Link>
 video{
    object-fit: cover;
   width: 100vw;
