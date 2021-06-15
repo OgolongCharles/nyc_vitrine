@@ -11,7 +11,7 @@
             </div>
             <div class="col-lg-3 col-sm-6 col-md-3 noPadding BR">
               <div class="singlefunfact text-center">
-                <h1 data-counter="8" class="timer"><span class="countSpan"></span>12</h1>
+                <h1 data-counter="8" class="timer"><span class="countSpan"></span>4</h1>
                 <h3>{{$t("fun2")}}</h3>
               </div>
             </div>
@@ -23,7 +23,7 @@
             </div>
             <div class="col-lg-3 col-sm-6 col-md-3 noPadding">
               <div class="singlefunfact text-center">
-                <h1 data-counter="15" class="timer"><span class="countSpan"></span>15</h1>
+                <h1 data-counter="10" class="timer"><span class="countSpan">2</span>12</h1>
                 <h3>{{$t("fun4")}}</h3>
               </div>
             </div>
@@ -46,7 +46,7 @@
                         <p>
                           {{$t("funPro2")}}
                         </p>
-                        <a class="common_btn red_bg" href="/Apropos"><span>{{$t("Buttons")}}</span></a>
+                        <a class="common_btn red_bg" href="/about"><span>{{$t("Buttons")}}</span></a>
                       </div>
                     </div>
                   </div>

@@ -46,7 +46,7 @@
                         <p>
                           {{$t("funPro2")}}
                         </p>
-                        <a class="common_btn red_bg" href="/Apropos"><span>{{$t("Buttons")}}</span></a>
+                        <a class="common_btn red_bg" href="/"><span>{{$t("Buttons")}}</span></a>
                       </div>
                     </div>
                   </div>

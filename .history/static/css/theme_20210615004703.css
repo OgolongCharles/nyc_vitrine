@@ -1054,7 +1054,7 @@ a.slider-one__text {
 .ab_img2 {
     position: absolute;
     left: 0;
-    top: -10px;
+    top: 10px;
     z-index: 2;
 }
 
@@ -1374,7 +1374,7 @@ a.slider-one__text {
 }
 
 .abci_content p {
-    margin-bottom: 25px;
+    margin-bottom: 50px;
 }
 
 
