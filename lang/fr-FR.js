@@ -1,6 +1,6 @@
 export default {
     home: "Accueil",
-    serPro: "PROGRAMMATION",
+    serPro: "DEVELOPEMENT D'APPLICATIONS",
     serTwo: "QA & TESTING",
     DESIGN: "GRAPHISME & DESIGN",
     DIGITAL: "MARKETING DIGITAL",

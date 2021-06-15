@@ -49,7 +49,7 @@
                   <i class="fa fa-linkedin-square"></i>LinkedIn</a>
               </li>
               <li>
-                <a href="https://www.youtube.com/channel/UCgEIs7eD-ofr1aFlFhU0rJQ/?guided_help_flow=5" target="_blank">
+                <a href="https://www.youtube.com/channel/UCOivSKdHWlUmpxwFkPUue-w" target="_blank">
                 <i class="fa fa-youtube-play"></i>Youtube</a>
               </li>
               <li>

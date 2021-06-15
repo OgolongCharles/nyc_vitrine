@@ -16,7 +16,7 @@
                 <ul>
                   <li><nuxt-link :to="localePath('/')">{{$t("home")}}</nuxt-link></li>
 
-                  <li><nuxt-link :to="localePath('about')">{{$t("propos")}}</nuxt-link></li>
+                  <li><nuxt-link :to="localePath('Apropos')">{{$t("propos")}}</nuxt-link></li>
                   <li class="menu-item-has-children"><nuxt-link :to="localePath('services')">Services</nuxt-link>
                     <ul class="sub-menu">
 
@@ -95,7 +95,7 @@
                 <div class="dl-menu__wrap dl-menuwrapper">
                   <ul class="dl-menu dl-menuopen">
                     <li class="closes"><nuxt-link :to="localePath('/')">{{$t("home")}}</nuxt-link></li>
-                    <li class="closes"><nuxt-link :to="localePath('about')">{{$t("propos")}}</nuxt-link></li>
+                    <li class="closes"><nuxt-link :to="localePath('Apropos')">{{$t("propos")}}</nuxt-link></li>
                     <li class="menu-item-has-children"><a href="javascript:void(0);">services</a>
                       <ul class="dl-submenu">
                         <li class="closes"><nuxt-link :to="localePath('outSourcing')">Outsourcing</nuxt-link></li>

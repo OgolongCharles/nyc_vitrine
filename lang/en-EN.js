@@ -1,6 +1,6 @@
 export default {
     home: "Home",
-    serPro: "PROGRAMMING",
+    serPro: "APP DEVELOPMENT",
     serTwo: "QA & TESTING",
     DESIGN: "GRAPHICS & DESIGN",
     BUSINESS: "BUSINESS",
@@ -45,7 +45,7 @@ export default {
     Port1: "Work showcase",
     Port2: "Our achievements",
     // funFact Zone
-    fun1: "Dilivered Projects",
+    fun1: "Delivered Projects",
     fun2: "Active Customers",
     fun3: " NKAP Clients",
     fun4: "Satisfied Clients",
