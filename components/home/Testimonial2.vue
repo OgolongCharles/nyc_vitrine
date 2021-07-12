@@ -55,37 +55,9 @@
                     </div>
                 </div><!----item end---->
 
-                 <div class="talk col-lg-4 col-sm-6 col-md-4"><!----item start---->
-                    <h1>ASSOCIATION MADZON</h1>
-                    <div class="card-body text-justify">
-                      <p>
-                        {{$t("talk4")}}
-                         </p>
-                      <div class="card-footer col-lg">
-                           <div class="card-img A500 col-lg-6"></div>
-                           <div class="name col-lg-6">
-                               <br>
-                             <h4>President Madzon Ngouobong</h4>
-                           </div>
-                      </div>
-                    </div>
-                </div><!----item end---->
 
-                 <div class="talk col-lg-4 col-sm-6 col-md-4"><!----item start---->
-                    <h1>ASSOCIATION  FOBA</h1>
-                    <div class="card-body text-justify">
-                      <p>
-                        {{$t("talk5")}}
-                         </p>
-                      <div class="card-footer col-lg">
-                           <div class="card-img A600 col-lg-6"></div>
-                           <div class="name col-lg-6">
-                            <br>
-                             <h4>SG FOBA</h4>
-                           </div>
-                      </div>
-                    </div>
-                </div><!----item end---->
+
+                 
 
 
 

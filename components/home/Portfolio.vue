@@ -373,7 +373,7 @@
 
 <style scoped>
 .commonSection{
-  height:100vh !important;
+  height:92vh !important;
 }
 .col-lg-4{
    width:350px;

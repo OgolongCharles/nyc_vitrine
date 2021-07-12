@@ -2,10 +2,9 @@
   <section class="commonSection client">
     <div class="container">
       <div class="row">
-        <div class="col-lg-12 text-center">
+        <div class="clt col-lg-12 text-center">
           <h4 class="sub_title">clients</h4>
           <h2 class="sec_title"> {{$t("Trust")}} </h2>
-
         </div>
       </div>
       <div class="row">
@@ -46,11 +45,7 @@
                 <img src="/images/client/9.png" alt=""/>
               </a>
             </div>
-            <div class="singleClient">
-              <a href="#">
-                <img src="/images/client/14.png" alt=""/>
-              </a>
-            </div>
+
             <div class="singleClient">
               <a href="#">
                 <img src="/images/client/13.jpg" alt=""/>
@@ -110,7 +105,7 @@
                 items: 3
               },
               992: {
-                items: 4
+                items: 6
               }
             }
           });

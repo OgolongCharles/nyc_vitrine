@@ -4,7 +4,7 @@
     <icons />
     <Services />
     <AboutAgency />
-    <WhatWeDo />
+    <!-- <WhatWeDo /> -->
     <Portfolio />
     <Funfact />
     <Team />
