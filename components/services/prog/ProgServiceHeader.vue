@@ -5,20 +5,20 @@
         <div class="col-lg-12 text-center">
           <h4 class="sub_title">Bienvenue sur NYNECORP - Agence de développement IT - QA - DIGITALE</h4>
           <h2 class="sec_title">{{$t("serPro")}}</h2>
-        
+
         </div>
       </div>
       <div class="row">
         <div class="col-lg-4 col-sm-6 col-md-4">
           <div class="icon_box_2 text-center">
-            <h3>Sites Vitrines</h3>
+            <h3>Conseil en développement d’application </h3>
             <p>
-            Nkap développe des sites vitrines professionnels pour Entreprises et Particuliers, avec un accent sur la performance et l'expérience utilisateur 
+            Nkap développe des sites vitrines professionnels pour Entreprises et Particuliers, avec un accent sur la performance et l'expérience utilisateur
             </p>
             <div class="iconWrap">
-           
+
               <img src="/images/service/p1.png" alt="">
-           
+
             </div>
             <nuxt-link to="program/Sites">Lire Plus</nuxt-link>
           </div>
@@ -27,8 +27,8 @@
           <div class="icon_box_2 text-center">
             <h3>Applications Mobiles</h3>
             <p>
-             Nkap dispose de toute l'expertise dont vous avez besoin pour développer les meilleurs Applications Mobiles sur endroide comme sur IOS 
-            </p>
+             Nkap dispose de toute l'expertise dont vous avez besoin pour développer les meilleurs Applications Mobiles sur endroide comme sur IOS
+            </p><br><br>
             <div class="iconWrap">
               <img src="/images/service/p2.png" alt="">
             </div>
@@ -39,8 +39,8 @@
           <div class="icon_box_2 text-center">
             <h3>Applications De Bureau</h3>
             <p>
-            Nkap met à votre disposition des solutions multiples d'applications rapides et stables pour des clients specifiques 
-            </p>
+            Nkap met à votre disposition des solutions multiples d'applications rapides et stables pour des clients specifiques
+            </p><br><br>
             <div class="iconWrap">
                <img src="/images/service/p3.png" alt="">
             </div>
@@ -54,7 +54,7 @@
           <div class="icon_box_2 text-center">
             <h3>Sites Web</h3>
             <p>
-           Nkap edite et intègre des solutions web pour entreprise de toutes taile (Site E-Commerce , Prestashop , Shopify) 
+           Nkap edite et intègre des solutions web pour entreprise de toutes taile (Site E-Commerce , Prestashop , Shopify)
             </p>
             <div class="iconWrap">
                <img src="/images/service/p4.png" alt="">
@@ -78,7 +78,7 @@
           <div class="icon_box_2 text-center">
             <h3>Site Web de Zéro </h3>
             <p>
-             Expert dans le dévelopement web ,nous partons de zero et concevons des sites élegant et performant pour les entreprises et particuliers 
+             Expert dans le dévelopement web ,nous partons de zero et concevons des sites élegant et performant pour les entreprises et particuliers
             </p>
             <div class="iconWrap">
               <img src="/images/service/p6.png" alt="">

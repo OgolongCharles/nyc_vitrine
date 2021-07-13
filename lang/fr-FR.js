@@ -46,7 +46,7 @@ export default {
     fun2: "Clients Actifs",
     fun3: "Clients NKAP",
     fun4: "Clients Satisfaits",
-    funPro1: "Plus de 15 clients nous ont déjà fait confiance",
+    funPro1: "Plus de 30 clients nous ont déjà fait confiance",
     funPro2: "Avec près de 5 ans d'existence de nombreux clients ont fait appel à nos services. Pour leurs besoins, nos clients bénéficient d’une rigueur , d'un professionnalisme et d'une sécurisé, propice à la concentration dans leur coeur de métier. Quelques références de clients ayant fait appel à nos services se trouvent plus haut ",
 
     // team Zone

@@ -142,7 +142,13 @@
 font-size: 38px;
 }
 .slider-one{
-height: 80vh;
+height: 70vh;
+
+}
+.item{
+background-position: center;
+background-size: cover;
+background-repeat: repeat;
 }
 }
 </style>

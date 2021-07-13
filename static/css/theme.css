@@ -264,8 +264,9 @@ License URI:
 ------------------------------------------------------*/
 
 .service_section {
-    background: url(../images/bg/1.jpg) no-repeat center center / cover;
+    background: url(../images/bg/1.jpg) no-repeat center center / cover ;
     margin-top: -10px;
+    height: 80vh;
 }
 
 .icon_box_1 {
@@ -303,7 +304,7 @@ License URI:
     line-height: 20px;
     font-weight: 400;
     text-transform: uppercase;
-    color: #aaaaaa;
+    color: #fff;
     margin: 0;
     transition: all ease 400ms;
     -moz-transition: all ease 400ms;
@@ -362,7 +363,7 @@ License URI:
     background: transparent;
     z-index: 2;
     border: 2px solid rgba(27, 27, 27, 1);
-    padding: 48px 45px 45px;
+    padding: 8px 5px 0px;
     width: 100%;
 }
 
@@ -381,8 +382,8 @@ License URI:
     -ms-transform: rotateY(-180deg);
     transform: rotateY(-180deg);
     position: relative;
-    padding: 48px 45px 45px;
-    border: 2px solid #4085f4;
+    padding: 8px 5px 0px;
+
     width: 100%;
 }
 
@@ -716,6 +717,9 @@ a.slider-one__text {
 }
 
 .slider-one {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
     padding: 0;
     text-align: center;
 }
@@ -1082,6 +1086,7 @@ a.slider-one__text {
 ------------------------------------------------------*/
 
 .what_wedo {
+
     position: relative;
     border-bottom: 1px solid #e7e7e7;
     padding-bottom: 72px;
@@ -1103,7 +1108,8 @@ a.slider-one__text {
 }
 
 .videoWrap img {
-    width: 100%;
+    width: 50%;
+    margin-left: 300px;
     height: auto;
 }
 
@@ -1410,6 +1416,8 @@ a.slider-one__text {
 
 .tm_img {
     position: relative;
+    width: 150px;
+    cursor: pointer;
 }
 
 .tm_img img {
@@ -1538,7 +1546,7 @@ a.slider-one__text {
 .detail_TM {
     position: relative;
     text-align: center;
-    padding: 30px 15px 0;
+    padding: 30px 5px ;
 }
 
 .detail_TM h5 {
@@ -1635,12 +1643,17 @@ a.slider-one__text {
 
 .client {
     background: #f4f4f4;
+    height: 65vh;
+}
+
+.client .container{
+  margin-top: -50px;
 }
 
 .singleClient {
     position: relative;
     width: 100%;
-    height: 208px;
+    height: 150px;
     margin-bottom: 30px;
     background: #fff;
     text-align: center;
@@ -1670,6 +1683,11 @@ a.slider-one__text {
     transition: all ease 500ms;
     -moz-transition: all ease 500ms;
     -webkit-transition: all ease 500ms;
+}
+@media(max-width:500px){
+  .singleClient a img{
+    opacity: 1;
+  }
 }
 
 .singleClient:after {
