@@ -146,6 +146,8 @@
 </script>
 
 <style scoped>
+
+
 .icon_box_1{
   width: 200px !important;
 
@@ -167,6 +169,14 @@ font-size: 12px !important;
 }
 .col-lg-2{
 margin:62px !important;
+}
+}
+@media(min-width:600px) and (max-width:800px){
+  .front {
+    padding: 14px 5px 10px !important;
+}
+  .back {
+    padding: 14px 5px 10px !important;
 }
 }
 </style>

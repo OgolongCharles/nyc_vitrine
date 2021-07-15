@@ -356,8 +356,8 @@
               560: {
                 items: 2
               },
-              768: {
-                items: 3
+              800: {
+                items: 2
               },
               992: {
                 items: 3
@@ -382,4 +382,10 @@
   height:320px;
   width:300px;
 }
+  @media(min-width:600px) and (max-width:800px){
+    .commonSection{
+height: 62vh !important;
+
+}
+  }
 </style>

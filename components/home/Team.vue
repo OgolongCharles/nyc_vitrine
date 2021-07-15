@@ -92,7 +92,7 @@
                 settings: {
                   centerMode: true,
                   centerPadding: '40px',
-                  slidesToShow: 3
+                  slidesToShow: 4
                 }
               },
               {
@@ -100,7 +100,15 @@
                 settings: {
                   centerMode: true,
                   centerPadding: '40px',
-                  slidesToShow: 2
+                  slidesToShow: 3
+                }
+              },
+              {
+                breakpoint: 800,
+                settings: {
+                  centerMode: true,
+                  centerPadding: '40px',
+                  slidesToShow: 3
                 }
               },
               {
@@ -122,4 +130,9 @@
 .team{
   height: 75vh !important;
 }
+  @media(min-width:600px) and (max-width:800px){
+ .team{
+  height: 55vh !important;
+}
+  }
 </style>
