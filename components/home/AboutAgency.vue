@@ -31,5 +31,10 @@
 </script>
 
 <style scoped>
+  @media(min-width:600px) and (max-width:800px){
+    .ab_agency{
+height: 65vh;
 
+}
+  }
 </style>

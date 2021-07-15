@@ -137,7 +137,7 @@
 .slider-one__title{
   margin-bottom:50px;
 }
-@media(max-width: 650px){
+@media(max-width: 600px){
 .slider-one__title{
 font-size: 38px;
 }
@@ -151,4 +151,10 @@ background-size: cover;
 background-repeat: repeat;
 }
 }
+  @media(min-width:600px) and (max-width:800px){
+    .slider-one{
+height: 62vh;
+
+}
+  }
 </style>
