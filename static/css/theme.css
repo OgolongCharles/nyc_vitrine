@@ -1687,7 +1687,7 @@ a.slider-one__text {
     right: 0;
     bottom: 0;
     margin: auto;
-    opacity: .4;
+    opacity: 1;
     display: inline-block !important;
     transition: all ease 500ms;
     -moz-transition: all ease 500ms;
@@ -1820,8 +1820,8 @@ a.slider-one__text {
 ------------------------------------------------------*/
 
 .testimonial {
-    background: url(../images/bg/Cover_LinkedIn.jpg) no-repeat fixed center / cover;
-    padding-bottom: 113px;
+    background: url(../images/client/testi.jpg) no-repeat fixed center / cover;
+     height: 65vh;
 }
 
 .testimonial_content {
