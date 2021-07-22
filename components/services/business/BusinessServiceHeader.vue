@@ -6,7 +6,7 @@
           <h4 class="sub_title">Bienvenue sur NYNECORP - Agence de développement IT - QA - DIGITALE</h4>
           <h2 class="sec_title">{{$t("BUSINESS")}}</h2>
           <p class="sec_desc">
-           
+
           </p>
         </div>
       </div>
@@ -15,12 +15,12 @@
           <div class="icon_box_2 text-center">
             <h3>Gestion de site E-commerce</h3>
             <p>
-          Nous vous accompagnons des compétences en marketing pour gérer correctement un e-commerce Ventes et Service à la clientèle 
+          Nous vous accompagnons des compétences en marketing pour gérer correctement un e-commerce Ventes et Service à la clientèle
             </p>
             <div class="iconWrap">
-           
+
               <img src="/images/service/BizA.png" alt="">
-           
+
             </div>
             <nuxt-link to="Business/E-commerce">Lire Plus</nuxt-link>
           </div>
@@ -29,7 +29,7 @@
           <div class="icon_box_2 text-center">
             <h3>Gestion de projet</h3>
             <p>
-            Nous vous aidons définir le projet, le réduire à un ensemble de tâches à gérer, obtenir des ressources appropriées et construire une équipe pour effectuer le travail 
+            Nous vous aidons définir le projet, le réduire à un ensemble de tâches à gérer, obtenir des ressources appropriées et construire une équipe pour effectuer le travail
             </p>
             <div class="iconWrap">
               <img src="/images/service/Biz1.png" alt="">
@@ -41,7 +41,7 @@
           <div class="icon_box_2 text-center">
             <h3>Business Plan </h3>
             <p>
-           nous vous aidons en concevant Un business plan établi une feuille de route écrite pour l'entreprise d'un point de vue marketing, financier et opérationnel 
+           Nous vous aidons en concevant Un business plan établi une feuille de route écrite pour l'entreprise d'un point de vue marketing, financier et opérationnel
             </p>
             <div class="iconWrap">
                <img src="/images/service/Biz2.png" alt="">
@@ -56,7 +56,7 @@
           <div class="icon_box_2 text-center">
             <h3>Montage de Cahier de charges</h3>
             <p>
-          Nous vous accompagnons dans la conception des cahier de charges pour la réalisation de vos projets 
+          Nous vous accompagnons dans la conception des cahiers de charges pour la réalisation de vos projets
             </p>
             <div class="iconWrap">
                <img src="/images/service/Biz3.png" alt="">
@@ -68,7 +68,7 @@
           <div class="icon_box_2 text-center">
             <h3>Conseil en Gestion RH </h3>
             <p>
-            Pour la gestion RH de votre entreprise, les experts Nkap vous apportent des conseils et des solutions sur mesure . Audit de vos ressources humaines et bien d'autres 
+            Pour la gestion RH de votre entreprise, les experts Nkap vous apportent des conseils et des solutions sur mesure. Audit de vos ressources humaines et bien d'autres
             </p>
             <div class="iconWrap">
                 <img src="/images/service/Biz4.png" alt="">
@@ -80,7 +80,7 @@
           <div class="icon_box_2 text-center">
             <h3>Conseil Marketing strategique </h3>
             <p>
-            Bénéficiez des conseils d'un spécialiste du marketing des services. Notre agence est un cabinet de conseil marketing. 
+            Bénéficiez des conseils d'un spécialiste du marketing des services. Notre agence est un cabinet de conseil marketing.
             </p>
             <div class="iconWrap">
               <img src="/images/service/Biz5.png" alt="">

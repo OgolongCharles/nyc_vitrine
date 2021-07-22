@@ -7,11 +7,7 @@
           <aside class="widget aboutwidget">
             <a href="#"><img src="/images/foo_logo.png" alt=""></a>
             <p>
-              Bienvenue dans notre agence de conseil informatique.
-              Nous sommes principalement spécialisé en Software Testing.
-              Nous vous accompagnons également sur toutes les problématiques de développement logiciel,
-              Graphisme, Motions Design ,Community Management etc ...
-              Avec nous, Le conseil et la mise en oeuvre de solutions informatiques est désormais à portée de main
+               {{$t("footerText")}}
             </p>
           </aside>
         </div>

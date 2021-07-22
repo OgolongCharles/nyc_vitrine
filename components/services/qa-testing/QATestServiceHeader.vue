@@ -6,7 +6,7 @@
           <h4 class="sub_title">Bienvenue sur NYNECORP - Agence de développement IT - QA - DIGITALE</h4>
           <h2 class="sec_title">{{$t("serTwo")}}</h2>
           <p class="sec_desc">
-            
+
           </p>
         </div>
       </div>
@@ -15,12 +15,12 @@
           <div class="icon_box_2 text-center">
             <h3>QA DATA ANALYST</h3>
             <p>
-           Examiner vos données et les transformer en informations.Faire de la veille sur les performances et les plans de controle qualité.
+           Examiner vos données et les transformer en informations. Faire de la veille sur les performances et les plans de controle qualité.
             </p>
             <div class="iconWrap">
-           
+
               <img src="/images/service/QA1.png" alt="">
-           
+
             </div>
            <nuxt-link to="qa/QA-Data">Lire Plus</nuxt-link>
           </div>
@@ -29,7 +29,7 @@
           <div class="icon_box_2 text-center">
             <h3>QA MANUAL TESTING</h3>
             <p>
-            Analyser les specifications fonctionnelles de vos applications et logiciels et extraire les exigences de test.Vérifier et tester les fonctionnalités essentielles de vos applications ou du logiciels de façon manuel 
+            Analyser les spécifications fonctionneles de vos applications et logiciels et extraire les exigences de test. Vérifier et tester les fonctionnalités essentielles de vos applications ou du logiciells de façon manuel
             </p>
             <div class="iconWrap">
               <img src="/images/service/QA2.png" alt="">
@@ -41,7 +41,7 @@
           <div class="icon_box_2 text-center">
             <h3>QA SUPPORT</h3>
             <p>
-           Elaborer la politique d'assurance de la qualité, la réalisation de tests et d'inspectionsMettre en œuvre la politique d'assurance de la qualité, la réalisation de tests et d'inspections 
+           Elaborer la politique d'assurance de la qualité, la réalisation de tests et d'inspectionsMettre en œuvre la politique d'assurance de la qualité, la réalisation de tests et d'inspections
             </p>
             <div class="iconWrap">
                <img src="/images/service/QA3.png" alt="">
@@ -55,7 +55,7 @@
           <div class="icon_box_2 text-center">
             <h3>QA AUTOMATION TESTING</h3>
             <p>
-          Analyser les specifications fonctionnelles de vos applications et logiciels et extraire les exigences de test.Vérifier et tester les fonctionnalités essentielles de vos application ou du logiciel de façon automatique 
+          Analyser les spécifications fonctionnelles de vos applications et logiciels et extraire les exigences de test.Vérifier et tester les fonctionnalités essentielles de vos application ou du logiciel de façon automatique
             </p>
             <div class="iconWrap">
                <img src="/images/service/QA4.png" alt="">
@@ -67,7 +67,7 @@
           <div class="icon_box_2 text-center">
             <h3>QA BUGS ANALYST </h3>
             <p>
-            Determiner et Analyser la severite des defauts sur les fonctionnalites des logiciels et applications.Classifier les defauts par priorité 
+            Déterminer et Analyser la sévérite des défauts sur les fonctionnalités des logiciels et applications.Classifier les defauts par priorité
             </p>
             <div class="iconWrap">
                 <img src="/images/service/QA5.png" alt="">
@@ -79,7 +79,7 @@
           <div class="icon_box_2 text-center">
             <h3>QA EXPERT </h3>
             <p>
-            Assurer le suivir du cycle de vie des defauts sur les fonctionnalites des logiciels et applications 
+            Assurer le suivi du cycle de vie des défauts sur les fonctionnalités des logiciels et applications
             </p>
             <div class="iconWrap">
               <img src="/images/service/QA6.png" alt="">
