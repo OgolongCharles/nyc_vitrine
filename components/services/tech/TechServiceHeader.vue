@@ -4,7 +4,7 @@
       <div class="row">
         <div class="col-lg-12 text-center">
           <h4 class="sub_title">Bienvenue sur NYNECORP - Agence de développement IT - QA - DIGITALE</h4>
-          <h2 class="sec_title">{{$t("ECHNOLOGIES")}}</h2>
+          <h2 class="sec_title">{{$t("TECHNOLOGIES")}}</h2>
           <p class="sec_desc">
 
           </p>
@@ -68,7 +68,9 @@
           <div class="icon_box_2 text-center">
             <h3>Audit </h3>
             <p>
+
              Afin de réaliser des audits internes efficients de votre système, nos équipes intègrent au cœur de leurs méthodologies les nouvelles technologies
+
             </p>
             <div class="iconWrap">
                 <img src="/images/service/tech5.png" alt="">

@@ -100,11 +100,11 @@
                   <div class="flipper">
                     <div class="front">
                       <img src="/images/service/NyneCorp-67.jpg" alt="">
-                      <h3>{{$t("ECHNOLOGIES")}}</h3>
+                      <h3>{{$t("TECHNOLOGIES")}}</h3>
                     </div>
                     <div class="back">
                       <img src="/images/service/NyneCorp-67.jpg" alt="">
-                      <h3>{{$t("ECHNOLOGIES")}}</h3>
+                      <h3>{{$t("TECHNOLOGIES")}}</h3>
                     </div>
                   </div>
                 </nuxt-link>

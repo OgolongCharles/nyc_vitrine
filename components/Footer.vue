@@ -7,7 +7,9 @@
           <aside class="widget aboutwidget">
             <a href="#"><img src="/images/foo_logo.png" alt=""></a>
             <p>
+
                {{$t("footerText")}}
+
             </p>
           </aside>
         </div>
@@ -64,7 +66,7 @@
       <div class="row">
         <div class="col-lg-12 col-sm-12 text-center">
           <div class="copyright">
-            © copyright 2020 par <a href="#">NKAP SARL</a>
+            © Copyright 2020 par <a href="#">NKAP SARL</a>
           </div>
         </div>
       </div>

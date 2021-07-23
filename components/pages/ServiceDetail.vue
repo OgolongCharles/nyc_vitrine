@@ -13,9 +13,9 @@
               <div class="col-lg-6 col-sm-12 col-md-6">
                 <img v-bind:src="image1" alt="">
               </div>
-            
+
             </div>
-         
+
           </div>
         </div>
         <div class="col-lg-4 col-sm-4 sidebar">
@@ -29,7 +29,7 @@
                       <li><nuxt-link to="/graphism-design">{{$t("DESIGN")}}</nuxt-link></li>
                       <li><nuxt-link to="/digital-marketing">{{$t("DIGITAL")}}</nuxt-link></li>
                       <li><nuxt-link to="/business">{{$t("BUSINESS")}}</nuxt-link></li>
-                      <li><nuxt-link to="/tech">{{$t("ECHNOLOGIES")}}</nuxt-link></li>
+                      <li><nuxt-link to="/tech">{{$t("TECHNOLOGIES")}}</nuxt-link></li>
               </ul>
             </div>
           </aside>

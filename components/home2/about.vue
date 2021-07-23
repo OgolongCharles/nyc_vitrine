@@ -2,8 +2,9 @@
     <section class="main">
         <div class="conatainer">
             <div class="row text-center">
-                 <h4 class="sec_title title-here text-center">Notre Histoire</h4>
+                 <h4 class="sec_title title-here text-center">{{ $t("our_history") }} </h4>
                 <div class="col-lg-6 col-sm-6 col-md-6">
+
                     <p class="text-justify">
                        NYNECORP est une société de prestations de services informatique créée 2017 en France.
                         Nous sommes domiciliés à Cergy au 3 rue des Châtaigniers.
@@ -12,6 +13,7 @@
                         Nous avons délivré plusieurs prestations de formations (En Automatisations de tests , MG725 , Gestion de projets , etc.) pour le Compte d’IB Cegos (1er formateur Français) via son partenaire TESSCO et pour PLB également.
                         Nous œuvrons énormément au Cameroun où nos prestations sont très diversifiées : Éditeur de site Web, Graphisme, Communication digitale, Formations, etc …
                      </p>
+
                 </div>
                 <div class="col-lg-6 col-sm-6 col-md-6">
                     <div class="ab_img1">
@@ -46,6 +48,7 @@ p{
 }
 img{
      margin: 50px;
+
 }
 @media(max-width:400px){
 .main{
@@ -58,5 +61,6 @@ img{
 p{
    margin: 10px;
 }
+
 }
 </style>

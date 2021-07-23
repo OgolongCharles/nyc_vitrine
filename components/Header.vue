@@ -26,7 +26,7 @@
                       <li><nuxt-link to="/graphism-design">{{$t("DESIGN")}}</nuxt-link></li>
                       <li><nuxt-link to="/digital-marketing">{{$t("DIGITAL")}}</nuxt-link></li>
                       <li><nuxt-link to="/business">{{$t("BUSINESS")}}</nuxt-link></li>
-                      <li><nuxt-link to="/tech">{{$t("ECHNOLOGIES")}}</nuxt-link></li>
+                      <li><nuxt-link to="/tech">{{$t("TECHNOLOGIES")}}</nuxt-link></li>
 
                     </ul>
                   </li>
@@ -104,7 +104,7 @@
                         <li class="closes"><nuxt-link :to="localePath('graphism-design')">{{$t("DESIGN")}}</nuxt-link></li>
                         <li class="closes"><nuxt-link :to="localePath('digital-marketing')">{{$t("DIGITAL")}}</nuxt-link></li>
                         <li class="closes"><nuxt-link :to="localePath('business')">{{$t("BUSINESS")}}</nuxt-link></li>
-                        <li class="closes"><nuxt-link :to="localePath('tech')">{{$t("ECHNOLOGIES")}}</nuxt-link></li>
+                        <li class="closes"><nuxt-link :to="localePath('tech')">{{$t("TECHNOLOGIES")}}</nuxt-link></li>
                       </ul>
                     </li>
 
@@ -125,17 +125,34 @@
           <div class="row">
             <div class="col-lg-6 col-sm-6 col-xs-12 text-left">
               <ul class="footer__contacts text-left">
-                <li>Phone: 666 888 000</li>
-                <li>Email: needhelp@meipaly.com</li>
-                <li>Address: 66 Broklyn Street, New York United States of America</li>
+                <li>Phone: +33 6 16 63 42 37</li>
+                <li>Email: info@nynecorp.org</li>
+                <li>Address: 3 rue des chataîgniers , 95800 ,CERGY</li>
               </ul>
             </div>
             <div class="col-lg-6 col-sm-6 col-xs-12 col-xs-12">
               <div class="popUp_social text-right">
                 <ul>
-                  <li><a href="#"><i class="fa fa-twitter"></i>Twitter</a></li>
-                  <li><a href="#"><i class="fa fa-facebook-square"></i>Facebook</a></li>
-                  <li><a href="#"><i class="fa fa-youtube-play"></i>Youtube</a></li>
+                  <li>
+                    <a href="https://twitter.com/NyneCorp" target="_blank">
+                      <i class="fa fa-twitter"></i>Twitter</a>
+                  </li>
+                  <li>
+                    <a href="https://www.facebook.com/nynecorp" target="_blank">
+                      <i class="fa fa-facebook-square"></i>Facebook</a>
+                  </li>
+                  <li>
+                    <a href="https://www.linkedin.com/company/nyne-corp" target="_blank">
+                      <i class="fa fa-linkedin-square"></i>LinkedIn</a>
+                  </li>
+                  <li>
+                    <a href="https://www.youtube.com/channel/UCgEIs7eD-ofr1aFlFhU0rJQ/?guided_help_flow=5" target="_blank">
+                      <i class="fa fa-youtube-play"></i>Youtube</a>
+                  </li>
+                  <li>
+                    <a href="https://www.instagram.com/nynecorps" target="_blank">
+                      <i class="fa fa-instagram"></i>Instagram</a>
+                  </li>
                 </ul>
               </div>
             </div>

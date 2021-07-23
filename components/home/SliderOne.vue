@@ -90,7 +90,7 @@
       <div class="item slider-one__slider-8" style="background-image: url(/images/slider/4884273.jpg);">
         <div class="container slider__content">
           <p class="slider-one__text"><br></p>
-          <div class="slider-one__title tp-caption tp-resizeme">{{$t("ECHNOLOGIES")}}<br></div>
+          <div class="slider-one__title tp-caption tp-resizeme">{{$t("TECHNOLOGIES")}}<br></div>
           <a href="/tech" class="common_btn"><span>Découvrir plus</span></a>
         </div>
         <!-- /.container -->
