@@ -27,12 +27,12 @@ export default {
 
     phoneNumber:"Numéro de téléphone",
       // testimo
-      testi:"Cela est dû à leur excellent service, à leurs prix compétitifs et à leur support client. C’est vraiment rafraîchissant d’avoir une telle touche personnelle.Il existe de nombreuses variantes de passages de disponibles, mais la majorité ont subi une altération sous une forme ou une autre par un bourdonnement injecté",
+      testi:"Cela est dû à leur excellent service, à leurs prix compétitifs et à leur support client. C’est vraiment rafraîchissant d’avoir une telle touche personnelle. Il existe de nombreuses variantes de passages disponibles, mais la majorité ont subi une altération sous une forme ou une autre par un bourdonnement injecté.",
     // nos services
     services: "Nos servces",
     //about agency section
     welcomeMessage: "Bienvenue à l'agence web smart NYNE CORP",
-    SecondMessage: "Nous nous engageons à fournir à nos clients un service exceptionnel tout en offrant à nos employés la meilleure formation.Nous vous accompagnons dans vos projets quelque soit l'endroit où vous vous trouvez et où nous nous trouvons.Nous allions , Professionnalisme , compétences et commerce équitable à moindre coûts.",
+    SecondMessage: "Nous nous engageons à fournir à nos clients un service exceptionnel tout en offrant à nos employés la meilleure formation. Nous vous accompagnons dans vos projets quelque soit l'endroit où vous vous trouvez et où nous nous trouvons. Nous allions , Professionnalisme, compétences et commerce équitable à moindre coûts.",
     thirdMessage: "Nous souhaitons devenir la meilleure agence Web au monde",
     //Buttons 1
     Buttons: "En savoir plus",
@@ -47,8 +47,9 @@ export default {
     fun3: "Clients NKAP",
     fun4: "Clients Satisfaits",
     funPro1: "Plus de 30 clients nous ont déjà fait confiance",
-    funPro2: "Avec près de 5 ans d'existence de nombreux clients ont fait appel à nos services. Pour leurs besoins, nos clients bénéficient d’une rigueur , d'un professionnalisme et d'une sécurisé, propice à la concentration dans leur coeur de métier. Quelques références de clients ayant fait appel à nos services se trouvent plus haut ",
-
+    funPro2: "Avec près de 5 ans d'existence de nombreux clients ont fait appel à nos services. Pour leurs besoins, nos clients bénéficient d’une rigueur, d'un professionnalisme et d'une sécurité propice à la concentration dans leur cœur de métier. Quelques références de clients ayant fait appel à nos services se trouvent plus haut. ",
+    //  footer
+    footerText:"Bienvenue dans notre agence de conseil informatique. Nous sommes principalement spécialisé en Software Testing. Nous vous accompagnons également sur toutes les problématiques de développement logiciel, Graphisme, Motion Design, Community Management, etc... Avec Nous, Le conseil et la mise en oeuvre de solutions informatiques est désormais à portée de main.",
     // team Zone
     Our: "Notre Equipe",
 

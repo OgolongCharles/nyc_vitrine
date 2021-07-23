@@ -27,7 +27,7 @@
           <div class="icon_box_2 text-center">
             <h3>Applications Mobiles</h3>
             <p>
-             Nkap dispose de toute l'expertise dont vous avez besoin pour développer les meilleurs Applications Mobiles sur endroide comme sur IOS
+             Nkap dispose de toute l'expertise dont vous avez besoin pour développer les meilleures Applications Mobiles sur androïde  comme sur IOS
             </p><br><br>
             <div class="iconWrap">
               <img src="/images/service/p2.png" alt="">
@@ -39,7 +39,7 @@
           <div class="icon_box_2 text-center">
             <h3>Applications De Bureau</h3>
             <p>
-            Nkap met à votre disposition des solutions multiples d'applications rapides et stables pour des clients specifiques
+            Nkap met à votre disposition des solutions multiples d'applications rapides et stables pour des clients spécifique
             </p><br><br>
             <div class="iconWrap">
                <img src="/images/service/p3.png" alt="">
@@ -54,7 +54,7 @@
           <div class="icon_box_2 text-center">
             <h3>Sites Web</h3>
             <p>
-           Nkap edite et intègre des solutions web pour entreprise de toutes taile (Site E-Commerce , Prestashop , Shopify)
+           Nkap édite et intègre des solutions web pour entreprise de toutes tailles (Site E-Commerce, Presta shop, Shopify)
             </p>
             <div class="iconWrap">
                <img src="/images/service/p4.png" alt="">
@@ -78,7 +78,7 @@
           <div class="icon_box_2 text-center">
             <h3>Site Web de Zéro </h3>
             <p>
-             Expert dans le dévelopement web ,nous partons de zero et concevons des sites élegant et performant pour les entreprises et particuliers
+             Expert dans le développement web ,nous partons de zéro et concevons des sites élégant et performant pour les entreprises et particuliers.
             </p>
             <div class="iconWrap">
               <img src="/images/service/p6.png" alt="">

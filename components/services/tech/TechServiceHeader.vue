@@ -56,7 +56,7 @@
           <div class="icon_box_2 text-center">
             <h3>Securite informatique</h3>
             <p>
-          Nos experts de la cybersécurité sont à votre écoute pour vous fournir des réponses immédiates et des formations afin de faire face aux menaces avancées et inconnues
+          Nos experts de la cyber sécurité sont à votre écoute pour vous fournir des réponses immédiates et des formations afin de faire face aux menaces avancées et inconnues
             </p>
             <div class="iconWrap">
                <img src="/images/service/tech3.png" alt="">
@@ -68,7 +68,9 @@
           <div class="icon_box_2 text-center">
             <h3>Audit </h3>
             <p>
-             Afin de réaliser des audits internes efficients de votre systéme, nos équipes intègrent au cœur de leurs méthodologies les nouvelles technologies
+
+             Afin de réaliser des audits internes efficients de votre système, nos équipes intègrent au cœur de leurs méthodologies les nouvelles technologies
+
             </p>
             <div class="iconWrap">
                 <img src="/images/service/tech5.png" alt="">

@@ -29,7 +29,8 @@ export default {
      Second:"Last Name",
 
      phoneNumber:"Phone Number",
-
+    //  Footer
+    footerText:"Welcome to our IT consulting agency. We are mainly specialized in Software Testing. We also support you on all issues of software development, Graphics, Motion Design, Community Management, etc ... With Us, the advice and implementation of IT solutions is now within reach.",
     // nos services
     services: "Our Services",
     //about agency section

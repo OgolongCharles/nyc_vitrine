@@ -6,7 +6,7 @@
           <h4 class="sub_title">Bienvenue sur NYNECORP - Agence de développement IT - QA - DIGITALE</h4>
           <h2 class="sec_title">{{$t("DIGITAL")}}</h2>
           <p class="sec_desc">
-           
+
           </p>
         </div>
       </div>
@@ -15,12 +15,12 @@
           <div class="icon_box_2 text-center">
             <h3>Community management</h3>
             <p>
-            La création, l’optimisation et le développement des réseaux sociaux nécessaires à votre marque 
+            La création, l’optimisation et le développement des réseaux sociaux nécessaires à votre marque
             </p>
             <div class="iconWrap">
-           
+
               <img src="/images/service/Mk1.png" alt="">
-           
+
             </div>
             <nuxt-link to="marketing/community">Lire Plus</nuxt-link>
           </div>
@@ -29,7 +29,7 @@
           <div class="icon_box_2 text-center">
             <h3>E-mail Marketing</h3>
             <p>
-            Nous générons des campagnes emailing à l’image de votre marque ou de votre entreprise. 
+            Nous générons des campagnes emailing à l’image de votre marque ou de votre entreprise.
             </p>
             <div class="iconWrap">
               <img src="/images/service/Mk2.png" alt="">
@@ -41,7 +41,7 @@
           <div class="icon_box_2 text-center">
             <h3>SEO</h3>
             <p>
-          Boostez votre visibilité de votre entreprise et de vos produits grâce au référencement naturel 
+          Boostez votre visibilité de votre entreprise et celle de vos produits grâce au référencement naturel
             </p>
             <div class="iconWrap">
                <img src="/images/service/Mk3.png" alt="">
@@ -56,7 +56,7 @@
           <div class="icon_box_2 text-center">
             <h3>Marketing de reseaux sociaux</h3>
             <p>
-Nous vous accompagnons dans l’usage de la publicité sociale de type Facebook Adds,les pratiques de newsjacking,le Marketing d’influence 
+Nous vous accompagnons dans l’usage de la publicité sociale de type Facebook Adds,les pratiques de newsjacking,le Marketing d’influence
             </p>
             <div class="iconWrap">
                <img src="/images/service/Mk4.png" alt="">
@@ -81,7 +81,7 @@ Nous vous accompagnons dans l’usage de la publicité sociale de type Facebook 
           <div class="icon_box_2 text-center">
             <h3>Conseil en strategie de marketing digital </h3>
             <p>
-            Les réseaux sociaux représentent un levier désormais incontournable pour viabiliser vos activités sur le web. 
+            Les réseaux sociaux représentent un levier désormais incontournable pour viabiliser vos activités sur le web.
             </p>
             <div class="iconWrap">
               <img src="/images/service/Mk6.png" alt="">

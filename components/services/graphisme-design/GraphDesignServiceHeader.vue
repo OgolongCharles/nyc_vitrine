@@ -6,7 +6,7 @@
           <h4 class="sub_title">Bienvenue sur NYNECORP - Agence de développement IT - QA - DIGITALE</h4>
           <h2 class="sec_title">{{$t("DESIGN")}}</h2>
           <p class="sec_desc">
-            
+
           </p>
         </div>
       </div>
@@ -15,12 +15,12 @@
           <div class="icon_box_2 text-center">
             <h3>Cartes de visite</h3>
             <p>
-          Les cartes de visite renforcent votre identité visuelle. Créez vos cartes de visite personnalisées 
+          Les cartes de visite renforcent votre identité visuelle. Créez vos cartes de visite personnalisées
             </p>
             <div class="iconWrap">
-           
+
               <img src="/images/service/g1.png" alt="">
-           
+
             </div>
             <nuxt-link to="graph/carte-visite">Lire Plus</nuxt-link>
           </div>
@@ -29,7 +29,7 @@
           <div class="icon_box_2 text-center">
             <h3>Conception logo </h3>
             <p>
-            Besoin d’un logo ? Avec Nkap Group obtenez un logo unique qui correspond à votre identité. 
+            Besoin d’un logo ? Avec Nkap Group obtenez un logo unique qui correspond à votre identité.
             </p>
             <div class="iconWrap">
               <img src="/images/service/g2.jpg" alt="">
@@ -41,7 +41,7 @@
           <div class="icon_box_2 text-center">
             <h3>Charte graphique </h3>
             <p>
-         La charte graphique est l’ADN de votre entreprise visuelle. . Elle garantit votre identité visuelle 
+         La charte graphique est l’ADN de votre entreprise visuelle. Elle garantit votre identité visuelle
             </p>
             <div class="iconWrap">
                <img src="/images/service/g3.png" alt="">
@@ -80,7 +80,7 @@
           <div class="icon_box_2 text-center">
             <h3>Vidéo animée </h3>
             <p>
-            Elles permettent de relayer sur son site des informations complexes de façon très simple 
+            Elles permettent de relayer sur son site des informations complexes de façon très simple
             </p>
             <div class="iconWrap">
               <img src="/images/service/g6.jpg" alt="">

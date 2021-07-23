@@ -7,7 +7,9 @@
           <aside class="widget aboutwidget">
             <a href="#"><img src="/images/foo_logo.png" alt=""></a>
             <p>
-              {{ $t("talk6") }}
+
+               {{$t("footerText")}}
+
             </p>
           </aside>
         </div>
